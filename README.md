@@ -7,7 +7,7 @@ A curated list of awesome Delphi frameworks, libraries, resources, and shiny thi
 	- [Network](#network)
 	- [GUI](#gui)
 	- [Database](#database)
-	- [Non-visual Classes/Utils](#non-visual-classesuils)
+	- [Non-visual Classes/Utils](#non-visual-classesutils)
 	- [Other](#other)
 
 ## General Libraries
@@ -52,6 +52,8 @@ A curated list of awesome Delphi frameworks, libraries, resources, and shiny thi
 * [HtmlViewer](http://github.com/BerndGabriel/HtmlViewer) - The well-known Delphi/Lazarus HtmlViewer/FrameViewer.
 // *Html visualiser supporting majority of tags, inline styles and CSS.*
 
+* [SynEdit](http://sourceforge.net/projects/synedit) is a syntax highlighting edit control, not based on the Windows common controls. SynEdit is compatible with both Delphi and Kylix
+
 * [Cindy components](http://sourceforge.net/projects/tcycomponents) - Packages with 71 components: VCL controls (labels, buttons, panels, Edits, TabControls, StaticText) with features like background gradient, colored bevels, wallpaper, shadowText, caption orientation etc...
 
 * [Delphi Chromium Embedded](https://code.google.com/p/delphichromiumembedded) - Embedding Chromium in Delphi, tested on Delphi 2010, XE, XE2, Delphi 7.
@@ -59,6 +61,8 @@ A curated list of awesome Delphi frameworks, libraries, resources, and shiny thi
 ## Database
 
 * [ZeosLib](http://sourceforge.net/projects/zeoslib) - set of database components for MySQL, PostgreSQL, Interbase, Firebird, MS SQL, Sybase, Oracle and SQLite.
+
+* [Unified Interbase](http://sourceforge.net/projects/uib) is a set of components to use Interbase, FireBird and YAFFIL. These components were born from the need to use Interbase, FireBird or Yaffil indifferently as fast as possible in a Multithreading environment, a Server for example.
 
 ## Non-visual Classes/Utils
 
