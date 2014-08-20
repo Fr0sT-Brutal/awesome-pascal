@@ -7,7 +7,7 @@ A curated list of awesome Delphi frameworks, libraries, resources, and shiny thi
 	- [Network](#network)
 	- [GUI](#gui)
 	- [Database](#database)
-	- [Non-visual Classes/Utils](#non-visual-classes-utils)
+	- [Non-visual Classes/Utils](#non-visual-classesuils)
 	- [Other](#other)
 
 ## General Libraries
