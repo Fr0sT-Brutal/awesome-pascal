@@ -46,7 +46,7 @@ A curated list of awesome Delphi frameworks, libraries, resources, and shiny thi
 * [Internet Component Suite](http://www.overbyte.be/frame_index.html) - asynchronous-based library composed of various Internet components and applications. Clients/servers for TCP, UDP, raw sockets, FTP, SMTP, POP3, NNTP, HTTP, Telnet and more. Supports SSL and TLS with the help of OpenSSL. Also includes Mime Decoder, SHA1/MD4/MD5 hashes, DES encryption.
 
 * [Indy](https://code.google.com/p/indyproject) components for Delphi, C++Builder, Delphi.NET, and FreePascal
-// All-in-one network library based on blocking sockets and threads. Included in default RAD studio installation since 2006.
+// *All-in-one network library based on blocking sockets and threads. Included in default RAD studio installation since 2006.*
 
 ## GUI
 *Visual components*
@@ -83,16 +83,16 @@ A curated list of awesome Delphi frameworks, libraries, resources, and shiny thi
 * [DWScript](https://code.google.com/p/dwscript) is an object-oriented scripting engine for Delphi based on the Delphi language, with extensions borrowed from other Pascal languages (FreePascal, Prism, etc.). It introduces a few Pascal language extensions of its own as well.
 
 * [Delphi-Javascript](https://code.google.com/p/delphi-javascript) Javascript engine for delphi based on spidermonkey.
-// DLL required
+// *DLL required*
 
 ## System
 *Low-level helper stuff: memory, threading etc*
 
 * [FastMM](http://sourceforge.net/projects/fastmm) - is a lightning fast replacement memory manager for Embarcadero Delphi Win32 and Win64 applications that is not prone to memory fragmentation, and supports shared memory without the use of external .DLL files.
-// Used as stock memory manager since 2006 but in simplified version. Provides powerful memory leak/corruption detection instruments.
+// *Used as stock memory manager since 2006 but in simplified version. Provides powerful memory leak/corruption detection instruments.*
 
 * [OmniThreadLibrary](https://code.google.com/p/omnithreadlibrary) is a simple to use threading library for Delphi.
-// Easy integration of async processes in your app
+// *Easy integration of async processes in your app*
 
 * [ScaleMM](https://code.google.com/p/scalemm) - Fast scaling memory manager for Delphi
 
@@ -104,4 +104,4 @@ A curated list of awesome Delphi frameworks, libraries, resources, and shiny thi
 *Useful dev tools/IDE plugins*
 
 * [Lazy Delphi Builder](https://bitbucket.org/tdelphi/lazy-delphi-builder-downloads/downloads) - build tool for Delphi. Recompile projects/packages from sources with all dependencies, without need to mess around with configs. Quickly (re-)install components from sources into IDE, with no need to change your Library Path.
-// Freeware but not open source
+// *Freeware but not open source*
