@@ -8,7 +8,10 @@ A curated list of awesome Delphi frameworks, libraries, resources, and shiny thi
 	- [GUI](#gui)
 	- [Database](#database)
 	- [Non-visual Classes/Utils](#non-visual-classesutils)
+	- [Scripting](#scripting)
+	- [System](#system)
 	- [Other](#other)
+	- [Utilities](#utilities)
 
 ## General Libraries
 *Big general-purpose libraries*
@@ -27,6 +30,8 @@ A curated list of awesome Delphi frameworks, libraries, resources, and shiny thi
 * [New Audio Components (NewAC)](http://code.google.com/p/newac) designed to help your Delphi programs perform different sound processing tasks. With NewAC you can play audio stored in many formats (wav, Ogg Vorbis, FLAC, Monkey Audio, WavPack, MP3, Windows WMA, DTS, AC-3 (Dobly Surround), VOB (DVD files)).
 // *Playback, recording, tag read/write, some audio editing tasks and conversions*
 
+* [DSPack](https://code.google.com/p/dspack) is a set of Components and class to write Multimedia Applications using MS Direct Show and DirectX technologies.
+
 * [Graphics32](http://sourceforge.net/projects/graphics32) designed for fast 32-bit graphics handling on Delphi, Kylix and Lazarus. Optimized for 32-bit pixel formats, it provides fast operations with pixels and graphic primitives, and in most cases Graphics32 outperforms the standard TCanvas classes. It is almost a hundred times faster in per-pixel access and about 2–5 times faster in drawing lines.
 
 * [GraphicEx](http://www.delphi-gems.com/index.php/libs/graphicex-library) is an addendum to Delphi's Graphics.pas to enable your application to load many common image formats. This library is primarily designed to load images as background (buttons, forms, toolbars) and textures (DirectX, OpenGL) or for image browsing and editing purposes as long as you don't need to save images.
@@ -39,6 +44,9 @@ A curated list of awesome Delphi frameworks, libraries, resources, and shiny thi
 *Socket communication, network protocols, encodings, etc*
 
 * [Internet Component Suite](http://www.overbyte.be/frame_index.html) - asynchronous-based library composed of various Internet components and applications. Clients/servers for TCP, UDP, raw sockets, FTP, SMTP, POP3, NNTP, HTTP, Telnet and more. Supports SSL and TLS with the help of OpenSSL. Also includes Mime Decoder, SHA1/MD4/MD5 hashes, DES encryption.
+
+* [Indy](https://code.google.com/p/indyproject) components for Delphi, C++Builder, Delphi.NET, and FreePascal
+// All-in-one network library based on blocking sockets and threads. Included in default RAD studio installation since 2006.
 
 ## GUI
 *Visual components*
@@ -68,8 +76,32 @@ A curated list of awesome Delphi frameworks, libraries, resources, and shiny thi
 
 * [TRegExpr](http://regexpstudio.com/TRegExpr/TRegExpr.html) - Easy to use and powerful tool for sophisticated search and substitutioning and for template-based text input check.
 
-## Other
-
-* [FastMM](http://sourceforge.net/projects/fastmm) - is a lightning fast replacement memory manager for Embarcadero Delphi Win32 and Win64 applications that is not prone to memory fragmentation, and supports shared memory without the use of external .DLL files.
+## Scripting
 
 * [Pascal Script](https://github.com/remobjects/pascalscript) - Pascal Script is a free scripting engine that allows you to use most of the Object Pascal language within your Delphi or Free Pascal projects at runtime. Written completely in Delphi, it is composed of a set of units that can be compiled into your executable, eliminating the need to distribute any external files. Pascal Script started out as a need for a good working script, when there were none available at the time.
+
+* [DWScript](https://code.google.com/p/dwscript) is an object-oriented scripting engine for Delphi based on the Delphi language, with extensions borrowed from other Pascal languages (FreePascal, Prism, etc.). It introduces a few Pascal language extensions of its own as well.
+
+* [Delphi-Javascript](https://code.google.com/p/delphi-javascript) Javascript engine for delphi based on spidermonkey.
+// DLL required
+
+## System
+*Low-level helper stuff: memory, threading etc*
+
+* [FastMM](http://sourceforge.net/projects/fastmm) - is a lightning fast replacement memory manager for Embarcadero Delphi Win32 and Win64 applications that is not prone to memory fragmentation, and supports shared memory without the use of external .DLL files.
+// Used as stock memory manager since 2006 but in simplified version. Provides powerful memory leak/corruption detection instruments.
+
+* [OmniThreadLibrary](https://code.google.com/p/omnithreadlibrary) is a simple to use threading library for Delphi.
+// Easy integration of async processes in your app
+
+* [ScaleMM](https://code.google.com/p/scalemm) - Fast scaling memory manager for Delphi
+
+## Other
+
+* [GMLib](https://code.google.com/p/gmlibrary) (Google Maps Library) are components for Delphi/C++ Builder that encapsulate the GoogleMaps API to administrate a map, markers, polygons, rectangles, polylines,... All objects that you can put into a map.
+
+## Utilities
+*Useful dev tools/IDE plugins*
+
+* [Lazy Delphi Builder](https://bitbucket.org/tdelphi/lazy-delphi-builder-downloads/downloads) - build tool for Delphi. Recompile projects/packages from sources with all dependencies, without need to mess around with configs. Quickly (re-)install components from sources into IDE, with no need to change your Library Path.
+// Freeware but not open source
