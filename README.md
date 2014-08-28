@@ -104,6 +104,15 @@ A curated list of awesome Delphi frameworks, libraries, resources, and shiny thi
 *Useful dev tools/IDE plugins*
 
 * [Lazy Delphi Builder](https://bitbucket.org/tdelphi/lazy-delphi-builder-downloads/downloads) - build tool for Delphi. Recompile projects/packages from sources with all dependencies, without need to mess around with configs. Quickly (re-)install components from sources into IDE, with no need to change your Library Path.
-// *Freeware but not open source*
+// *Powerful automating tool. Freeware but not open source*
 
 * [Delphi IDE theme editor / Delphi IDE Colorizer](https://code.google.com/p/delphi-ide-theme-editor). The Delphi IDE Theme Editor (DITE) is a tool to change the IDE color highlighting of several Object Pascal IDE's like Delphi (RAD Studio), Appmethod, Lazarus  and Smart Mobile Studio. DITE supports Delphi 5-7, 2005-2010, XE-XE6, Appmethod 1.13-1.14, Lazarus v1.0.1.3 and Smart Mobile Studio IDE v1.1.2.17. The Delphi IDE Colorizer (DIC) is a plugin which allows to customize the look and feel of the workspace of the RAD Studio IDE and Appmethod.
+
+* [DDevExtensions](http://andy.jgknet.de/blog/ide-tools/ddevextensions) extends the Delphi/C++Builder IDE by adding some new productivity features
+// *Many useful IDE tweaks, must have.*
+
+* [VCL Fix Pack](http://andy.jgknet.de/blog/bugfix-units/vclfixpack-10) is a Delphi unit that fixes VCL and RTL bugs at runtime by patching the original functions. If you want all IDE Fix Pack fixes in your application this unit is what you are looking for. Adding the unit to your project (Delphi and C++Builder) automatically installs the patches that are available for your Delphi/C++Builder version.
+// *Actual for Delphi/C++ 6..2009*
+
+* [IDE Fix Pack](http://andy.jgknet.de/blog/ide-tools/ide-fix-pack) is a collection of unofficial bug fixes and performance optimizations for the RAD Studio IDE, Win32/Win64 compiler and Win32 debugger. IDE Fix Pack is an IDE plugin for RAD Studio 2009-XE6 that fixes IDE bugs at runtime. All changes are done in memory. No files on disk are modified. None of your projects are modified or benefit from the IDE Fix Pack other than being compiled faster. Only the IDE gets the fixes and optimizations.
+// *Supports all RAD Studio versions since 2007. Removes lots of annoying bugs that EBMT haven't fixed for years. Yay!*
