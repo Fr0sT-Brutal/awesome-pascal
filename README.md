@@ -4,6 +4,9 @@ A curated list of awesome Delphi frameworks, libraries, resources, and shiny thi
 - [Awesome Delphi](#awesome-delphi)
 	- [General Libraries](#general-libraries)
 	- [Multimedia](#multimedia)
+		- [Audio](#audio)
+		- [Video](#video)
+		- [Graphic](#graphic)
 	- [Network](#network)
 	- [GUI](#gui)
 	- [Database](#database)
@@ -23,14 +26,19 @@ A curated list of awesome Delphi frameworks, libraries, resources, and shiny thi
 // *Network: FTP/Http/NNTP/POP3/SMTP Client, DB: Firebird/MySQL/SQLite3/Memcached/MongoDb client, Xml/Json Parser, Other: encryption, Self-Balancing Binary Trees*
 
 ## Multimedia
-*Audio, video, graphic*
+
+## Audio
 
 * [Audio Tools Library](http://mac.sourceforge.net/atl) - for manipulating with many audio formats file information. Abandoned since 2005.
 
-* [New Audio Components (NewAC)](http://code.google.com/p/newac) designed to help your Delphi programs perform different sound processing tasks. With NewAC you can play audio stored in many formats (wav, Ogg Vorbis, FLAC, Monkey Audio, WavPack, MP3, Windows WMA, DTS, AC-3 (Dobly Surround), VOB (DVD files)).
+* [NewAC — New Audio Components](http://code.google.com/p/newac) designed to help your Delphi programs perform different sound processing tasks. With NewAC you can play audio stored in many formats (wav, Ogg Vorbis, FLAC, Monkey Audio, WavPack, MP3, Windows WMA, DTS, AC-3 (Dobly Surround), VOB (DVD files)).
 // *Playback, recording, tag read/write, some audio editing tasks and conversions*
 
+## Video
+
 * [DSPack](https://code.google.com/p/dspack) is a set of Components and class to write Multimedia Applications using MS Direct Show and DirectX technologies.
+
+## Graphic
 
 * [Graphics32](http://sourceforge.net/projects/graphics32) designed for fast 32-bit graphics handling on Delphi, Kylix and Lazarus. Optimized for 32-bit pixel formats, it provides fast operations with pixels and graphic primitives, and in most cases Graphics32 outperforms the standard TCanvas classes. It is almost a hundred times faster in per-pixel access and about 2â€“5 times faster in drawing lines.
 
@@ -76,6 +84,8 @@ A curated list of awesome Delphi frameworks, libraries, resources, and shiny thi
 
 * [TRegExpr](http://regexpstudio.com/TRegExpr/TRegExpr.html) - Easy to use and powerful tool for sophisticated search and substitutioning and for template-based text input check.
 
+* [FWZip](https://github.com/AlexanderBagel/FWZip) - work with Zip archives using Store and Deflate methods, supports ZIP64, DataDescryptors, PKWARE encryption, NTFS attributes, Utf8 in filenames.
+
 ## Scripting
 
 * [Pascal Script](https://github.com/remobjects/pascalscript) - Pascal Script is a free scripting engine that allows you to use most of the Object Pascal language within your Delphi or Free Pascal projects at runtime. Written completely in Delphi, it is composed of a set of units that can be compiled into your executable, eliminating the need to distribute any external files. Pascal Script started out as a need for a good working script, when there were none available at the time.
@@ -116,3 +126,7 @@ A curated list of awesome Delphi frameworks, libraries, resources, and shiny thi
 
 * [IDE Fix Pack](http://andy.jgknet.de/blog/ide-tools/ide-fix-pack) is a collection of unofficial bug fixes and performance optimizations for the RAD Studio IDE, Win32/Win64 compiler and Win32 debugger. IDE Fix Pack is an IDE plugin for RAD Studio 2009-XE6 that fixes IDE bugs at runtime. All changes are done in memory. No files on disk are modified. None of your projects are modified or benefit from the IDE Fix Pack other than being compiled faster. Only the IDE gets the fixes and optimizations.
 // *Supports all RAD Studio versions since 2007. Removes lots of annoying bugs that EBMT haven't fixed for years. Yay!*
+
+* [GExperts](https://sourceforge.net/projects/gexperts) is a free set of tools built to increase the productivity of Delphi and C++Builder programmers by adding several features to the IDE. GExperts is developed as Open Source software and we encourage user contributions to the project. Grep search and replace supporting unicode files, DFMs, etc; Automatically rename components, insert text macros, open recent files; Easily backup your projects, with custom additional file lists; Keep nested lists of favorite files for quick access; Track dependencies between units in your project; Quickly jump to any procedure in the current unit; And much, much more...
+
+* [CnWizards](https://github.com/cnpack) is a Free Plug-in Tool Set for Delphi/C++ Builder/CodeGear RAD Studio to Improve Development Efficiency.
