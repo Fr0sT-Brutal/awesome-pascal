@@ -10,6 +10,7 @@ A curated list of awesome Delphi frameworks, libraries, resources, and shiny thi
 		- [Graphic](#graphic)
 	- [Communications](#communications)
 		- [Network](#network)
+		- [Serial port](#serial-port)
 	- [GUI](#gui)
 		- [Control packs](#control-packs)
 		- [Single controls](#single-controls)
@@ -76,7 +77,7 @@ A curated list of awesome Delphi frameworks, libraries, resources, and shiny thi
 * [Ararat Synapse](https://sourceforge.net/p/synalist) - Pascal TCP/IP Library for Dephi, C++Builder, Kylix and FreePascal. Deals with network communication by means of blocking (synchronous) sockets or with limited non-blocking mode. This project not using asynchronous sockets! The Project contains simple low level non-visual objects for easiest programming without problems. (no required multithread synchronisation, no need for windows message processing,…) Great for command line utilities, visual projects, NT services,…
 // *TCP, UDP, ICMP, RAW; ICMP, DNS, SMTP, HTTP, SNMP, NTP, FTP, LDAP, NNTP, Telnet;  IPv6; SOCKS proxy; SSL/TLS (via OpenSSL or Windows CryptoApi); PING; character code transcoding; MIME coding and decoding; CRC16, CRC32, MD5 and HMAC-MD5.*
 
-## Serial port communications
+## Serial port
 
 * [Synaser](http://sourceforge.net/p/synalist/code/HEAD/tree/trunk/synaser.pas) is library for blocking communication on serial ports. It is non-visual class as in Synapse, and programmer interface is very similar to Synapse.
 
@@ -184,7 +185,6 @@ C++Builder. It contains over 120 components covering everything from data entry 
 
 * [OnGuard](http://sourceforge.net/projects/tponguard) is a library to create demo versions of your Borland Delphi & C++Builder applications. Create demo versions that are time-limited, feature-limited, limited to a certain number of uses, or limited to a certain # of concurrent network users.
 
-* [Light VCL](https://github.com/synopse/LVCL) as its name states, is a "light" version of the VCL Delphi library. It's compatible with DFM forms: just extract in some directory, put this LVCL directory in your Project/Options/Path/SearchPath directory list (to override standard Borland library), and your .EXE will shrink from 300KB to 30KB... Perfect for some programs (installation, server, background tool...)
 
 ## Utilities
 *Useful dev tools/IDE plugins*
