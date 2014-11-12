@@ -1,6 +1,8 @@
 ﻿# Awesome Delphi
 A curated list of awesome Delphi frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
+
 **Note that only open-source projects are considered. Dead projects are mainly ignored except for those which do not have alive analogs.**
+Feel free to suggest other missing nice projects either by comments or pull requests.
 
 - [Awesome Delphi](#awesome-delphi)
 	- [General Libraries](#general-libraries)
@@ -23,6 +25,7 @@ A curated list of awesome Delphi frameworks, libraries, resources, and shiny thi
 		- [XML](#xml)
 		- [System](#system)
 		- [Other non-visual](#other-non-visual)
+	- [OS](#os)
 	- [Utilities](#utilities)
 
 
@@ -38,6 +41,8 @@ A curated list of awesome Delphi frameworks, libraries, resources, and shiny thi
 * [Fundamentals Code Library](http://sourceforge.net/projects/fundementals). Collection of Delphi / FreePascal code units. Includes libraries for Unicode, Strings, Data Structures, Sockets and Mathematics.
 // *Utils: ZLIB compression; JSON; XML; ProtocolBuffers; Hashes: XOR, CRC, Adler, MD5, SHA, secure keyed MD5/SHA, etc; Network: blocking TCP client/server, HTTP(S) via SSL3/TLS1.0/TLS1.1/TLS1.2 (fully native); SQL parser; BitCoin MtGox client; Blaise script engine; Cipher: AES, DES, FUNE, RC2/4, RSA; Maths: matrix, complex, statistics*
 
+* [Spring4D](https://bitbucket.org/sglienke/spring4d) is an open-source code library for Embarcadero Delphi 2010 and higher. It consists of a number of different modules that contain a base class library (common types, interface based collection types, reflection extensions) and a dependency injection framework. Includes Encryption Library.
+// *Collections and other containers using Generics and based on IEnumerable, probably more accurate and featured than RTL analogs; crypto: CRC, DES, MD5, SHA; file utils etc*
 
 ## Multimedia
 
@@ -55,13 +60,15 @@ A curated list of awesome Delphi frameworks, libraries, resources, and shiny thi
 
 ## Graphic
 
-* [Graphics32](http://sourceforge.net/projects/graphics32) designed for fast 32-bit graphics handling on Delphi, Kylix and Lazarus. Optimized for 32-bit pixel formats, it provides fast operations with pixels and graphic primitives, and in most cases Graphics32 outperforms the standard TCanvas classes. It is almost a hundred times faster in per-pixel access and about 2вЂ“5 times faster in drawing lines.
+* [Graphics32](http://sourceforge.net/projects/graphics32) designed for fast 32-bit graphics handling on Delphi, Kylix and Lazarus. Optimized for 32-bit pixel formats, it provides fast operations with pixels and graphic primitives, and in most cases Graphics32 outperforms the standard TCanvas classes. It is almost a hundred times faster in per-pixel access and about 2—5 times faster in drawing lines.
 
 * [GraphicEx](http://www.delphi-gems.com/index.php/libs/graphicex-library) is an addendum to Delphi's Graphics.pas to enable your application to load many common image formats. This library is primarily designed to load images as background (buttons, forms, toolbars) and textures (DirectX, OpenGL) or for image browsing and editing purposes as long as you don't need to save images.
 
 * [Vampyre Imaging Library](http://imaginglib.sourceforge.net) - cross-platform native Object Pascal (Delphi and Free Pascal) image loading, saving, and manipulation library.
 
 * [CCR-EXIF](http://ccr-exif.googlecode.com) - library to read and write Exif, IPTC and XMP metadata from JPEG, TIFF and PSD images.
+
+* [KIcon](http://www.tkweb.eu/en/delphicomp/kicon.html). This component makes sense if a more complex manipulation with icons (or better icon files *.ico) than just viewing is needed. Full PNG icon image support, Correct rendering, icons with alpha channel.
 
 
 ## Communications
@@ -77,12 +84,15 @@ A curated list of awesome Delphi frameworks, libraries, resources, and shiny thi
 * [Ararat Synapse](https://sourceforge.net/p/synalist) - Pascal TCP/IP Library for Dephi, C++Builder, Kylix and FreePascal. Deals with network communication by means of blocking (synchronous) sockets or with limited non-blocking mode. This project not using asynchronous sockets! The Project contains simple low level non-visual objects for easiest programming without problems. (no required multithread synchronisation, no need for windows message processing,…) Great for command line utilities, visual projects, NT services,…
 // *TCP, UDP, ICMP, RAW; ICMP, DNS, SMTP, HTTP, SNMP, NTP, FTP, LDAP, NNTP, Telnet;  IPv6; SOCKS proxy; SSL/TLS (via OpenSSL or Windows CryptoApi); PING; character code transcoding; MIME coding and decoding; CRC16, CRC32, MD5 and HMAC-MD5.*
 
+* [Internet Professional](http://sourceforge.net/projects/tpipro2010) is a set of VCL components providing Internet connectivity for Borland Delphi & C++Builder. iPRO includes POP3, SMTP, NNTP, FTP, HTTP, Instant Messaging, & HTML viewer components, as well as components for low-level socket access.
+// *Seems abandoned but contains pretty large set of features incl ICMP, POP, SMTP, HTTP, NNTP, NTP, FTP, SMTP; HTML parser and viewer; MIME utils; cookies, certificates, caching, encryption etc*
+
 ## Serial port
 
 * [Synaser](http://sourceforge.net/p/synalist/code/HEAD/tree/trunk/synaser.pas) is library for blocking communication on serial ports. It is non-visual class as in Synapse, and programmer interface is very similar to Synapse.
 
 * [Async Professional](http://sourceforge.net/projects/tpapro) is a comprehensive communications toolkit for Embarcadero Delphi, C++Builder, & ActiveX environments. It provides direct access to serial ports, TAPI and the Microsoft Speech API (TTS/Speech recognition). It supports faxing, terminal emulation, VOIP, RAS dial & more.
-// Seems outdated (last update in 2011) but adapted to XE and should be easy to use in newer versions. The project is also very thoroughly documented.
+// *Seems outdated (last update in 2011) but adapted to XE and should be easy to use in newer versions. The project is also very thoroughly documented. Check out [this](http://www.songbeamer.com/delphi) page as well for probably newer version.*
 
 
 ## GUI
@@ -93,9 +103,13 @@ A curated list of awesome Delphi frameworks, libraries, resources, and shiny thi
 
 * [Cindy components](http://sourceforge.net/projects/tcycomponents) - Packages with 71 components: VCL controls (labels, buttons, panels, Edits, TabControls, StaticText) with features like background gradient, colored bevels, wallpaper, shadowText, caption orientation etc...
 
-* [Orpheus](http://sourceforge.net/projects/tporpheus) is an award-winning UI toolkit for Borland Delphi &
-C++Builder. It contains over 120 components covering everything from data entry to calendars and clocks. Other noteworthy components include an Object Inspector, LookOut bar & report views.
-// *Advanced edits, comboboxes, grids + component (de)serializers. GUI components look rather old-style, theme support might be limited. Package contains many demos but no docs seem available.*
+* [Orpheus](http://sourceforge.net/projects/tporpheus) is an award-winning UI toolkit for Borland Delphi & C++Builder. It contains over 120 components covering everything from data entry to calendars and clocks. Other noteworthy components include an Object Inspector, LookOut bar & report views.
+// *Advanced edits, comboboxes, grids + component (de)serializers. GUI components look rather old-style, theme support might be limited. Package contains many demos but no docs seem available. Check out [this](http://www.songbeamer.com/delphi) page as well for probably newer version.*
+
+* [KControls](http://www.tkweb.eu/en/delphicomp/kcontrols.html) is a freeware distribution, a flagship of tkweb. It contains all of my published components for Delphi and Lazarus. All controls have been written with the aim to become both cross-IDE compatible (Delphi/C++Builder VCL and Lazarus LCL) and cross-platform compatible in Lazarus.
+// *Most useful are TKGrid with its DB-aware heritage TKDBGrid — a very full-featured grid implementation incl. inplace editors. There's also hex editor, print preview, editors, labels, buttons etc.*
+
+* [iOS/Android native components](http://torry.net/authorsmore.php?id=7670). D.P.F Delphi iOS Native Components, 100% iOS Performance and styles. Develop iPhone & iPad & iPod Touch applications with fast native performance and native styles. Use native Android controls and services. Fast native performance. Mixed with FM VCL controls. Can be quick updated with latest Android controls & features.
 
 ## Single controls
 
@@ -116,11 +130,16 @@ C++Builder. It contains over 120 components covering everything from data entry 
 * [ATViewer](https://sourceforge.net/projects/atviewer) - Delphi components to view various file types: text, binary, images, multimedia, webpages, etc.
 // *Used in Universal Viewer software. Could be used to display hex dumps, features fast display of unlimited size files/streams. Supports Total Commander Lister plugins.*
 
-* [ATImageMap](http://sourceforge.net/projects/atviewer/files/ATImageMap/) is a component designed to show many images (parts of the whole image) as a single map. For example, you may have array of images, 200 by X, and 100 by Y - control will show them as a single map. Component also allows to draw paths: each path consists of many lines, points, and icons.
+* [ATImageMap](http://sourceforge.net/projects/atviewer/files/ATImageMap) is a component designed to show many images (parts of the whole image) as a single map. For example, you may have array of images, 200 by X, and 100 by Y - control will show them as a single map. Component also allows to draw paths: each path consists of many lines, points, and icons.
+
+* [TChromeTabs](http://code.google.com/p/delphi-chrome-tabs) is a comprehensive implementation of Google Chrome's tabs for Delph7 - Delphi XE7
 
 ## Other GUI
 
 * [GMLib](https://code.google.com/p/gmlibrary) (Google Maps Library) are components for Delphi/C++ Builder that encapsulate the GoogleMaps API to administrate a map, markers, polygons, rectangles, polylines,... All objects that you can put into a map.
+
+* [VCL Styles Utils](https://code.google.com/p/vcl-styles-utils) is a collection of classes and style hooks, which extend, fix QC reports and add new features to the VCL Styles.
+// *Collection of patches/enhancements that promote stock VCL style engine to a new level. Styling for Inno setup and NSIS also available.*
 
 
 ## Database
@@ -131,9 +150,11 @@ C++Builder. It contains over 120 components covering everything from data entry 
 
 * [ASQLite](https://github.com/remobjects/ASQLite3). This is the Delphi SQLite set of DAC components from aducom software, based on their latest release for Delphi 2009, and updated to support newer editions of Delphi as included in RemObjects Data Abstract for Delphi.
 
+* [TxQuery](https://github.com/ccy/txquery) component is a TDataSet descendant component that can be used to query one or more TDataSet descendant components using SQL statements. It is implemented in Delphi 100% source code, no DLL required, because it implements its own SQL syntax parser and SQL engine.
+
 
 ## Scripting
-*Add script engine to your applications*
+*Using script engine in your applications*
 
 * [Pascal Script](https://github.com/remobjects/pascalscript) - Pascal Script is a free scripting engine that allows you to use most of the Object Pascal language within your Delphi or Free Pascal projects at runtime. Written completely in Delphi, it is composed of a set of units that can be compiled into your executable, eliminating the need to distribute any external files. Pascal Script started out as a need for a good working script, when there were none available at the time.
 
@@ -160,13 +181,19 @@ C++Builder. It contains over 120 components covering everything from data entry 
 // *No updates since 2010 but features list so huge that it couldn't be ignored*
 
 * [LockBox](http://sourceforge.net/projects/tplockbox) is a Delphi library for cryptography. Currently supported Delphi XE6. It provides support for AES, DES, 3DES, Blowfish, Twofish, SHA2 (including the new SHA-512/224 & SHA-512/256), MD5; ECB, CBC, CFB8, CFB, CTR, ECB, OFB, PCBC chaining modes, RSA digital signature and verification. Has interface to OpenSSL library.
+// *Check out [this](https://github.com/jarto/lockbox2) page as well for probably newer version.*
 
 ## XML
 
 * [OmniXML] (http://code.google.com/p/omnixml) is a XML parser written in Delphi. Full support for Document Object Model (DOM) Level 1 specification; Supports Extensible Markup Language (XML) 1.0 (Second Edition) specification; Has built-in support for different code pages (main 8-bit code pages, UTF-8, UTF-16); Is compatible with MS XML parser; Fast parsing even large and highly structured documents; Includes helper functions to ease processing XML documents; Simplified XPath support.
 
+* [SAX for Pascal](http://sourceforge.net/projects/saxforpascal) is designed to implement the Simple API for XML Parsing in Pascal/Delphi.
+// *Callback-based XML parser, useful for processing huge XML streams.*
 
+* [KDS XML](http://sourceforge.net/projects/kdsxml) is a class library for streamed parsing, validating and generating XML. It is written in Object Pascal/Delphi and works on Win32 (Delphi) and Linux (Kylix). Parts of it depend on the SAX for Pascal interface specifications.
 
+* [XML Partner](http://sourceforge.net/projects/tpxmlpartner) helps add the power of XML to Borland Delphi, C++ Builder, and Kylix projects through native, easy to use VCL and CLX components. These powerful components simplify the process of creating, modifying, and parsing XML data documents.
+// *Seems dead, check out [this](http://www.songbeamer.com/delphi) page for probably newer version.*
 
 ## System
 *Low-level helper stuff: memory, threading etc*
@@ -184,6 +211,14 @@ C++Builder. It contains over 120 components covering everything from data entry 
 * [TRegExpr](http://regexpstudio.com/TRegExpr/TRegExpr.html) - Easy to use and powerful tool for sophisticated search and substitutioning and for template-based text input check.
 
 * [OnGuard](http://sourceforge.net/projects/tponguard) is a library to create demo versions of your Borland Delphi & C++Builder applications. Create demo versions that are time-limited, feature-limited, limited to a certain number of uses, or limited to a certain # of concurrent network users.
+
+
+## OS
+*Tools that help dealing with OS-specific internals*
+
+* [GLibWMI](http://sourceforge.net/projects/glibwmi) is a Component Library for Delphi that encapsulate the classes for access to WMI of Windows in a set of VCL. BiosInfo, PrinterInfo, DiskInfo,... Allow access WMI Classes: WIN32_Bios, WIN32_Printers, WIN32_DiskDrive.
+
+* [MemoryMap](https://github.com/AlexanderBagel/ProcessMemoryMap/tree/master/MemoryMap). Set of classes to get all the info about a memory of a running process.
 
 
 ## Utilities
