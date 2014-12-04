@@ -51,6 +51,9 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 * [Audio Tools Library](http://mac.sourceforge.net/atl) - for manipulating with many audio formats file information.
 //**Abandoned since 2005.**
 
+* [Delphi ASIO & VST Project](http://sourceforge.net/projects/delphiasiovst) a framework for writing applications using the ASIO interface and VST plugins. It comes with countless DSP algorithms all demonstrated in dozens of examples.
+//*Not very active lately, but the trunk is in a usable state .*
+
 * [NewAC — New Audio Components](http://code.google.com/p/newac) designed to help your Delphi programs perform different sound processing tasks. With NewAC you can play audio stored in many formats (wav, Ogg Vorbis, FLAC, Monkey Audio, WavPack, MP3, Windows WMA, DTS, AC-3 (Dobly Surround), VOB (DVD files)).
 // *Playback, recording, tag read/write, some audio editing tasks and conversions*
 
