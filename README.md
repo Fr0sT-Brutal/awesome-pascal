@@ -32,7 +32,7 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 ## General Libraries
 *Big general-purpose libraries*
 
-* [JVCL](http://sourceforge.net/projects/jvc) - library of over 600 Delphi components developed by "Project JEDI" members.
+* [JVCL](http://sourceforge.net/projects/jvcl) - library of over 600 Delphi components developed by "Project JEDI" members.
 // *GUI, algorithms, classes etc.*
 
 * [Alcinoe](http://sourceforge.net/projects/alcinoe) - Compoments suite for Delphi.
@@ -43,6 +43,8 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 * [Spring4D](https://bitbucket.org/sglienke/spring4d) is an open-source code library for Embarcadero Delphi 2010 and higher. It consists of a number of different modules that contain a base class library (common types, interface based collection types, reflection extensions) and a dependency injection framework. Includes Encryption Library.
 // *Collections and other containers using Generics and based on IEnumerable, probably more accurate and featured than RTL analogs; crypto: CRC, DES, MD5, SHA; file utils etc*
+
+* [TheUnknownOnes](http://code.google.com/p/theunknownones). Huge heap of classes, components, utilities for almost every purpose. Nearly undocumented and seems not very up-to-date though.
 
 ## Multimedia
 
@@ -144,6 +146,7 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 * [VCL Styles Utils](https://code.google.com/p/vcl-styles-utils) is a collection of classes and style hooks, which extend, fix QC reports and add new features to the VCL Styles.
 // *Collection of patches/enhancements that promote stock VCL style engine to a new level. Styling for Inno setup and NSIS also available.*
 
+* [TaskbarListComponents](http://code.google.com/p/theunknownones) are a set of components designed as Delphi wrappers for the Windows 7 Taskbarlist Interfaces (e.g. ITaskbarlist3) // *Requires JVCL*
 
 ## Database
 
@@ -215,6 +218,7 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 * [OnGuard](http://sourceforge.net/projects/tponguard) is a library to create demo versions of your Borland Delphi & C++Builder applications. Create demo versions that are time-limited, feature-limited, limited to a certain number of uses, or limited to a certain # of concurrent network users.
 
+* [StringSimilarity](http://code.google.com/p/theunknownones) is a package designed for some fuzzy and phonetic string comparison algorithms. So far implemented are the following algorithms: DamerauLevenshtein, Koelner Phonetik, SoundEx, Metaphone, DoubleMetaphone, NGram, Dice, JaroWinkler, NeedlemanWunch, SmithWatermanGotoh, MongeElkan.
 
 ## OS
 *Tools that help dealing with OS-specific internals*
@@ -247,3 +251,4 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 * [Delphi Package Installer (DelphiPI)](https://code.google.com/p/delphipi) is a tool which aids you installing components to your Delphi IDE. DelphiPI automatically resolves dependencies between packages, compiles, installs and adds source paths to your IDE.
 
+* [ResEd](http://code.google.com/p/theunknownones) is an expert for Delphi 2005, 2006, 2007, 2009, 2010 and XE. This expert is designed for editing the resource files (.res; .resx) that are linked to the active project. It will automatically search for all occurrences of {$R xyz.res} lines and will open/create resourcefiles for them. The expert registers itself in the menubar of Delphi under View.
