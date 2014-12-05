@@ -46,6 +46,9 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 * [TheUnknownOnes](http://code.google.com/p/theunknownones). Huge heap of classes, components, utilities for almost every purpose. Nearly undocumented and seems not very up-to-date though.
 
+* [CNVCL](https://github.com/cnpack/cnvcl). CnPack Component Package. Large collection of visual components, classes and utilities. // *Lots of useful stuff; documentation and comments mainly in Chinese*
+
+
 ## Multimedia
 
 ## Audio
@@ -211,6 +214,8 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 // *Easy integration of async processes in your app*
 
 * [ScaleMM](https://code.google.com/p/scalemm) - Fast scaling memory manager for Delphi
+
+* [Delphi Detours Library](http://code.google.com/p/delphi-detours-library) is a library allowing you to hook delphi and windows API functions .It provides an easy way to insert and remove hook.
 
 ## Other non-visual
 
