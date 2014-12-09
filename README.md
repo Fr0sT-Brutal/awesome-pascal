@@ -22,7 +22,7 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 	- [Non-visual Classes/Utils](#non-visual-classesutils)
 		- [Compression](#compression)
 		- [Encryption](#encryption)
-		- [XML](#xml)
+		- [XML/JSON](#xmljson)
 		- [System](#system)
 		- [Other non-visual](#other-non-visual)
 	- [OS](#os)
@@ -192,7 +192,7 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 * [LockBox](http://sourceforge.net/projects/tplockbox) ([Newest](https://sourceforge.net/projects/turbopowerlockboxnew) and maintained version) is a Delphi library for cryptography. Currently supported Delphi XE6. It provides support for AES, DES, 3DES, Blowfish, Twofish, SHA2 (including the new SHA-512/224 & SHA-512/256), MD5; ECB, CBC, CFB8, CFB, CTR, ECB, OFB, PCBC chaining modes, RSA digital signature and verification. Has interface to OpenSSL library.
 // *Check out [this](https://github.com/jarto/lockbox2) page as well for probably newer version.*
 
-## XML
+## XML/JSON
 
 * [OmniXML] (http://code.google.com/p/omnixml) is a XML parser written in Delphi. Full support for Document Object Model (DOM) Level 1 specification; Supports Extensible Markup Language (XML) 1.0 (Second Edition) specification; Has built-in support for different code pages (main 8-bit code pages, UTF-8, UTF-16); Is compatible with MS XML parser; Fast parsing even large and highly structured documents; Includes helper functions to ease processing XML documents; Simplified XPath support.
 
@@ -203,6 +203,8 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 * [XML Partner](http://sourceforge.net/projects/tpxmlpartner) helps add the power of XML to Borland Delphi, C++ Builder, and Kylix projects through native, easy to use VCL and CLX components. These powerful components simplify the process of creating, modifying, and parsing XML data documents.
 // *Seems dead, check out [this](http://www.songbeamer.com/delphi) page for probably newer version.*
+
+* [SuperObject](http://code.google.com/p/superobject). The Json toolkit is a parser/writer for JSON data format. This toolkit is designed to work with Delphi and FreePascal (win32, win64, linux32, linux64, MacOSX Intel)
 
 ## System
 *Low-level helper stuff: memory, threading etc*
