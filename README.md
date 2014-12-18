@@ -4,6 +4,8 @@ A curated list of awesome Delphi frameworks, libraries, resources, and shiny thi
 **Note that only open-source projects are considered. Dead projects are mainly ignored except for those which do not have alive analogs.**
 Feel free to suggest other missing nice projects either by comments or pull requests.
 
+This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.zeef.com/anton.frost)
+
 - [Awesome Delphi](#awesome-delphi)
 	- [General Libraries](#general-libraries)
 	- [Multimedia](#multimedia)
