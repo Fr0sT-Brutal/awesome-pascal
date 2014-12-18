@@ -204,7 +204,15 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 * [XML Partner](http://sourceforge.net/projects/tpxmlpartner) helps add the power of XML to Borland Delphi, C++ Builder, and Kylix projects through native, easy to use VCL and CLX components. These powerful components simplify the process of creating, modifying, and parsing XML data documents.
 // *Seems dead, check out [this](http://www.songbeamer.com/delphi) page for probably newer version.*
 
+* [Open XML](http://www.philo.de/xml/downloads.shtml) Utility Library provides a wide range of methods, components and foundation classes. It can be used for Win32/Kylix as well as for .NET development.
+
 * [SuperObject](http://code.google.com/p/superobject). The Json toolkit is a parser/writer for JSON data format. This toolkit is designed to work with Delphi and FreePascal (win32, win64, linux32, linux64, MacOSX Intel)
+
+* [OXml](http://www.kluug.net/oxml.php) is a new XML library for Delphi and Lazarus, developed in late 2013. I took some inspiration from OmniXML but wrote the library completely from scratch. The aim of OXml is to be the most versatile and fastest XML library for the Pascal language. OXml features a SAX parser, DOM implementation, a sequential DOM parser a direct XML reader/writer and a vendor for Delphi's XmlIntf.TXMLDocument. OXml supports all Delphi versions starting from Delphi 4 on all platforms: Win32, Win64, OSX, iOS, Android. OXml supports Lazarus 1.0 and newer on all platforms (tested Win32, Win64, Linux, MacOSX).
+
+*[Libxml2 for pascal](https://sourceforge.net/projects/libxml2-pas). Pascal units accessing the popular XML API from Daniel Veillard. This should be usable at least from Kylix and Delphi, but hopefully also from other Pascal compilers (like freepascal).
+
+*[NativeXml](http://simdesign.googlecode.com). This software component contains a small-footprint Object Pascal (Delphi) XML implementation that allows to read and write XML documents. You basically only need one unit and you can simply add it to the "uses" clause. You can use this software to read XML documents from files, streams or strings. The load routine generates events that can be used to display load progress on the fly. You can also use it to create and save XML documents.
 
 ## System
 *Low-level helper stuff: memory, threading etc*
