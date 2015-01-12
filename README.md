@@ -1,4 +1,4 @@
-﻿# Awesome Delphi
+# Awesome Delphi
 A curated list of awesome Delphi frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 
 **Note that only open-source projects are considered. Dead projects are mainly ignored except for those which do not have alive analogs.**
@@ -28,6 +28,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 		- [System](#system)
 		- [Other non-visual](#other-non-visual)
 	- [OS](#os)
+	- [Unit Testing](#unit-testing)
 	- [Utilities](#utilities)
 
 
@@ -243,6 +244,20 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [GLibWMI](http://sourceforge.net/projects/glibwmi) is a Component Library for Delphi that encapsulate the classes for access to WMI of Windows in a set of VCL. BiosInfo, PrinterInfo, DiskInfo,... Allow access WMI Classes: WIN32_Bios, WIN32_Printers, WIN32_DiskDrive.
 
 * [MemoryMap](https://github.com/AlexanderBagel/ProcessMemoryMap/tree/master/MemoryMap). Set of classes to get all the info about a memory of a running process.
+
+## Unit Testing
+
+[DUnitX](https://github.com/VSoftTechnologies/DUnitX) is a new test framework, taking ideas from DUnit, NUnit and other test frameworks. It is designed to work with Delphi 2010 or later, it makes use of language/RTL features that are not available in older versions of Delphi.
+
+[DUnit](http://dunit.sourceforge.net/) is a Unit Testing Framework, that has been the standard testing framework for years, the Delphi IDE now ships with this library.
+
+[DUnit2](http://dunit2.sourceforge.net/) is fork of the DUnit Project that adds several new features.
+
+[DelphiSpec](https://github.com/RomanYankovsky/DelphiSpec) is a library for running automated tests written in plain language. Because they're written in plain language, they can be read by anyone on your team. Because they can be read by anyone, you can use them to help improve communication, collaboration and trust on your team.
+
+[Delphi-Mocks](https://github.com/VSoftTechnologies/Delphi-Mocks) is a simple mocking framework for Delphi XE2 or later.   Allow you to mock both classes and interfaces for testing. 
+
+[DUnit-XML](https://github.com/VSoftTechnologies/DUnit-XML) is a test runner that allows DUnit Tests to output NUnit compatible XML.
 
 
 ## Utilities
