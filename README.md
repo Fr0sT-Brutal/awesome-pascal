@@ -28,6 +28,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 		- [System](#system)
 		- [Other non-visual](#other-non-visual)
 	- [OS](#os)
+	- [Reporting](#reporting)
 	- [Utilities](#utilities)
 
 
@@ -50,6 +51,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [CNVCL](https://github.com/cnpack/cnvcl). CnPack Component Package. Large collection of visual components, classes and utilities. // *Lots of useful stuff; documentation and comments mainly in Chinese*
 
+* [mORMot](http://mormot.net). Client-Server ORM/ODM SOA MVC framework for Delphi 6 and higher, or FPC 2.7. Direct SQL/NoSQL database access, ORM/ODM over objects, RESTful ORM and SOA services via interfaces over high performance HTTP server, MVC/MVVM web sites, testing including mocks and stubs, logging, huge documentation.
 
 ## Multimedia
 
@@ -80,6 +82,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [KIcon](http://www.tkweb.eu/en/delphicomp/kicon.html). This component makes sense if a more complex manipulation with icons (or better icon files *.ico) than just viewing is needed. Full PNG icon image support, Correct rendering, icons with alpha channel.
 
+* [SynGdiPlus](http://synopse.info/fossil/wiki?name=GDI%2B) Allows to render any `TCanvas` drawing using GDI+, for fast anti-aliased rendering, or image process.
 
 ## Communications
 
@@ -96,6 +99,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [Internet Professional](http://sourceforge.net/projects/tpipro2010) is a set of VCL components providing Internet connectivity for Borland Delphi & C++Builder. iPRO includes POP3, SMTP, NNTP, FTP, HTTP, Instant Messaging, & HTML viewer components, as well as components for low-level socket access.
 // *Seems abandoned but contains pretty large set of features incl ICMP, POP, SMTP, HTTP, NNTP, NTP, FTP, SMTP; HTML parser and viewer; MIME utils; cookies, certificates, caching, encryption etc*
+
+* [SynCrtSock](https://github.com/synopse/mORMot/blob/master/SynCrtSock.pas) features several sockets and HTTP client-server classes, including a high-performance http.sys based server under Windows, and a new thread-pool powered socket server.
 
 ## Serial port
 
@@ -163,6 +168,9 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [TxQuery](https://github.com/ccy/txquery) component is a TDataSet descendant component that can be used to query one or more TDataSet descendant components using SQL statements. It is implemented in Delphi 100% source code, no DLL required, because it implements its own SQL syntax parser and SQL engine.
 
+* [SynDB](http://synopse.info/files/html/Synopse%20mORMot%20Framework%20SAD%201.18.html#TITL_126) high performance direct access to SQLite3, Oracle, MSSQL, PostgreSQL, Firebird, MySQL, ODBC, OleDB, including remote HTTP connection and direct JSON support.
+
+* [SynMongoDB](http://blog.synopse.info/post/2014/05/07/MongoDB-database-access) direct low-level access to any MongoDB server, its custom data types, JSON or via `TDocVariant` custom variant document storage.
 
 ## Scripting
 *Using script engine in your applications*
@@ -176,6 +184,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [Blaise](http://sourceforge.net/projects/blaise) is an open-source object-oriented scripting language. Language features: Object-oriented; Unicode support; Optional typing, ie dynamic or static typing; Richly typed; Higher-level mathematics support, for example Complex numbers, Rational numbers and Matrices; Virtual Machine architecture; Co-routines; Familiar language syntax, influenced by Object Pascal, Python and Ada.
 
+* [SpiderMonkey](http://synopse.info/files/html/Synopse%20mORMot%20Framework%20SAD%201.18.html#TITL_79) latest version of SpiderMonkey, the Mozilla JavaScript engine, including JIT and multi-threading, with easy objects access via Delphi variants
 
 ## Non-visual Classes/Utils
 
@@ -186,6 +195,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [Abbrevia](http://sourceforge.net/p/tpabbrevia) ([Newest](https://sourceforge.net/projects/turbopowerabbrevianew) and maintained version). Advanced data compression toolkit for Delphi and C++Builder. Supports PKZIP, Microsoft CAB, tar, gzip, and bzip2 archives, and can create self-extracting executables. On Windows it also provides Delphi wrappers for the LZMA, Bzip2, and WavPack SDKs, and PPMd decompression. Abbrevia also has several visual controls that simplify displaying and manipulating archives, including treeview and listview components. Features: Unicode filenames in all archive formats; Decompress most .zipx and legacy (PKZIP v1) zips; ZIP64 support for archives larger than 2GB; Spanned and split zip archives; Cross-platform (Windows, OS X, and Linux); No DLLs required; Includes COM component; Extensive documentation
 
+* [SynLZ SynLZO SynZip](https://github.com/synopse/mORMot) several high speed compression units, featuring ZIP, LZO and SynLZ algorithm, in pascal and optimized assembler.
+
 ## Encryption
 
 * [Delphi Encryption Compendium (DEC)](http://code.google.com/p/delphidec) is a cryptographic library for Delphi & C++ Builder. Symmetric cryptographic functions: Blowfish, Twofish, IDEA, Cast128, Cast256, Mars, RC2, RC4, RC5, RC6, Rijndael / AES, Square, SCOP, Sapphire, 1DES, 2DES, 3DES, 2DDES, 3DDES, 3TDES, 3Way, Gost, Misty, NewDES, Q128, SAFER, Shark, Skipjack, TEA, TEAN; Block cipher modes of operation: CTSx, CBCx, CFB8, CFBx, OFB8, OFBx, CFSx, ECBx; Hashes: MD2, MD4, MD5, RipeMD128, RipeMD160, RipeMD256, RipeMD320, SHA, SHA1, SHA256, SHA384, SHA512, Haval128, Haval160, Haval192, Haval224, Haval256, Tiger, Panama, Whirlpool, Whirlpool1, Square, Snefru128, Snefru256, Sapphire.
@@ -193,6 +204,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [LockBox](http://sourceforge.net/projects/tplockbox) ([Newest](https://sourceforge.net/projects/turbopowerlockboxnew) and maintained version) is a Delphi library for cryptography. Currently supported Delphi XE6. It provides support for AES, DES, 3DES, Blowfish, Twofish, SHA2 (including the new SHA-512/224 & SHA-512/256), MD5; ECB, CBC, CFB8, CFB, CTR, ECB, OFB, PCBC chaining modes, RSA digital signature and verification. Has interface to OpenSSL library.
 // *Check out [this](https://github.com/jarto/lockbox2) page as well for probably newer version.*
+
+* [SynCrypto](https://github.com/synopse/mORMot/blob/master/SynCrypto.pas) fast cryptographic routines (hashing and cypher), implementing AES, XOR, RC4, ADLER32, MD5, SHA1, SHA256 algorithms, optimized for speed (tuned assembler and VIA PADLOCK optional support).
 
 ## XML/JSON
 
@@ -212,9 +225,13 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [OXml](http://www.kluug.net/oxml.php) is a new XML library for Delphi and Lazarus, developed in late 2013. I took some inspiration from OmniXML but wrote the library completely from scratch. The aim of OXml is to be the most versatile and fastest XML library for the Pascal language. OXml features a SAX parser, DOM implementation, a sequential DOM parser a direct XML reader/writer and a vendor for Delphi's XmlIntf.TXMLDocument. OXml supports all Delphi versions starting from Delphi 4 on all platforms: Win32, Win64, OSX, iOS, Android. OXml supports Lazarus 1.0 and newer on all platforms (tested Win32, Win64, Linux, MacOSX).
 
-*[Libxml2 for pascal](https://sourceforge.net/projects/libxml2-pas). Pascal units accessing the popular XML API from Daniel Veillard. This should be usable at least from Kylix and Delphi, but hopefully also from other Pascal compilers (like freepascal).
+* [Libxml2 for pascal](https://sourceforge.net/projects/libxml2-pas). Pascal units accessing the popular XML API from Daniel Veillard. This should be usable at least from Kylix and Delphi, but hopefully also from other Pascal compilers (like freepascal).
 
-*[NativeXml](http://simdesign.googlecode.com). This software component contains a small-footprint Object Pascal (Delphi) XML implementation that allows to read and write XML documents. You basically only need one unit and you can simply add it to the "uses" clause. You can use this software to read XML documents from files, streams or strings. The load routine generates events that can be used to display load progress on the fly. You can also use it to create and save XML documents.
+* [NativeXml](http://simdesign.googlecode.com). This software component contains a small-footprint Object Pascal (Delphi) XML implementation that allows to read and write XML documents. You basically only need one unit and you can simply add it to the "uses" clause. You can use this software to read XML documents from files, streams or strings. The load routine generates events that can be used to display load progress on the fly. You can also use it to create and save XML documents.
+
+* [SynCommons](http://https://github.com/synopse/mORMot/blob/master/SynCommons.pas) High speed JSON library, using `TDocVariant` custom variant type for storage and access.
+
+* [SynCrossPlatformJSON](https://github.com/synopse/mORMot/blob/master/CrossPlatform/SynCrossPlatformJSON.pas) High speed cross-platform JSON library, using `TJSONVariant` custom variant type for storage and access.
 
 ## System
 *Low-level helper stuff: memory, threading etc*
@@ -244,6 +261,13 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [MemoryMap](https://github.com/AlexanderBagel/ProcessMemoryMap/tree/master/MemoryMap). Set of classes to get all the info about a memory of a running process.
 
+## Reporting
+
+*Components for reporting*
+
+* [Synopse PDF Engine](http://synopse.info/fossil/wiki?name=PDF+Engine) PDF document creation library for Delphi, embedded in one unit, with a true TCanvas property, font embedding, encryption, Unicode and PDF/A-1.
+
+* [TGdiPages](http://synopse.info/files/html/api-1.18/mORMotReport.html) Fast and efficient code-based reporting component, with preview form and pdf export.
 
 ## Utilities
 *Useful dev tools/IDE plugins*
@@ -269,3 +293,5 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [Delphi Package Installer (DelphiPI)](https://code.google.com/p/delphipi) is a tool which aids you installing components to your Delphi IDE. DelphiPI automatically resolves dependencies between packages, compiles, installs and adds source paths to your IDE.
 
 * [ResEd](http://code.google.com/p/theunknownones) is an expert for Delphi 2005, 2006, 2007, 2009, 2010 and XE. This expert is designed for editing the resource files (.res; .resx) that are linked to the active project. It will automatically search for all occurrences of {$R xyz.res} lines and will open/create resourcefiles for them. The expert registers itself in the menubar of Delphi under View.
+
+* [SynProject](http://synopse.info/fossil/wiki?name=SynProject) tool for code source versioning and automated documentation of Delphi projects.
