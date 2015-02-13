@@ -228,7 +228,10 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [ScaleMM](https://code.google.com/p/scalemm) - Fast scaling memory manager for Delphi
 
-* [Delphi Detours Library](http://code.google.com/p/delphi-detours-library) is a library allowing you to hook delphi and windows API functions .It provides an easy way to insert and remove hook.
+* [Delphi Detours Library](http://code.google.com/p/delphi-detours-library) is a library allowing you to hook Delphi functions and object methods and Windows API functions. It provides an easy way to insert and remove hook.
+// *Supports x64, calling original functions, multi hooks,*
+
+* [BTMemoryModule](http://code.google.com/p/memorymodule). With BTMemoryModule a dynamic link library (DLL) can be loaded from memory without storing it on the hard-disk first. BTMemoryModule is a Pascal port of Joachim Bauch's C / C++ Memory Module. The port includes the complete memorymodule pascal sourcecode and examples to demonstrate the use. Compilers: Delphi 7 up to Delphi 2010 and Lazarus Free Pascal / Operating Systems: Win95 up to Win7
 
 ## Other non-visual
 
