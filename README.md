@@ -77,7 +77,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [Vampyre Imaging Library](http://imaginglib.sourceforge.net) - cross-platform native Object Pascal (Delphi and Free Pascal) image loading, saving, and manipulation library.
 
-* [CCR-EXIF](http://ccr-exif.googlecode.com) - library to read and write Exif, IPTC and XMP metadata from JPEG, TIFF and PSD images.
+* [CCR-EXIF](https://code.google.com/p/ccr-exif) - library to read and write Exif, IPTC and XMP metadata from JPEG, TIFF and PSD images.
 
 * [KIcon](http://www.tkweb.eu/en/delphicomp/kicon.html). This component makes sense if a more complex manipulation with icons (or better icon files *.ico) than just viewing is needed. Full PNG icon image support, Correct rendering, icons with alpha channel.
 
@@ -127,7 +127,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [EasyListView](http://code.google.com/p/mustangpeakeasylistview) - Part of VirtualShellTools for the Listview but can be used for a TListview Replacement that is faster and more customizable.
 // *Feature-rich Listview capable with virtual (callback-based) MVC paradigm.*
 
-* [VirtualTreeView](http://code.google.com/p/virtual-treeview) - treeview control built from ground up. Many years of development made it one of the most flexible and advanced tree controls available today.
+* [VirtualTreeView](https://github.com/Virtual-TreeView/Virtual-TreeView) - treeview control built from ground up. Many years of development made it one of the most flexible and advanced tree controls available today.
 // *Extremely flexible visual component implementing virtual (callback-based) MVC paradigm. Could be also used as a listview or grid. Used in RAD Studio GUI.*
 
 * [HtmlViewer](http://github.com/BerndGabriel/HtmlViewer) - The well-known Delphi/Lazarus HtmlViewer/FrameViewer.
@@ -171,7 +171,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [Pascal Script](https://github.com/remobjects/pascalscript) - Pascal Script is a free scripting engine that allows you to use most of the Object Pascal language within your Delphi or Free Pascal projects at runtime. Written completely in Delphi, it is composed of a set of units that can be compiled into your executable, eliminating the need to distribute any external files. Pascal Script started out as a need for a good working script, when there were none available at the time.
 
-* [DWScript](https://code.google.com/p/dwscript) is an object-oriented scripting engine for Delphi based on the Delphi language, with extensions borrowed from other Pascal languages (FreePascal, Prism, etc.). It introduces a few Pascal language extensions of its own as well.
+* [DWScript](https://bitbucket.org/egrange/dwscript) is an object-oriented scripting engine for Delphi based on the Delphi language, with extensions borrowed from other Pascal languages (FreePascal, Prism, etc.). It introduces a few Pascal language extensions of its own as well.
 
 * [Delphi-Javascript](https://code.google.com/p/delphi-javascript) Javascript engine for delphi based on Mozilla's Spidermonkey.
 // *Spidermonkey DLL required*
@@ -190,7 +190,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 ## Encryption
 
-* [Delphi Encryption Compendium (DEC)](http://code.google.com/p/delphidec) is a cryptographic library for Delphi & C++ Builder. Symmetric cryptographic functions: Blowfish, Twofish, IDEA, Cast128, Cast256, Mars, RC2, RC4, RC5, RC6, Rijndael / AES, Square, SCOP, Sapphire, 1DES, 2DES, 3DES, 2DDES, 3DDES, 3TDES, 3Way, Gost, Misty, NewDES, Q128, SAFER, Shark, Skipjack, TEA, TEAN; Block cipher modes of operation: CTSx, CBCx, CFB8, CFBx, OFB8, OFBx, CFSx, ECBx; Hashes: MD2, MD4, MD5, RipeMD128, RipeMD160, RipeMD256, RipeMD320, SHA, SHA1, SHA256, SHA384, SHA512, Haval128, Haval160, Haval192, Haval224, Haval256, Tiger, Panama, Whirlpool, Whirlpool1, Square, Snefru128, Snefru256, Sapphire.
+* [Delphi Encryption Compendium (DEC)](https://github.com/winkelsdorf/DelphiEncryptionCompendium/releases) is a cryptographic library for Delphi & C++ Builder. Symmetric cryptographic functions: Blowfish, Twofish, IDEA, Cast128, Cast256, Mars, RC2, RC4, RC5, RC6, Rijndael / AES, Square, SCOP, Sapphire, 1DES, 2DES, 3DES, 2DDES, 3DDES, 3TDES, 3Way, Gost, Misty, NewDES, Q128, SAFER, Shark, Skipjack, TEA, TEAN; Block cipher modes of operation: CTSx, CBCx, CFB8, CFBx, OFB8, OFBx, CFSx, ECBx; Hashes: MD2, MD4, MD5, RipeMD128, RipeMD160, RipeMD256, RipeMD320, SHA, SHA1, SHA256, SHA384, SHA512, Haval128, Haval160, Haval192, Haval224, Haval256, Tiger, Panama, Whirlpool, Whirlpool1, Square, Snefru128, Snefru256, Sapphire.
 // *No updates since 2010 but features list so huge that it couldn't be ignored*
 
 * [LockBox](http://sourceforge.net/projects/tplockbox) ([Newest](https://sourceforge.net/projects/turbopowerlockboxnew) and maintained version) is a Delphi library for cryptography. Currently supported Delphi XE6. It provides support for AES, DES, 3DES, Blowfish, Twofish, SHA2 (including the new SHA-512/224 & SHA-512/256), MD5; ECB, CBC, CFB8, CFB, CTR, ECB, OFB, PCBC chaining modes, RSA digital signature and verification. Has interface to OpenSSL library.
@@ -216,7 +216,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 *[Libxml2 for pascal](https://sourceforge.net/projects/libxml2-pas). Pascal units accessing the popular XML API from Daniel Veillard. This should be usable at least from Kylix and Delphi, but hopefully also from other Pascal compilers (like freepascal).
 
-*[NativeXml](http://simdesign.googlecode.com). This software component contains a small-footprint Object Pascal (Delphi) XML implementation that allows to read and write XML documents. You basically only need one unit and you can simply add it to the "uses" clause. You can use this software to read XML documents from files, streams or strings. The load routine generates events that can be used to display load progress on the fly. You can also use it to create and save XML documents.
+*[NativeXml](https://code.google.com/p/simdesign). This software component contains a small-footprint Object Pascal (Delphi) XML implementation that allows to read and write XML documents. You basically only need one unit and you can simply add it to the "uses" clause. You can use this software to read XML documents from files, streams or strings. The load routine generates events that can be used to display load progress on the fly. You can also use it to create and save XML documents.
 
 ## System
 *Low-level helper stuff: memory, threading etc*
@@ -285,6 +285,6 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [CnWizards](https://github.com/cnpack) is a Free Plug-in Tool Set for Delphi/C++ Builder/CodeGear RAD Studio to Improve Development Efficiency.
 
-* [Delphi Package Installer (DelphiPI)](https://code.google.com/p/delphipi) is a tool which aids you installing components to your Delphi IDE. DelphiPI automatically resolves dependencies between packages, compiles, installs and adds source paths to your IDE.
+* [Delphi Package Installer (DelphiPI)](https://bitbucket.org/idursun/delphipi) ([old repo](https://code.google.com/p/delphipi)) is a tool which aids you installing components to your Delphi IDE. DelphiPI automatically resolves dependencies between packages, compiles, installs and adds source paths to your IDE.
 
 * [ResEd](http://code.google.com/p/theunknownones) is an expert for Delphi 2005, 2006, 2007, 2009, 2010 and XE. This expert is designed for editing the resource files (.res; .resx) that are linked to the active project. It will automatically search for all occurrences of {$R xyz.res} lines and will open/create resourcefiles for them. The expert registers itself in the menubar of Delphi under View.
