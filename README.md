@@ -39,7 +39,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 // *GUI, algorithms, classes, API headers etc.*
 
 * [Alcinoe](http://sourceforge.net/projects/alcinoe) - Compoments suite for Delphi.
-// *Network: FTP/Http/NNTP/POP3/SMTP, ISAPI, WinInet Http/FTP clients; DB: Firebird/MySQL/SQLite3/Memcached/MongoDb/SphinxQL; XML/JSON Parser; ZLIB; Cryptography: AES, Blowfish, MD5, SHA, secure keyed MD5/SHA; Other: Self-Balancing Binary Trees, expression evaluator; *
+// *Network: FTP/Http/NNTP/POP3/SMTP, ISAPI, WinInet Http/FTP clients; DB: Firebird/MySQL/SQLite3/Memcached/MongoDb/SphinxQL; XML/JSON Parser; ZLIB; Cryptography: AES, Blowfish, MD5, SHA, secure keyed MD5/SHA; Other: Self-Balancing Binary Trees, expression evaluator*
 
 * [Fundamentals Code Library](http://sourceforge.net/projects/fundementals). Collection of Delphi / FreePascal code units. Includes libraries for Unicode, Strings, Data Structures, Sockets and Mathematics.
 // *Utils: ZLIB compression; JSON; XML; ProtocolBuffers; Hashes: XOR, CRC, Adler, MD5, SHA, secure keyed MD5/SHA, etc; Network: blocking TCP client/server, HTTP(S) via SSL3/TLS1.0/TLS1.1/TLS1.2 (fully native); SQL parser; BitCoin MtGox client; Blaise script engine; Cipher: AES, DES, FUNE, RC2/4, RSA; Maths: matrix, complex, statistics*
@@ -223,9 +223,9 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [OXml](http://www.kluug.net/oxml.php) is a new XML library for Delphi and Lazarus, developed in late 2013. I took some inspiration from OmniXML but wrote the library completely from scratch. The aim of OXml is to be the most versatile and fastest XML library for the Pascal language. OXml features a SAX parser, DOM implementation, a sequential DOM parser a direct XML reader/writer and a vendor for Delphi's XmlIntf.TXMLDocument. OXml supports all Delphi versions starting from Delphi 4 on all platforms: Win32, Win64, OSX, iOS, Android. OXml supports Lazarus 1.0 and newer on all platforms (tested Win32, Win64, Linux, MacOSX).
 
-*[Libxml2 for pascal](https://sourceforge.net/projects/libxml2-pas). Pascal units accessing the popular XML API from Daniel Veillard. This should be usable at least from Kylix and Delphi, but hopefully also from other Pascal compilers (like freepascal).
+* [Libxml2 for pascal](https://sourceforge.net/projects/libxml2-pas). Pascal units accessing the popular XML API from Daniel Veillard. This should be usable at least from Kylix and Delphi, but hopefully also from other Pascal compilers (like freepascal).
 
-*[NativeXml](https://code.google.com/p/simdesign). This software component contains a small-footprint Object Pascal (Delphi) XML implementation that allows to read and write XML documents. You basically only need one unit and you can simply add it to the "uses" clause. You can use this software to read XML documents from files, streams or strings. The load routine generates events that can be used to display load progress on the fly. You can also use it to create and save XML documents.
+* [NativeXml](https://code.google.com/p/simdesign). This software component contains a small-footprint Object Pascal (Delphi) XML implementation that allows to read and write XML documents. You basically only need one unit and you can simply add it to the "uses" clause. You can use this software to read XML documents from files, streams or strings. The load routine generates events that can be used to display load progress on the fly. You can also use it to create and save XML documents.
 
 ## System
 *Low-level helper stuff: memory, threading etc*
@@ -239,13 +239,14 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [ScaleMM](https://code.google.com/p/scalemm) - Fast scaling memory manager for Delphi
 
 * [Delphi Detours Library](http://code.google.com/p/delphi-detours-library) is a library allowing you to hook Delphi functions and object methods and Windows API functions. It provides an easy way to insert and remove hook.
-// *Supports x64, calling original functions, multi hooks,*
+// *Supports x64, calling original functions, multi hooks, COM/Interfaces/win32api, object methods hooking, fully thread-safe, Delphi 7/2005-2010/XE-XE7 & Lazarus/FPC, 64 bit address is supported.*
 
 * [BTMemoryModule](http://code.google.com/p/memorymodule). With BTMemoryModule a dynamic link library (DLL) can be loaded from memory without storing it on the hard-disk first. BTMemoryModule is a Pascal port of Joachim Bauch's C / C++ Memory Module. The port includes the complete memorymodule pascal sourcecode and examples to demonstrate the use. Compilers: Delphi 7 up to Delphi 2010 and Lazarus Free Pascal / Operating Systems: Win95 up to Win7
 
 ## Other non-visual
 
 * [TRegExpr](http://regexpstudio.com/TRegExpr/TRegExpr.html) - Easy to use and powerful tool for sophisticated search and substitutioning and for template-based text input check.
+// *Abandoned since 2004 but unlike stock RAD Studio implementation doesn't use PCRE obj which adds dependency on msvcrt.dll*
 
 * [OnGuard](http://sourceforge.net/projects/tponguard) ([Alternate](https://github.com/TurboPack/OnGuard-VCL) and maintained version for recent compiler version only) is a library to create demo versions of your Borland Delphi & C++Builder applications. Create demo versions that are time-limited, feature-limited, limited to a certain number of uses, or limited to a certain # of concurrent network users.
 // *Second link points to an adapted version for newest compiler versions.*
@@ -261,17 +262,17 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 ## Unit Testing
 
-[DUnitX](https://github.com/VSoftTechnologies/DUnitX) is a new test framework, taking ideas from DUnit, NUnit and other test frameworks. It is designed to work with Delphi 2010 or later, it makes use of language/RTL features that are not available in older versions of Delphi.
+* [DUnitX](https://github.com/VSoftTechnologies/DUnitX) is a new test framework, taking ideas from DUnit, NUnit and other test frameworks. It is designed to work with Delphi 2010 or later, it makes use of language/RTL features that are not available in older versions of Delphi.
 
-[DUnit](http://dunit.sourceforge.net/) is a Unit Testing Framework, that has been the standard testing framework for years, the Delphi IDE now ships with this library.
+* [DUnit](http://dunit.sourceforge.net) is a Unit Testing Framework, that has been the standard testing framework for years, the Delphi IDE now ships with this library.
 
-[DUnit2](http://dunit2.sourceforge.net/) is fork of the DUnit Project that adds several new features.
+* [DUnit2](http://dunit2.sourceforge.net) is fork of the DUnit Project that adds several new features.
 
-[DelphiSpec](https://github.com/RomanYankovsky/DelphiSpec) is a library for running automated tests written in plain language. Because they're written in plain language, they can be read by anyone on your team. Because they can be read by anyone, you can use them to help improve communication, collaboration and trust on your team.
+* [DelphiSpec](https://github.com/RomanYankovsky/DelphiSpec) is a library for running automated tests written in plain language. Because they're written in plain language, they can be read by anyone on your team. Because they can be read by anyone, you can use them to help improve communication, collaboration and trust on your team.
 
-[Delphi-Mocks](https://github.com/VSoftTechnologies/Delphi-Mocks) is a simple mocking framework for Delphi XE2 or later.   Allow you to mock both classes and interfaces for testing. 
+* [Delphi-Mocks](https://github.com/VSoftTechnologies/Delphi-Mocks) is a simple mocking framework for Delphi XE2 or later.   Allow you to mock both classes and interfaces for testing. 
 
-[DUnit-XML](https://github.com/VSoftTechnologies/DUnit-XML) is a test runner that allows DUnit Tests to output NUnit compatible XML.
+* [DUnit-XML](https://github.com/VSoftTechnologies/DUnit-XML) is a test runner that allows DUnit Tests to output NUnit compatible XML.
 
 
 ## Utilities
