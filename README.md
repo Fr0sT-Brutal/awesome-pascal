@@ -309,3 +309,5 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [Delphi Package Installer (DelphiPI)](https://bitbucket.org/idursun/delphipi) ([old repo](https://code.google.com/p/delphipi)) is a tool which aids you installing components to your Delphi IDE. DelphiPI automatically resolves dependencies between packages, compiles, installs and adds source paths to your IDE.
 
 * [ResEd](http://code.google.com/p/theunknownones) is an expert for Delphi 2005, 2006, 2007, 2009, 2010 and XE. This expert is designed for editing the resource files (.res; .resx) that are linked to the active project. It will automatically search for all occurrences of {$R xyz.res} lines and will open/create resourcefiles for them. The expert registers itself in the menubar of Delphi under View.
+
+* [Inno Setup](http://www.jrsoftware.org/isinfo.php) is a free installer for Windows programs. First introduced in 1997, Inno Setup today rivals and even surpasses many commercial installers in feature set and stability.
