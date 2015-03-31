@@ -89,6 +89,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [IGDI+](https://sourceforge.net/projects/igdiplus). The free open source library allows quick and easy implementations of complex GDI+ applications, in a natural Delphi-friendly code.
 
+* [GLScene](https://sourceforge.net/projects/glscene) is an OpenGL based 3D library for Delphi. It provides visual components and objects allowing description and rendering of 3D scenes in an easy, no-hassle, yet powerful manner. GLScene is not just an OpenGL wrapper or utility library, it has grown to become a set of founding classes for a generic 3D engine with Rapid Application Development in mind. GLScene allows you to quickly design and render 3D scenes without having to learn the intricacies of OpenGL, if you know how to design a TForm, you'll easily master the basic operations of GLScene. The library comes with a large collections of demos showcasing the ease of use, and demonstrating RAD wasn't done at the expense of CPU/GPU horsepower.
+
 ## Communications
 
 ## Network
@@ -174,7 +176,10 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [TxQuery](https://github.com/ccy/txquery) component is a TDataSet descendant component that can be used to query one or more TDataSet descendant components using SQL statements. It is implemented in Delphi 100% source code, no DLL required, because it implements its own SQL syntax parser and SQL engine.
 
-* [Delphi-ORM](https://code.google.com/p/delphi-orm/) Object-Relational Mapping for Delphi XE7, XE6, XE5, XE4, XE3 and XE2 (Win32). Supports for FirebirdSQL, SQLServer and SQLite3.
+* [Delphi-ORM](https://code.google.com/p/delphi-orm) Object-Relational Mapping for Delphi XE7, XE6, XE5, XE4, XE3 and XE2 (Win32). Supports for FirebirdSQL, SQLServer and SQLite3.
+
+* [delphimemcache](https://code.google.com/p/delphimemcache) implements a thread safe client for memcached.
+// *Requires Indy 10*
 
 ## Scripting
 *Using script engine in your applications*
@@ -228,6 +233,9 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [Libxml2 for pascal](https://sourceforge.net/projects/libxml2-pas). Pascal units accessing the popular XML API from Daniel Veillard. This should be usable at least from Kylix and Delphi, but hopefully also from other Pascal compilers (like freepascal).
 
 * [NativeXml](https://code.google.com/p/simdesign). This software component contains a small-footprint Object Pascal (Delphi) XML implementation that allows to read and write XML documents. You basically only need one unit and you can simply add it to the "uses" clause. You can use this software to read XML documents from files, streams or strings. The load routine generates events that can be used to display load progress on the fly. You can also use it to create and save XML documents.
+
+* [Chimera](http://code.google.com/p/jsonchimera) is an Open Source (MIT License) library for Delphi XE2 which provides a fast and cross platform JSON generator/parser (serializer/deserializer) under a license that doesn't suck.
+
 
 ## System
 *Low-level helper stuff: memory, threading etc*
