@@ -87,6 +87,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [PowerPDF](https://github.com/TurboPack/PowerPDF) is a VCL component to create PDF docment visually. Like Forms, you can design PDF document easily on Delphi or C++Builder IDE.
 
+* [IGDI+](https://sourceforge.net/projects/igdiplus). The free open source library allows quick and easy implementations of complex GDI+ applications, in a natural Delphi-friendly code.
+
 ## Communications
 
 ## Network
