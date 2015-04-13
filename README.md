@@ -69,6 +69,13 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [DSPack](https://code.google.com/p/dspack) is a set of Components and class to write Multimedia Applications using MS Direct Show and DirectX technologies.
 
+* [Delphi-OpenCV](https://github.com/Laex/Delphi-OpenCV). Translation of OpenCV library header files in Delphi
+// *Includes FFMPEG headers*
+
+* [FFmpeg Delphi/Pascal Headers] (http://www.delphiffmpeg.com/headers). Open source translation of FFMPEG headers.
+
+* [PasLibVlc](http://prog.olsztyn.pl/paslibvlc) is interface to VideoLAN libvlc.dll and VCL player component for Delphi / FreePascal based on VideoLAN
+
 ## Graphic
 
 * [Graphics32](http://sourceforge.net/projects/graphics32) designed for fast 32-bit graphics handling on Delphi, Kylix and Lazarus. Optimized for 32-bit pixel formats, it provides fast operations with pixels and graphic primitives, and in most cases Graphics32 outperforms the standard TCanvas classes. It is almost a hundred times faster in per-pixel access and about 2—5 times faster in drawing lines.
@@ -251,7 +258,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [Delphi Detours Library](http://code.google.com/p/delphi-detours-library) is a library allowing you to hook Delphi functions and object methods and Windows API functions. It provides an easy way to insert and remove hook.
 // *Supports x64, calling original functions, multi hooks, COM/Interfaces/win32api, object methods hooking, fully thread-safe, Delphi 7/2005-2010/XE-XE7 & Lazarus/FPC, 64 bit address is supported.*
 
-* [BTMemoryModule](http://code.google.com/p/memorymodule). With BTMemoryModule a dynamic link library (DLL) can be loaded from memory without storing it on the hard-disk first. BTMemoryModule is a Pascal port of Joachim Bauch's C / C++ Memory Module. The port includes the complete memorymodule pascal sourcecode and examples to demonstrate the use. Compilers: Delphi 7 up to Delphi 2010 and Lazarus Free Pascal / Operating Systems: Win95 up to Win7
+* [MemoryModule](https://github.com/Fr0sT-Brutal/Delphi_MemoryModule). With the MemoryModule engine you can store all required DLLs inside your binary to keep it standalone. Additional hook units allow transparent using of MM engine thus allowing switching MM/WinAPI loading as well as enabling 3rd party dynamic-load DLL interfaces that are unaware of MM (tested with Interbase Express components and Firebird client library). MemoryModule is a Pascal port of Joachim Bauch's C MemoryModule.
 
 ## Other non-visual
 
