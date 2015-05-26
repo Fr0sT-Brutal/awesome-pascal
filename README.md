@@ -185,6 +185,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [Delphi-ORM](https://code.google.com/p/delphi-orm) Object-Relational Mapping for Delphi XE7, XE6, XE5, XE4, XE3 and XE2 (Win32). Supports for FirebirdSQL, SQLServer and SQLite3.
 
+* [Marshmallow](https://bitbucket.org/soundvibe/marshmallow/wiki/Home) Object-Relational Mapping for Delphi XE7, XE6, XE5, XE4, XE3 and XE2 (Win32) inspired by .NET micro ORM's (mostly by PetaPoco) and Java Hibernate. Developed  by Linas Naginionis. Supports SQLite, Sybase ASA, SQL Server, Firebird, Oracle, MySQL, PostgreSQL, MongoDB. Uses [Spring](http://code.google.com/p/delphi-spring-framework/) Framework. In active development.
+
 * [delphimemcache](https://code.google.com/p/delphimemcache) implements a thread safe client for memcached.
 // *Requires Indy 10*
 
