@@ -223,7 +223,9 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 ## XML/JSON
 
-* [OmniXML] (http://code.google.com/p/omnixml) is a XML parser written in Delphi. Full support for Document Object Model (DOM) Level 1 specification; Supports Extensible Markup Language (XML) 1.0 (Second Edition) specification; Has built-in support for different code pages (main 8-bit code pages, UTF-8, UTF-16); Is compatible with MS XML parser; Fast parsing even large and highly structured documents; Includes helper functions to ease processing XML documents; Simplified XPath support.
+* [JsonDataObjects](https://github.com/ahausladen/JsonDataObjects) is JSON toolkit (read/write) written by Andreas Hausladen. Very [fast](http://blog.synopse.info/post/2015/02/16/Benchmarking-JsonDataObjects-JSON-parser) in compare to others!
+
+* [OmniXML](http://code.google.com/p/omnixml) is a XML parser written in Delphi. Full support for Document Object Model (DOM) Level 1 specification; Supports Extensible Markup Language (XML) 1.0 (Second Edition) specification; Has built-in support for different code pages (main 8-bit code pages, UTF-8, UTF-16); Is compatible with MS XML parser; Fast parsing even large and highly structured documents; Includes helper functions to ease processing XML documents; Simplified XPath support.
 
 * [SAX for Pascal](http://sourceforge.net/projects/saxforpascal) is designed to implement the Simple API for XML Parsing in Pascal/Delphi.
 // *Callback-based XML parser, useful for processing huge XML streams.*
