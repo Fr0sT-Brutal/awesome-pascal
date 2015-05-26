@@ -47,6 +47,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [Spring4D](https://bitbucket.org/sglienke/spring4d) is an open-source code library for Embarcadero Delphi 2010 and higher. It consists of a number of different modules that contain a base class library (common types, interface based collection types, reflection extensions) and a dependency injection framework. Includes Encryption Library.
 // *Collections and other containers using Generics and based on IEnumerable, probably more accurate and featured than RTL analogs; crypto: CRC, DES, MD5, SHA; file utils etc*
 
+* [DSharp](https://bitbucket.org/sglienke/dsharp) is small open-source code library for providing data binding in Delphi. It does not require special components to data bind to properties. It also provides dependency injection, MVVM and more interesting utilities. The newest additions to the library are mocking and aspects.
+
 * [TheUnknownOnes](http://code.google.com/p/theunknownones). Huge heap of classes, components, utilities for almost every purpose. Nearly undocumented and seems not very up-to-date though.
 
 * [CNVCL](https://github.com/cnpack/cnvcl). CnPack Component Package. Large collection of visual components, classes and utilities. // *Lots of useful stuff; documentation and comments mainly in Chinese*
