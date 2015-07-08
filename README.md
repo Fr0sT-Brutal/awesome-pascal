@@ -277,11 +277,13 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [MemoryMap](https://github.com/AlexanderBagel/ProcessMemoryMap/tree/master/MemoryMap). Set of classes to get all the info about a memory of a running process.
 
+* [The new Drag and Drop Component Suite ](https://github.com/landrix/The-new-Drag-and-Drop-Component-Suite-for-Delphi) is a freeware VCL component library that enables your Delphi and C++Builder applications to support COM based drag and drop and integrate with the Windows clipboard.
+
 ## Unit Testing
 
 * [DUnitX](https://github.com/VSoftTechnologies/DUnitX) is a new test framework, taking ideas from DUnit, NUnit and other test frameworks. It is designed to work with Delphi 2010 or later, it makes use of language/RTL features that are not available in older versions of Delphi.
 
-* [DUnit](http://dunit.sourceforge.net) is a Unit Testing Framework, that has been the standard testing framework for years, the Delphi IDE now ships with this library.
+* [DUnit](http://dunit.sourceforge.net) is a Unit Testing Framework, that has been the standard testing framework for years, the Delphi IDE now ships with this library. In addition to the drag and drop components, the Drag and Drop Component Suite also includes components that can be used to build Windows Shell Extensions.
 
 * [DUnit2](http://dunit2.sourceforge.net) is fork of the DUnit Project that adds several new features.
 
