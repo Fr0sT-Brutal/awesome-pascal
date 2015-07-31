@@ -51,6 +51,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [CNVCL](https://github.com/cnpack/cnvcl). CnPack Component Package. Large collection of visual components, classes and utilities. // *Lots of useful stuff; documentation and comments mainly in Chinese*
 
+* [mORMot](https://github.com/synopse/mORMot). Client-Server ORM/ODM SOA MVC framework for Delphi 6 and higher, or FPC 2.7. Direct SQL/NoSQL database access, ORM/ODM over objects, RESTful ORM and SOA services via interfaces over high performance HTTP server, MVC/MVVM web sites, testing including mocks and stubs, logging, huge documentation.
 
 ## Multimedia
 
@@ -98,6 +99,9 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [GLScene](https://sourceforge.net/projects/glscene) is an OpenGL based 3D library for Delphi. It provides visual components and objects allowing description and rendering of 3D scenes in an easy, no-hassle, yet powerful manner. GLScene is not just an OpenGL wrapper or utility library, it has grown to become a set of founding classes for a generic 3D engine with Rapid Application Development in mind. GLScene allows you to quickly design and render 3D scenes without having to learn the intricacies of OpenGL, if you know how to design a TForm, you'll easily master the basic operations of GLScene. The library comes with a large collections of demos showcasing the ease of use, and demonstrating RAD wasn't done at the expense of CPU/GPU horsepower.
 
+* [SynGdiPlus](https://github.com/synopse/mORMot/blob/master/SynGdiPlus.pas) enables an application to load and save GIF, TIF, PNG and JPG pictures. It also allows anti-aliased drawing from any TMetaFile. That is, you can play a .emf content using GDI+ instead of GDI, for much better rendering result.
+
+
 ## Communications
 
 ## Network
@@ -113,6 +117,9 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [Internet Professional](http://sourceforge.net/projects/tpipro2010) is a set of VCL components providing Internet connectivity for Borland Delphi & C++Builder. iPRO includes POP3, SMTP, NNTP, FTP, HTTP, Instant Messaging, & HTML viewer components, as well as components for low-level socket access.
 // *Seems abandoned but contains pretty large set of features incl ICMP, POP, SMTP, HTTP, NNTP, NTP, FTP, SMTP; HTML parser and viewer; MIME utils; cookies, certificates, caching, encryption etc*
+
+* [SynCrtSock](https://github.com/synopse/mORMot/blob/master/SynCrtSock.pas) features several sockets and HTTP client-server classes, including a high-performance http.sys based server under Windows, and a new thread-pool powered socket server.
+// *Also implements http.sys binding under Windows and cURL binding under nix*
 
 ## Serial port
 
@@ -188,6 +195,10 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [delphimemcache](https://code.google.com/p/delphimemcache) implements a thread safe client for memcached.
 // *Requires Indy 10*
 
+* [SynDB](https://github.com/synopse/mORMot/blob/master) (docs](http://synopse.info/files/html/Synopse%20mORMot%20Framework%20SAD%201.18.html#TITL_126)) is high performance direct access to SQLite3, Oracle, MSSQL, PostgreSQL, Firebird, MySQL, ODBC, OleDB, including remote HTTP connection and direct JSON support.
+
+* [SynMongoDB](https://github.com/synopse/mORMot/blob/master/SynMongoDB.pas) ([docs](http://blog.synopse.info/post/2014/05/07/MongoDB-database-access)) offers direct low-level access to any MongoDB server, its custom data types, JSON or via `TDocVariant` custom variant document storage.
+
 ## Scripting
 *Using script engine in your applications*
 
@@ -200,6 +211,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [Blaise](http://sourceforge.net/projects/blaise) is an open-source object-oriented scripting language. Language features: Object-oriented; Unicode support; Optional typing, ie dynamic or static typing; Richly typed; Higher-level mathematics support, for example Complex numbers, Rational numbers and Matrices; Virtual Machine architecture; Co-routines; Familiar language syntax, influenced by Object Pascal, Python and Ada.
 
+* [SpiderMonkey](https://github.com/synopse/mORMot) latest version of SpiderMonkey, the Mozilla JavaScript engine, including JIT and multi-threading, with easy objects access via Delphi variants.
+// *Spidermonkey DLL required*
 
 ## Non-visual Classes/Utils
 
@@ -211,6 +224,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [Abbrevia](http://sourceforge.net/p/tpabbrevia) ([Newest](https://github.com/TurboPack/Abbrevia) and maintained version for recent compiler version only). Advanced data compression toolkit for Delphi and C++Builder. Supports PKZIP, Microsoft CAB, tar, gzip, and bzip2 archives, and can create self-extracting executables. On Windows it also provides Delphi wrappers for the LZMA, Bzip2, and WavPack SDKs, and PPMd decompression. Abbrevia also has several visual controls that simplify displaying and manipulating archives, including treeview and listview components. Features: Unicode filenames in all archive formats; Decompress most .zipx and legacy (PKZIP v1) zips; ZIP64 support for archives larger than 2GB; Spanned and split zip archives; Cross-platform (Windows, OS X, and Linux); No DLLs required; Includes COM component; Extensive documentation
 // *Second link points to an adapted version for newest compiler versions.*
 
+* [SynLZ SynLZO SynZip](https://github.com/synopse/mORMot) several high speed compression units, featuring ZIP, LZO and SynLZ algorithm, in pascal and optimized assembler.
+
 ## Encryption
 
 * [Delphi Encryption Compendium (DEC)](https://github.com/winkelsdorf/DelphiEncryptionCompendium/releases) is a cryptographic library for Delphi & C++ Builder. Symmetric cryptographic functions: Blowfish, Twofish, IDEA, Cast128, Cast256, Mars, RC2, RC4, RC5, RC6, Rijndael / AES, Square, SCOP, Sapphire, 1DES, 2DES, 3DES, 2DDES, 3DDES, 3TDES, 3Way, Gost, Misty, NewDES, Q128, SAFER, Shark, Skipjack, TEA, TEAN; Block cipher modes of operation: CTSx, CBCx, CFB8, CFBx, OFB8, OFBx, CFSx, ECBx; Hashes: MD2, MD4, MD5, RipeMD128, RipeMD160, RipeMD256, RipeMD320, SHA, SHA1, SHA256, SHA384, SHA512, Haval128, Haval160, Haval192, Haval224, Haval256, Tiger, Panama, Whirlpool, Whirlpool1, Square, Snefru128, Snefru256, Sapphire.
@@ -218,6 +233,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [LockBox](http://sourceforge.net/projects/tplockbox) ([Newest](https://github.com/TurboPack/LockBox3) and maintained version for recent compiler version only) is a Delphi library for cryptography. Currently supported Delphi XE6. It provides support for AES, DES, 3DES, Blowfish, Twofish, SHA2 (including the new SHA-512/224 & SHA-512/256), MD5; ECB, CBC, CFB8, CFB, CTR, ECB, OFB, PCBC chaining modes, RSA digital signature and verification. Has interface to OpenSSL library.
 // *Check out [this](https://github.com/jarto/lockbox2) page as well for alternative version.*
+
+* [SynCrypto](https://github.com/synopse/mORMot/blob/master/SynCrypto.pas) fast cryptographic routines (hashing and cypher), implementing AES, XOR, RC4, ADLER32, MD5, SHA1, SHA256 algorithms, optimized for speed (tuned assembler and VIA PADLOCK optional support).
 
 ## XML/JSON
 
@@ -243,6 +260,9 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [Chimera](http://code.google.com/p/jsonchimera) is an Open Source (MIT License) library for Delphi XE2 which provides a fast and cross platform JSON generator/parser (serializer/deserializer) under a license that doesn't suck.
 
+* [SynCommons](http://https://github.com/synopse/mORMot/blob/master/SynCommons.pas) High speed JSON library, using `TDocVariant` custom variant type for storage and access.
+
+* [SynCrossPlatformJSON](https://github.com/synopse/mORMot/blob/master/CrossPlatform/SynCrossPlatformJSON.pas) High speed cross-platform JSON library, using `TJSONVariant` custom variant type for storage and access.
 
 ## System
 *Low-level helper stuff: memory, threading etc*
