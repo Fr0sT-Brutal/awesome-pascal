@@ -101,6 +101,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [SynGdiPlus](https://github.com/synopse/mORMot/blob/master/SynGdiPlus.pas). Enables an application to load and save GIF, TIF, PNG and JPG pictures. It also allows anti-aliased drawing from any TMetaFile. That is, you can play a .emf content using GDI+ instead of GDI, for much better rendering result.
 
+* [TGdiPages](https://github.com/synopse/mORMot/blob/master/SQLite3/mORMotReport.pas) ([docs](http://synopse.info/files/html/api-1.18/mORMotReport.html)) Fast and efficient code-based reporting component, with preview form and PDF export.
 
 ## Communications
 
@@ -340,6 +341,9 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [ResEd](http://code.google.com/p/theunknownones). Expert for Delphi 2005, 2006, 2007, 2009, 2010 and XE. This expert is designed for editing the resource files (.res; .resx) that are linked to the active project. It will automatically search for all occurrences of {$R xyz.res} lines and will open/create resourcefiles for them. The expert registers itself in the menubar of Delphi under View.
 
 * [Inno Setup](http://www.jrsoftware.org/isinfo.php). Free installer for Windows programs. First introduced in 1997, Inno Setup today rivals and even surpasses many commercial installers in feature set and stability.
+
+* [SynProject](https://github.com/synopse/SynProject) ([docs](http://synopse.info/fossil/wiki?name=SynProject)) tool for code source versioning and automated documentation of Delphi projects.
+
 
 ## License
 
