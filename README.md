@@ -18,6 +18,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 	- [GUI](#gui)
 		- [Control packs](#control-packs)
 		- [Single controls](#single-controls)
+		- [Editors](#editors)
+		- [Viewers](#viewers)
 		- [Other GUI](#other-gui)
 	- [Database](#database)
 	- [Scripting](#scripting)
@@ -31,8 +33,9 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 	- [Unit Testing](#unit-testing)
 	- [Utilities](#utilities)
 
+----------------------------------------------------------------------------------------------------------------
 
-## General Libraries
+## General Libraries ##
 *Big general-purpose libraries*
 
 * [JVCL](http://sourceforge.net/projects/jvcl). Library of over 600 Delphi components developed by "Project JEDI" members.
@@ -53,7 +56,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [mORMot](https://github.com/synopse/mORMot). Client-Server ORM/ODM SOA MVC framework for Delphi 6 and higher, or FPC 2.7. Direct SQL/NoSQL database access, ORM/ODM over objects, RESTful ORM and SOA services via interfaces over high performance HTTP server, MVC/MVVM web sites, testing including mocks and stubs, logging, huge documentation.
 
-## Multimedia
+
+## Multimedia ##
 
 ## Audio
 
@@ -111,7 +115,11 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [Fully-justified-text](https://github.com/vintagedave/fully-justified-text). Delphi VCL / Windows project for text output, allowing printing of fully justified text with a variety of options.
 
-## Communications
+* [AsciiImage](https://github.com/Memnarch/AsciiImage). AsciiImage-Implementation for Delphi by Alexander Benikowski based on AsciiImage by Charles Parnot. Read more on [his article](http://cocoamine.net/blog/2015/03/20/replacing-photoshop-with-nsstring).
+// *Creates scalable monochrome image from ASCII pixel map*
+
+
+## Communications ##
 
 ## Network
 *Socket communication, network protocols, encodings, etc*
@@ -138,7 +146,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 // *Seems outdated (last update in 2011) but adapted to XE and should be easy to use in newer versions. The project is also very thoroughly documented. Second link points to an adapted version for newest compiler versions.*
 
 
-## GUI
+## GUI ##
 *Visual components*
 
 ## Control packs
@@ -164,20 +172,27 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [VirtualTreeView](https://github.com/Virtual-TreeView/Virtual-TreeView). Treeview control built from ground up. Many years of development made it one of the most flexible and advanced tree controls available today.
 // *Extremely flexible visual component implementing virtual (callback-based) MVC paradigm. Could be also used as a listview or grid. Used in RAD Studio GUI.*
 
-* [HtmlViewer](http://github.com/BerndGabriel/HtmlViewer). Delphi/Lazarus HtmlViewer/FrameViewer.
-// *Html visualiser supporting majority of tags, inline styles and CSS.*
-
-* [SynEdit](http://sourceforge.net/projects/synedit) ([mirror at GitHub](https://github.com/TurboPack/SynEdit)). Syntax highlighting edit control, not based on the Windows common controls. SynEdit is compatible with both Delphi and Kylix
-
 * [Delphi Chromium Embedded](https://code.google.com/p/delphichromiumembedded). Embedding Chromium in Delphi, tested on Delphi 2010, XE, XE2, Delphi 7.
 // *Several DLLs required*
+
+* [TChromeTabs](https://code.google.com/p/delphi-chrome-tabs). Comprehensive implementation of Google Chrome's tabs for Delph7 — Delphi XE7
+
+## Editors
+
+* [SynEdit](https://sourceforge.net/projects/synedit) ([mirror at GitHub](https://github.com/TurboPack/SynEdit)). Syntax highlighting edit control, not based on the Windows common controls. SynEdit is compatible with both Delphi and Kylix
+
+* [TBCEditor](https://github.com/bonecode/TBCEditor). A syntax highlighting edit control with code folding, minimap, external JSON highlighter and color scheme files, etc.
+// *Very powerful and feature-rich component. Supports Delphi XE4..XE8, C++ Builder XE7, backport to XE available*
+
+## Viewers
 
 * [ATViewer](https://sourceforge.net/projects/atviewer). Delphi components to view various file types: text, binary, images, multimedia, webpages, etc.
 // *Used in Universal Viewer software. Could be used to display hex dumps, features fast display of unlimited size files/streams. Supports Total Commander Lister plugins.*
 
-* [ATImageMap](http://sourceforge.net/projects/atviewer/files/ATImageMap). Component designed to show many images (parts of the whole image) as a single map. For example, you may have array of images, 200 by X, and 100 by Y — control will show them as a single map. Component also allows to draw paths: each path consists of many lines, points, and icons.
+* [ATImageMap](https://sourceforge.net/projects/atviewer/files/ATImageMap). Component designed to show many images (parts of the whole image) as a single map. For example, you may have array of images, 200 by X, and 100 by Y — control will show them as a single map. Component also allows to draw paths: each path consists of many lines, points, and icons.
 
-* [TChromeTabs](http://code.google.com/p/delphi-chrome-tabs). Comprehensive implementation of Google Chrome's tabs for Delph7 — Delphi XE7
+* [HtmlViewer](https://github.com/BerndGabriel/HtmlViewer). Delphi/Lazarus HtmlViewer/FrameViewer.
+// *Html visualiser supporting majority of tags, inline styles and CSS.*
 
 ## Other GUI
 
@@ -191,7 +206,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [TFireMonkeyContainer](https://github.com/vintagedave/firemonkey-container). Delphi VCL component to host a FMX HD or 3D form. It means you can embed a FireMonkey (FMX) form as a control in a VCL form, so you can design a FMX form and use it in your VCL app.
 
-## Database
+
+## Database ##
 
 * [ZeosLib](http://sourceforge.net/projects/zeoslib). Set of database components for MySQL, PostgreSQL, Interbase, Firebird, MS SQL, Sybase, Oracle and SQLite.
 
@@ -212,7 +228,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [DSharp](https://bitbucket.org/sglienke/dsharp). Small library for providing data binding in Delphi. It does not require special components to data bind to properties. It also provides dependency injection, MVVM and more interesting utilities.
 
-## Scripting
+
+## Scripting ##
 *Using script engine in your applications*
 
 * [Pascal Script](https://github.com/remobjects/pascalscript). Free scripting engine that allows you to use most of the Object Pascal language within your Delphi or Free Pascal projects at runtime. Written completely in Delphi, it is composed of a set of units that can be compiled into your executable, eliminating the need to distribute any external files. Pascal Script started out as a need for a good working script, when there were none available at the time.
@@ -227,7 +244,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [SpiderMonkey](https://github.com/synopse/mORMot). Binding for Mozilla JavaScript engine, including JIT and multi-threading, with easy objects access via Delphi variants.
 // *Spidermonkey DLL required*
 
-## Non-visual Classes/Utils
+
+## Non-visual Classes/Utils ##
 
 ## Compression
 
@@ -248,6 +266,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 // *Check out [this](https://github.com/jarto/lockbox2) page as well for alternative version.*
 
 * [SynCrypto](https://github.com/synopse/mORMot/blob/master/SynCrypto.pas). Fast cryptographic routines (hashing and cypher), implementing AES, XOR, RC4, ADLER32, MD5, SHA1, SHA256 algorithms, optimized for speed (tuned assembler and VIA PADLOCK optional support).
+
+* [TForge](https://bitbucket.org/sergworks/tforge). Open-source crypto library written in Delphi, compatible with Free Pascal Compiler. MD5, SHA1, SHA256, CRC32, Jenkins-One-At-Time, HMAC, PBKDF1, PBKDF2, AES, DES, RC4, RC5, Salsa20.
 
 ## XML/JSON
 
@@ -311,7 +331,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [byterage](https://github.com/quartexNOR/byterage). Object pascal class library designed to remove some of the limitations of streams. The framework is very simple to use, with only one common ancestor class (TBRBuffer) which defines a set of storage agnostic mechanisms for allocating, scaling, inserting, deleting and otherwise manipulating a segment of raw binary data.
 
-## OS
+
+## OS ##
 *Tools that help dealing with OS-specific internals*
 
 * [GLibWMI](http://sourceforge.net/projects/glibwmi). Component Library for Delphi that encapsulate the classes for access to WMI of Windows in a set of VCL. BiosInfo, PrinterInfo, DiskInfo,... Allow access WMI Classes: WIN32_Bios, WIN32_Printers, WIN32_DiskDrive.
@@ -320,7 +341,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [The new Drag and Drop Component Suite](https://github.com/landrix/The-new-Drag-and-Drop-Component-Suite-for-Delphi). VCL component library that enables your Delphi and C++Builder applications to support COM based drag and drop and integrate with the Windows clipboard.
 
-## Unit Testing
+
+## Unit Testing ##
 
 * [DUnitX](https://github.com/VSoftTechnologies/DUnitX). New test framework, taking ideas from DUnit, NUnit and other test frameworks. It is designed to work with Delphi 2010 or later, it makes use of language/RTL features that are not available in older versions of Delphi.
 
@@ -335,7 +357,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [DUnit-XML](https://github.com/VSoftTechnologies/DUnit-XML). Test runner that allows DUnit Tests to output NUnit compatible XML.
 
 
-## Utilities
+## Utilities ##
 *Useful dev tools/IDE plugins*
 
 * [Lazy Delphi Builder](https://bitbucket.org/tdelphi/lazy-delphi-builder-downloads/downloads). Build tool for Delphi. Recompile projects/packages from sources with all dependencies, without need to mess around with configs. Quickly (re-)install components from sources into IDE, with no need to change your Library Path.
@@ -365,6 +387,9 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [SynProject](https://github.com/synopse/SynProject) ([docs](http://synopse.info/fossil/wiki?name=SynProject)). Tool for code source versioning and automated documentation of Delphi projects.
 
 * [Parnassus Bookmarks](https://parnassus.co/delphi-tools/bookmarks). IDE plugin that extends bookmark functionality.
+
+* [PasDoc](https://sourceforge.net/projects/pasdoc). Documentation tool for ObjectPascal (FreePascal and Delphi) source code. Documentation is generated from comments found in source code. Available output formats are HTML, HtmlHelp, LaTeX, latex2rtf, simplexml. More output formats may be added in the future.
+
 
 
 ## License
