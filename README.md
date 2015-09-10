@@ -119,6 +119,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [AsciiImage](https://github.com/Memnarch/AsciiImage). AsciiImage-Implementation for Delphi by Alexander Benikowski based on AsciiImage by Charles Parnot. Read more on [his article](http://cocoamine.net/blog/2015/03/20/replacing-photoshop-with-nsstring).
 // *Creates scalable monochrome image from ASCII pixel map*
 
+* [Kraft Physics Engine](https://github.com/BeRo1985/kraft). Open source Object Pascal physics engine library that can be used in 3D games. Compatible with: Delphi 7-XE7 (but not with the Android and iOS targets), FreePascal >= 2.6.2 (with almost all FPC-supported targets including Android and iOS) 
+
 
 ## Communications ##
 
@@ -249,6 +251,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [SpiderMonkey](https://github.com/synopse/mORMot). Binding for Mozilla JavaScript engine, including JIT and multi-threading, with easy objects access via Delphi variants.
 // *Spidermonkey DLL required*
 
+* [BESEN](https://github.com/BeRo1985/besen). Complete ECMAScript Fifth Edition Implemention in Object Pascal, which is compilable with Delphi >=7 and Free Pascal >= 2.5.1 (maybe also 2.4.1).
 
 ## Non-visual Classes/Utils ##
 
@@ -332,6 +335,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [TRegExpr](http://regexpstudio.com/TRegExpr/TRegExpr.html). Easy to use and powerful tool for sophisticated search and substitutioning and for template-based text input check.
 // *Abandoned since 2004 but unlike stock RAD Studio implementation doesn't use PCRE obj files that add dependency on msvcrt.dll*
 
+* [FLRE](https://github.com/BeRo1985/flre). FLRE ( F ast L ight R egular E xpressions) is a fast, safe and efficient regular expression library, which is implemented in Object Pascal (Delphi and Free Pascal) but which is even usable from other languages like C/C++ and so on.
+
 * [OnGuard](http://sourceforge.net/projects/tponguard) ([Alternate](https://github.com/TurboPack/OnGuard-VCL) and maintained version for recent compiler version only). Library to create demo versions of your Borland Delphi & C++Builder applications. Create demo versions that are time-limited, feature-limited, limited to a certain number of uses, or limited to a certain # of concurrent network users.
 // *Second link points to an adapted version for newest compiler versions.*
 
@@ -344,6 +349,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [DuckDuckDelphi](https://code.google.com/p/duckduckdelphi). Adds simple duck typing to Delphi Objects and provides an RTTI helper class to simplify many common RTTI tasks.
 
 * [byterage](https://github.com/quartexNOR/byterage). Object pascal class library designed to remove some of the limitations of streams. The framework is very simple to use, with only one common ancestor class (TBRBuffer) which defines a set of storage agnostic mechanisms for allocating, scaling, inserting, deleting and otherwise manipulating a segment of raw binary data.
+
+* [stateless](https://github.com/SirRufo/stateless). Simple library for creating state machines in Delphi code.
 
 
 ## OS ##
