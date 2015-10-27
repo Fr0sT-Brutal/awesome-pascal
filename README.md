@@ -337,8 +337,6 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [MemoryModule](https://github.com/Fr0sT-Brutal/Delphi_MemoryModule). With the MemoryModule engine you can store all required DLLs inside your binary to keep it standalone. Additional hook units allow transparent using of MM engine thus allowing switching MM/WinAPI loading as well as enabling 3rd party dynamic-load DLL interfaces that are unaware of MM (tested with Interbase Express components and Firebird client library). MemoryModule is a Pascal port of Joachim Bauch's C MemoryModule.
 
-* [BTMemoryModule](https://github.com/dsplayer/memorymodule). Another MemoryModule implementation.
-
 ## Other non-visual
 
 * [TRegExpr](http://regexpstudio.com/TRegExpr/TRegExpr.html). Easy to use and powerful tool for sophisticated search and substitutioning and for template-based text input check.
