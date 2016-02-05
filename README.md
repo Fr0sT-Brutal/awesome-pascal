@@ -317,6 +317,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [SynCrossPlatformJSON](https://github.com/synopse/mORMot/blob/master/CrossPlatform/SynCrossPlatformJSON.pas). High speed cross-platform JSON library, using `TJSONVariant` custom variant type for storage and access.
 
+* [Json Data Objects](https://github.com/ahausladen/JsonDataObjects). This Delphi unit contains a JSON parser that supports Delphi 2009-10Seattle and the platforms Win32, Win64 and ARM Android (MacOS and iOS may work).
+
 * [TinyJSON](http://sourceforge.net/projects/tinyjson/). This is a small (about 1600 lines of code) unit for Delphi, which realizes parsing and generating JSON format. Can be used in combination with FastMM and FastCode for even faster speed.
 
 * [JSON delphi library](http://sourceforge.net/projects/lkjson/). This is a delphi library implementing JSON. Lightweight and fast.
