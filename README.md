@@ -151,6 +151,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [TML Messaging Suite](http://www.libtml.org/docs/libtml-pascal/) is a network messaging library for rapid development of extensible and scalable interfaces. Based on the peer to peer standard protocol [BEEP (Blocks Extensible Exchange Protocol)](http://www.beepcore.org/), defined in [RFC3080](https://tools.ietf.org/html/rfc3080) and [RFC3081](https://tools.ietf.org/html/rfc3081) **libTML** is suitable for many use cases and communication patterns. Equipped with a type safe data API, TML can transport hierarchical data structures fast and reliable.
 // *The libTML Object Pascal Components are not only a language binding to the core library but a complete set of non visual components to simplify the usage of libTML with Embarcadero RAD Studio and Lazarus.*
 
+* [DMVCFramework](https://github.com/danieleteti/delphimvcframework) is a popular and powerful framework for web solution in Delphi.
+
 ## Serial port
 
 * [Synaser](http://sourceforge.net/p/synalist/code/HEAD/tree/trunk/synaser.pas). Library for blocking communication on serial ports. It is non-visual class as in Synapse, and programmer interface is very similar to Synapse.
@@ -251,6 +253,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [ghORM](https://github.com/leledumbo/ghORM). Object Relational Mapping unit to ease database access from Free Pascal, by abstracting the backend and simple data retrieval (with filtering), insertion and update.
 
 * [tDBF](http://sourceforge.net/p/tdbf/code/HEAD/tree/). TDBF is a native dBASE III+, dBase IV and dBase 2k data access component for Delphi, BCB, Kylix, FreePascal. It allows you to create very compact database programs which don't need any special installer programs. The DB engine code is compiled right into your executable. 
+
+* [Redis client](https://github.com/danieleteti/delphiredisclient) for Delphi 10.1 Berlin, Delphi 10 Seattle, XE8, XE7, XE6 and XE5 (should works also with older versions). This client is able to send all Redis commands and read the response using an internal parser.
 
 ## Scripting ##
 *Using script engine in your applications*
@@ -383,6 +387,9 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [stateless](https://github.com/SirRufo/stateless). Simple library for creating state machines in Delphi code.
 
+* [GenericTree](https://github.com/davidberneda/GenericTree). Delphi implementation of a generic Tree structure.
+
+* [Delphi Event Bus](https://github.com/spinettaro/delphi-event-bus) (for short DEB) is an Event Bus framework for Delphi.
 
 ## OS ##
 *Tools that help dealing with OS-specific internals*
