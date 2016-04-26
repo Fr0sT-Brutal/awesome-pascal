@@ -333,6 +333,9 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [JSON delphi library](http://sourceforge.net/projects/lkjson/). This is a delphi library implementing JSON. Lightweight and fast.
 
+* [dwsJSON](https://bitbucket.org/egrange/dwscript/src/b9f99d4b8187defac3f3713e2ae0f7b83b63d516/Source/dwsJSON.pas?at=master). dwsJSON is a unit that supports JSON parsing/creating, it’s part of DWScript but relatively “standalone”, in that if you add it in your Delphi (or FPC) projects, it won’t pull the whole of DWScript library, and thus can be used anywhere you need.
+
+
 ## Language
 *Tools for Pascal and other languages*
 
@@ -463,6 +466,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [DelphiSettingManager](https://github.com/Arvur/DelphiSettingManager). Multiple IDE profiles for Delphi (up to XE6). Allows to install multiple versions of the same component or different component sets for different projects.
 
 * [Delphinus](https://github.com/Memnarch/Delphinus). New Packagemanager which runs on Delphi XE and newer and uses Github as a Backend to Provide the packages.
+
+* [SamplingProfiler](https://www.delphitools.info/samplingprofiler/) is a performance profiling tool for Delphi 5 to 32bits Delphi XE4. Its purpose is to help locate bottlenecks, even in final, optimized code running at full-speed.
 
 ## License
 
