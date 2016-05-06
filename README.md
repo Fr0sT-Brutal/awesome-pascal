@@ -148,10 +148,13 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [SynCrtSock](https://github.com/synopse/mORMot/blob/master/SynCrtSock.pas). Features several sockets and HTTP client-server classes, including a high-performance http.sys based server under Windows, and a new thread-pool powered socket server.
 // *Also implements http.sys binding under Windows and cURL binding under nix*
 
-* [TML Messaging Suite](http://www.libtml.org/docs/libtml-pascal/) is a network messaging library for rapid development of extensible and scalable interfaces. Based on the peer to peer standard protocol [BEEP (Blocks Extensible Exchange Protocol)](http://www.beepcore.org/), defined in [RFC3080](https://tools.ietf.org/html/rfc3080) and [RFC3081](https://tools.ietf.org/html/rfc3081) **libTML** is suitable for many use cases and communication patterns. Equipped with a type safe data API, TML can transport hierarchical data structures fast and reliable.
+* [TML Messaging Suite](http://www.libtml.org/docs/libtml-pascal) is a network messaging library for rapid development of extensible and scalable interfaces. Based on the peer to peer standard protocol [BEEP (Blocks Extensible Exchange Protocol)](http://www.beepcore.org), defined in [RFC3080](https://tools.ietf.org/html/rfc3080) and [RFC3081](https://tools.ietf.org/html/rfc3081) **libTML** is suitable for many use cases and communication patterns. Equipped with a type safe data API, TML can transport hierarchical data structures fast and reliable.
 // *The libTML Object Pascal Components are not only a language binding to the core library but a complete set of non visual components to simplify the usage of libTML with Embarcadero RAD Studio and Lazarus.*
 
 * [DMVCFramework](https://github.com/danieleteti/delphimvcframework) is a popular and powerful framework for web solution in Delphi.
+
+* [Delphi IOCP](https://github.com/ymofen/diocp-v5) implements several network classes based on Windows IOCP technology. Socket, HTTP, Ntrip servers and clients.
+// *Quite well documented and good styled code but Chinese only.*
 
 ## Serial port
 
@@ -160,6 +163,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [Async Professional](http://sourceforge.net/projects/tpapro) ([Newest](https://github.com/TurboPack/AsyncPro) and maintained version for recent compiler version only). Comprehensive communications toolkit for Embarcadero Delphi, C++Builder, & ActiveX environments. It provides direct access to serial ports, TAPI and the Microsoft Speech API (TTS/Speech recognition). It supports faxing, terminal emulation, VOIP, RAS dial & more.
 // *Seems outdated (last update in 2011) but adapted to XE and should be easy to use in newer versions. The project is also very thoroughly documented. Second link points to an adapted version for newest compiler versions.*
 
+* [TComPort](https://sourceforge.net/projects/comport). Delphi/C++ Builder serial communications components. It is generally easy to use for basic Serial Communications purposes.
+// *Seems abandoned since 2011*
 
 ## GUI ##
 *Visual components*
@@ -189,10 +194,12 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [VirtualTreeView](https://github.com/Virtual-TreeView/Virtual-TreeView). Treeview control built from ground up. Many years of development made it one of the most flexible and advanced tree controls available today.
 // *Extremely flexible visual component implementing virtual (callback-based) MVC paradigm. Could be also used as a listview or grid. Used in RAD Studio GUI.*
 
-* [Delphi Chromium Embedded](https://code.google.com/p/delphichromiumembedded). Embedding Chromium in Delphi, tested on Delphi 2010, XE, XE2, Delphi 7.
-// *Several DLLs required*
+* [Delphi Chromium Embedded](https://github.com/hgourvest/dcef3/commits/master). Embedding Chromium in Delphi, tested on Delphi 2010, XE, XE2, Delphi 7.
+// *Several Chromium DLLs required*
 
 * [TChromeTabs](https://github.com/norgepaul/tchrometabs). Comprehensive implementation of Google Chrome's tabs for Delphi 6 - Delphi XE8
+
+* [TFrameStand](https://github.com/andrea-magni/TFrameStand). Easily use TFrame(s) in your FireMonkey (FMX) applications to gain visual consistency though the whole user experience and easily add modern looking elements like effects and transitions.
 
 ## Editors
 
@@ -252,9 +259,12 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [ghORM](https://github.com/leledumbo/ghORM). Object Relational Mapping unit to ease database access from Free Pascal, by abstracting the backend and simple data retrieval (with filtering), insertion and update.
 
-* [tDBF](http://sourceforge.net/p/tdbf/code/HEAD/tree/). TDBF is a native dBASE III+, dBase IV and dBase 2k data access component for Delphi, BCB, Kylix, FreePascal. It allows you to create very compact database programs which don't need any special installer programs. The DB engine code is compiled right into your executable. 
+* [tDBF](http://sourceforge.net/p/tdbf/code/HEAD/tree). TDBF is a native dBASE III+, dBase IV and dBase 2k data access component for Delphi, BCB, Kylix, FreePascal. It allows you to create very compact database programs which don't need any special installer programs. The DB engine code is compiled right into your executable. 
 
 * [Redis client](https://github.com/danieleteti/delphiredisclient) for Delphi 10.1 Berlin, Delphi 10 Seattle, XE8, XE7, XE6 and XE5 (should works also with older versions). This client is able to send all Redis commands and read the response using an internal parser.
+
+* [QDAC3](svn://www.qdac.cc/QDAC3), [Web](http://blog.qdac.cc/?page_id=139) stands for quick data access components. Useful units such as QJson ( easy to use json unit), QWorker(job delivery) etc.
+// *Description and comments in Chinese, author is not good at English. Haven't tested this library by myself.*
 
 ## Scripting ##
 *Using script engine in your applications*
@@ -329,9 +339,9 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [Json Data Objects](https://github.com/ahausladen/JsonDataObjects). This Delphi unit contains a JSON parser that supports Delphi 2009-10Seattle and the platforms Win32, Win64 and ARM Android (MacOS and iOS may work).
 
-* [TinyJSON](http://sourceforge.net/projects/tinyjson/). This is a small (about 1600 lines of code) unit for Delphi, which realizes parsing and generating JSON format. Can be used in combination with FastMM and FastCode for even faster speed.
+* [TinyJSON](http://sourceforge.net/projects/tinyjson). This is a small (about 1600 lines of code) unit for Delphi, which realizes parsing and generating JSON format. Can be used in combination with FastMM and FastCode for even faster speed.
 
-* [JSON delphi library](http://sourceforge.net/projects/lkjson/). This is a delphi library implementing JSON. Lightweight and fast.
+* [JSON delphi library](http://sourceforge.net/projects/lkjson). This is a delphi library implementing JSON. Lightweight and fast.
 
 * [dwsJSON](https://bitbucket.org/egrange/dwscript/src/b9f99d4b8187defac3f3713e2ae0f7b83b63d516/Source/dwsJSON.pas?at=master). dwsJSON is a unit that supports JSON parsing/creating, it’s part of DWScript but relatively “standalone”, in that if you add it in your Delphi (or FPC) projects, it won’t pull the whole of DWScript library, and thus can be used anywhere you need.
 
@@ -394,6 +404,9 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [Delphi Event Bus](https://github.com/spinettaro/delphi-event-bus) (for short DEB) is an Event Bus framework for Delphi.
 
+* [DHibernate](https://github.com/thecocce/delphi-hibernate) Object Persistent Framework based on Hibernate and NHibernate for Delphi.
+// *Abandoned since 2012*
+
 ## OS ##
 *Tools that help dealing with OS-specific internals*
 
@@ -405,7 +418,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [TSMBIOS](https://github.com/RRUZ/tsmbios). Allows access the System Management BIOS (SMBIOS) using the Object Pascal language (Delphi or Free Pascal). The SMBIOS (System Management BIOS) is a standard developed by the DMTF. The information stored in the SMBIOS includes devices manufacturer, model name, serial number, BIOS version, asset tag, processors, ports and device memory installed.
 
-* [VersionInfo for Delphi](http://melander.dk/articles/versioninfo/). The library makes it very easy to read values from the Version Info resource of Windows executables and DLLs. Optionally extends the TApplication class with a version info property via class helper.
+* [VersionInfo for Delphi](http://melander.dk/articles/versioninfo). The library makes it very easy to read values from the Version Info resource of Windows executables and DLLs. Optionally extends the TApplication class with a version info property via class helper.
 
 ## Unit Testing ##
 
@@ -467,8 +480,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [Delphinus](https://github.com/Memnarch/Delphinus). New Packagemanager which runs on Delphi XE and newer and uses Github as a Backend to Provide the packages.
 
-* [SamplingProfiler](https://www.delphitools.info/samplingprofiler/) is a performance profiling tool for Delphi 5 to 32bits Delphi XE4. Its purpose is to help locate bottlenecks, even in final, optimized code running at full-speed.
+* [SamplingProfiler](https://www.delphitools.info/samplingprofiler) is a performance profiling tool for Delphi 5 to 32bits Delphi XE4. Its purpose is to help locate bottlenecks, even in final, optimized code running at full-speed.
 
 ## License
 
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0)
