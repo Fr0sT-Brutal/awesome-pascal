@@ -197,9 +197,11 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [Delphi Chromium Embedded](https://github.com/hgourvest/dcef3/commits/master). Embedding Chromium in Delphi, tested on Delphi 2010, XE, XE2, Delphi 7.
 // *Several Chromium DLLs required*
 
-* [TChromeTabs](https://github.com/norgepaul/tchrometabs). Comprehensive implementation of Google Chrome's tabs for Delphi 6 - Delphi XE8
+* [TChromeTabs](https://github.com/norgepaul/tchrometabs). Comprehensive implementation of Google Chrome's tabs for Delphi 6 - Delphi 10.1 Berlin
 
 * [TFrameStand](https://github.com/andrea-magni/TFrameStand). Easily use TFrame(s) in your FireMonkey (FMX) applications to gain visual consistency though the whole user experience and easily add modern looking elements like effects and transitions.
+
+* [TPrintPreview](https://github.com/landrix/TPrintPreview-for-Delphi). Print Preview Component for Delphi Vcl Win32/Win64
 
 ## Editors
 
