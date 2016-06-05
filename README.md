@@ -58,8 +58,6 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [mORMot](https://github.com/synopse/mORMot). Client-Server ORM/ODM SOA MVC framework for Delphi 6 and higher, or FPC 2.7. Direct SQL/NoSQL database access, ORM/ODM over objects, RESTful ORM and SOA services via interfaces over high performance HTTP server, MVC/MVVM web sites, testing including mocks and stubs, logging, huge documentation.
 
-* [Log4d](https://github.com/landrix/Log4d-for-Delphi). Log4d implementation for Delphi based on Log4j
-
 
 ## Multimedia ##
 
@@ -411,6 +409,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [DHibernate](https://github.com/thecocce/delphi-hibernate) Object Persistent Framework based on Hibernate and NHibernate for Delphi.
 // *Abandoned since 2012*
 
+* [Log4d](https://github.com/landrix/Log4d-for-Delphi). Implementation of logging system for Delphi, based on Log4j.
+
 ## OS ##
 *Tools that help dealing with OS-specific internals*
 
@@ -428,7 +428,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [DUnitX](https://github.com/VSoftTechnologies/DUnitX). New test framework, taking ideas from DUnit, NUnit and other test frameworks. It is designed to work with Delphi 2010 or later, it makes use of language/RTL features that are not available in older versions of Delphi.
 
-* [DUnit](http://dunit.sourceforge.net). Unit Testing Framework, that has been the standard testing framework for years, the Delphi IDE now ships with this library. In addition to the drag and drop components, the Drag and Drop Component Suite also includes components that can be used to build Windows Shell Extensions.
+* [DUnit](http://dunit.sourceforge.net). Unit Testing Framework, that has been the standard testing framework for years, the Delphi IDE now ships with this library.
 
 * [DUnit2](http://dunit2.sourceforge.net). Fork of the DUnit Project that adds several new features.
 
