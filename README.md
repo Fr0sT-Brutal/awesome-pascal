@@ -58,6 +58,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [mORMot](https://github.com/synopse/mORMot). Client-Server ORM/ODM SOA MVC framework for Delphi 6 and higher, or FPC 2.7. Direct SQL/NoSQL database access, ORM/ODM over objects, RESTful ORM and SOA services via interfaces over high performance HTTP server, MVC/MVVM web sites, testing including mocks and stubs, logging, huge documentation.
 
+* [MARS - Curiosity](https://github.com/andrea-magni/MARS). Delphi REST Library. Pure REST approach, standard concepts in a familiar Delphi flavor (including a component based client library). Known compatibility: Delphi versions from XE to 10 Seattle. Some functionalities requires FireDAC.
 
 ## Multimedia ##
 
@@ -69,7 +70,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [Delphi ASIO & VST Project](http://sourceforge.net/projects/delphiasiovst). Framework for writing applications using the ASIO interface and VST plugins. It comes with countless DSP algorithms all demonstrated in dozens of examples.
 //*Not very active lately, but the trunk is in a usable state .*
 
-* [NewAC â€” New Audio Components](http://code.google.com/p/newac). Designed to help your Delphi programs perform different sound processing tasks. With NewAC you can play audio stored in many formats (wav, Ogg Vorbis, FLAC, Monkey Audio, WavPack, MP3, Windows WMA, DTS, AC-3 (Dobly Surround), VOB (DVD files)).
+* [NewAC - New Audio Components](http://code.google.com/p/newac). Designed to help your Delphi programs perform different sound processing tasks. With NewAC you can play audio stored in many formats (wav, Ogg Vorbis, FLAC, Monkey Audio, WavPack, MP3, Windows WMA, DTS, AC-3 (Dobly Surround), VOB (DVD files)).
 // *Playback, recording, tag read/write, some audio editing tasks and conversions*
 
 * [Audorra](https://sourceforge.net/projects/audorra). Digital audio library for Delphi and Freepascal. Using a flexible plugin architecture, it allows you to exchange the audio backend (e.g. WaveOut, OpenAL), add protocol classes (e.g. file, http) and decoders.
@@ -129,6 +130,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [AggPasMod](https://github.com/CWBudde/AggPasMod). Modernized Pascal Anti-Grain Geometry. Based on AggPas, which is itself based on the Anti-Grain Geometry, this project offers support for the latest Delphi Versions (XE and above) and contains some helper classes (VCL components and FireMonkey interface). 2D vector graphics library. Basically, you can think of AggPas as of a rendering engine that produces pixel images in memory from some vectorial data. But of course, AGG can do much more than that.
 // *Vector graphic library, renders SVG and much more*
 
+* [delphi-shader](https://github.com/WouterVanNifterick/delphi-shader). Hundreds of graphical effects, and a library that provides GLSL functionality in pure Delphi code. This project produces an executable with more than a hundred real-time graphical effects. All that is a 100% pascal implementation, without the use of exernal libraries or hardware acceleration.
+
 ## Communications ##
 
 ## Network
@@ -148,13 +151,19 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [SynCrtSock](https://github.com/synopse/mORMot/blob/master/SynCrtSock.pas). Features several sockets and HTTP client-server classes, including a high-performance http.sys based server under Windows, and a new thread-pool powered socket server.
 // *Also implements http.sys binding under Windows and cURL binding under nix*
 
-* [TML Messaging Suite](http://www.libtml.org/docs/libtml-pascal) is a network messaging library for rapid development of extensible and scalable interfaces. Based on the peer to peer standard protocol [BEEP (Blocks Extensible Exchange Protocol)](http://www.beepcore.org), defined in [RFC3080](https://tools.ietf.org/html/rfc3080) and [RFC3081](https://tools.ietf.org/html/rfc3081) **libTML** is suitable for many use cases and communication patterns. Equipped with a type safe data API, TML can transport hierarchical data structures fast and reliable.
+* [TML Messaging Suite](http://www.libtml.org/docs/libtml-pascal) is a network messaging library for rapid development of extensible and scalable interfaces. Based on the peer to peer standard protocol [BEEP (Blocks Extensible Exchange Protocol)](http://www.beepcore.org), defined in [RFC3080](https://tools.ietf.org/html/rfc3080) and [RFC3081](https://tools.ietf.org/html/rfc3081). libTML is suitable for many use cases and communication patterns. Equipped with a type safe data API, TML can transport hierarchical data structures fast and reliable.
 // *The libTML Object Pascal Components are not only a language binding to the core library but a complete set of non visual components to simplify the usage of libTML with Embarcadero RAD Studio and Lazarus.*
 
 * [DMVCFramework](https://github.com/danieleteti/delphimvcframework) is a popular and powerful framework for web solution in Delphi.
 
 * [Delphi IOCP](https://github.com/ymofen/diocp-v5) implements several network classes based on Windows IOCP technology. Socket, HTTP, Ntrip servers and clients.
 // *Quite well documented and good styled code but Chinese only.*
+
+* [delphi-aws-ses](https://github.com/monde-sistemas/delphi-aws-ses). Amazon Simple Email Service (AWS SES) library for Delphi applications.
+
+* [delphi-slackbot](https://github.com/monde-sistemas/delphi-slackbot). Delphi library to send messages on [Slack](https://slack.com) using slackbot.
+
+* [Kitto](https://github.com/nandod/kitto). Allows to create Rich Internet Applications based on a data model that can be mapped onto any database. The client-side part uses ExtJS (through the ExtPascal library) to create a fully AJAX application, allowing you to build standard and advanced data-manipulating forms in a fraction of the time. Kitto is aimed at Delphi developers that need to create web application without delving into the intricacies of HTML, CSS, Javascript or learning to use a particular library such as ExtJS, yet it allows access to the bare metal if required.
 
 ## Serial port
 
@@ -270,6 +279,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [QDAC3](svn://www.qdac.cc/QDAC3), [Web](http://blog.qdac.cc/?page_id=139) stands for quick data access components. Useful units such as QJson ( easy to use json unit), QWorker(job delivery) etc.
 // *Description and comments in Chinese, author is not good at English. Haven't tested this library by myself.*
 
+* [InstantObjects](https://sourceforge.net/projects/instantobjects). Integrated framework for developing object-oriented business solutions in Delphi. The framework provides the foundation for the development process as well as the engine that powers the final application. InstantObjects offers: Model realization in the Delphi IDE via integrated two-way tools; Object persistence in the most common relational databases or flat XML-based files; Object presentation via standard data-aware controls.
+
 ## Scripting ##
 *Using script engine in your applications*
 
@@ -286,6 +297,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 // *Spidermonkey DLL required*
 
 * [BESEN](https://github.com/BeRo1985/besen). Complete ECMAScript Fifth Edition Implemention in Object Pascal, which is compilable with Delphi >=7 and Free Pascal >= 2.5.1 (maybe also 2.4.1).
+
+* [Python for Delphi (P4D)](https://github.com/pyscripter/python4delphi). Set of free components that wrap up the Python dll into Delphi and Lazarus (FPC). They let you easily execute Python scripts, create new Python modules and new Python types. You can create Python extensions as dlls and much more
 
 ## Non-visual Classes/Utils ##
 
@@ -335,7 +348,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [NativeXml](https://code.google.com/p/simdesign). This component contains a small-footprint Object Pascal (Delphi) XML implementation that allows to read and write XML documents. You basically only need one unit and you can simply add it to the "uses" clause. You can use this software to read XML documents from files, streams or strings. The load routine generates events that can be used to display load progress on the fly. You can also use it to create and save XML documents.
 
-* [Chimera](http://code.google.com/p/jsonchimera). Open Source (MIT License) library for Delphi XE2 which provides a fast and cross platform JSON generator/parser (serializer/deserializer) under a license that doesn't suck.
+* [Chimera](https://bitbucket.org/sivv/chimera). Open Source (MIT License) library for Delphi XE2 which provides a fast and cross platform JSON generator/parser (serializer/deserializer) under a license that doesn't suck.
 
 * [SynCommons](https://github.com/synopse/mORMot/blob/master/SynCommons.pas). High speed JSON library, using `TDocVariant` custom variant type for storage and access.
 
