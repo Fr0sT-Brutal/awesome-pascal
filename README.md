@@ -132,6 +132,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [delphi-shader](https://github.com/WouterVanNifterick/delphi-shader). Hundreds of graphical effects, and a library that provides GLSL functionality in pure Delphi code. This project produces an executable with more than a hundred real-time graphical effects. All that is a 100% pascal implementation, without the use of exernal libraries or hardware acceleration.
 
+* [dglOpenGL](https://github.com/SaschaWillems/dglOpenGL). Delphi / Pascal OpenGL header translation.
+
 ## Communications ##
 
 ## Network
