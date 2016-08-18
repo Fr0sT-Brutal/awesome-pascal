@@ -427,9 +427,9 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 // *Abandoned since 2012*
 
 * [Log4d](https://github.com/landrix/Log4d-for-Delphi). Implementation of logging system for Delphi, based on Log4j.
-* 
+
 * [TraceTool](http://tracetool.sourceforge.net/). A C#, C++, Delphi, ActiveX and Java trace framework and a trace viewer.
-* 
+
 * [LoggerPro](https://github.com/danieleteti/loggerpro). An modern and pluggable logging framework for Delphi.
 
 ## OS ##
