@@ -28,6 +28,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 		- [Encryption](#encryption)
 		- [XML/JSON](#xmljson)
 		- [Language](#language)
+		- [Memory managers](#memory-managers)
 		- [System](#system)
 		- [Template](#template)
 		- [Logging](#logging)
@@ -62,6 +63,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [mORMot](https://github.com/synopse/mORMot). Client-Server ORM/ODM SOA MVC framework for Delphi 6 and higher, or FPC 2.7. Direct SQL/NoSQL database access, ORM/ODM over objects, RESTful ORM and SOA services via interfaces over high performance HTTP server, MVC/MVVM web sites, testing including mocks and stubs, logging, huge documentation.
 
 * [MARS - Curiosity](https://github.com/andrea-magni/MARS). Delphi REST Library. Pure REST approach, standard concepts in a familiar Delphi flavor (including a component based client library). Known compatibility: Delphi versions from XE to 10 Seattle. Some functionalities requires FireDAC.
+
+* [LKSL](https://github.com/LaKraven/LKSL). LaKraven Studios Standard Library. Special Common Base Types each containing a Thread-Safe Locking Mechanism. Event Engine - a very powerful system for producing Multi-Threaded, Asynchronous and Event-Driven programs. Generics Collections 	Highly efficient, Thread-Safe Collection Types (lists, trees etc.). Stream Handling Library- makes working with Streams much easier! Handles Deleting, Inserting, Reading and Writing data.
 
 
 ## Multimedia ##
@@ -208,7 +211,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 // *Advanced edits, comboboxes, grids + component (de)serializers. GUI components look rather old-style, theme support might be limited. Package contains many demos but no docs seem available. Second link points to an adapted version for newest compiler versions.*
 
 * [KControls](http://www.tkweb.eu/en/delphicomp/kcontrols.html). Control components. All controls have been written with the aim to become both cross-IDE compatible (Delphi/C++Builder VCL and Lazarus LCL) and cross-platform compatible in Lazarus.
-// *Most useful are TKGrid with its DB-aware heritage TKDBGrid â€” a very full-featured grid implementation incl. inplace editors. There's also hex editor, print preview, editors, labels, buttons etc.*
+// *Most useful are TKGrid with its DB-aware heritage TKDBGrid — a very full-featured grid implementation incl. inplace editors. There's also hex editor, print preview, editors, labels, buttons etc.*
 
 * [D.P.F Delphi Android](http://sourceforge.net/projects/dpfdelphiandroid) / [D.P.F Delphi iOS](http://sourceforge.net/projects/dpfdelphiios) native components. D.P.F Delphi Native Components, 100% iOS Performance and styles. Develop iPhone & iPad & iPod Touch applications with fast native performance and native styles. Use native Android controls and services. Fast native performance. Mixed with FM VCL controls. Can be quick updated with latest Android controls & features.
 
@@ -233,6 +236,9 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [TFrameStand](https://github.com/andrea-magni/TFrameStand). Easily use TFrame(s) in your FireMonkey (FMX) applications to gain visual consistency though the whole user experience and easily add modern looking elements like effects and transitions.
 
 * [TPrintPreview](https://github.com/landrix/TPrintPreview-for-Delphi). Print Preview Component for Delphi Vcl Win32/Win64
+
+* [VolgaDB](). Pretty customizable DBgrid for Delphi. TCustomGrid descendant. CheckBox, ComboBox column styles. Also includes TVolgaDBEdit that replaces TDBEdit, TDBComboBox, TDBLookupCombo, TDBLookupTree andTDBDatePicker in one component. TVolgaDBEdit may be DB-aware and non DB-aware.
+// Seems abandoned since 2013
 
 
 ## Editors
@@ -274,6 +280,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [GNU Gettext for Delphi, C++ and Kylix](https://sourceforge.net/projects/dxgettext/). GNU GetText translation tools for Borland Delphi and Borland C++ Builder.
 
+* [OpenWire](https://sourceforge.net/projects/openwireproject). The library allows writing advanced VCL and FireMonkey components for rapid codeless application development. The components developed with the library allow creation of complex applications with zero lines of program code.
 
 ## Database ##
 
@@ -331,6 +338,12 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [Python for Delphi (P4D)](https://github.com/pyscripter/python4delphi). Set of free components that wrap up the Python dll into Delphi and Lazarus (FPC). They let you easily execute Python scripts, create new Python modules and new Python types. You can create Python extensions as dlls and much more
 
+* [CrystalLUA](https://github.com/d-mozulyov/CrystalLUA). Lua binding (Delphi6-2007).
+// LUA DLL required
+
+* [lua4delphi](https://github.com/danieleteti/lua4delphi). Delphi binding for Lua 5.1 language.
+// LUA DLL required
+
 
 ## Non-visual Classes/Utils ##
 
@@ -346,6 +359,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [SynLZ SynLZO SynZip](https://github.com/synopse/mORMot). Several high speed compression units, featuring ZIP, LZO and SynLZ algorithm, in pascal and optimized assembler.
 
 * [Delphi zlib](http://www.base2ti.com/?id=delphi.zlib). Wrapper for zlib.obj originally used by Borland. Delphi up to XE3 supported.
+
+* [DIUcl](http://www.yunqa.de/delphi/products/ucl/index). DIUcl is a lossless compression library with extremely fast and small (200 bytes only!) ASM decompressor. Compression times and ratios are similar to those of deflate/zip and bzip2. Delphi port of the popular UCL Compression Library, which is also used by the popular and well known UPX Ultimate Packer for eXecutables.
 
 
 ## Encryption
@@ -384,6 +399,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [SuperObject](https://github.com/hgourvest/superobject). Parser/writer for JSON data format. This toolkit is designed to work with Delphi and FreePascal (win32, win64, linux32, linux64, MacOSX Intel)
 
 * [OXml](http://www.kluug.net/oxml.php). New XML library for Delphi and Lazarus, developed in late 2013. I took some inspiration from OmniXML but wrote the library completely from scratch. The aim of OXml is to be the most versatile and fastest XML library for the Pascal language. OXml features a SAX parser, DOM implementation, a sequential DOM parser a direct XML reader/writer and a vendor for Delphi's XmlIntf.TXMLDocument. OXml supports all Delphi versions starting from Delphi 4 on all platforms: Win32, Win64, OSX, iOS, Android. OXml supports Lazarus 1.0 and newer on all platforms (tested Win32, Win64, Linux, MacOSX).
+// Free license requires to display the Original Developer's Attribution Information each time an Executable or Source Code or a Larger Work is launched or initially run (which includes initiating a session).
 
 * [Libxml2 for pascal](https://sourceforge.net/projects/libxml2-pas). Pascal units accessing the popular XML API from Daniel Veillard. This should be usable at least from Kylix and Delphi, but hopefully also from other Pascal compilers (like freepascal).
 
@@ -423,16 +439,23 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [Castalia-Delphi-Parser](https://github.com/jacobthurman/Castalia-Delphi-Parser). These files make up a hand-written high speed parser for the Object Pascal dialect known as "Delphi". The original work was done by Martin Waldenburg in the late 1990s, and the project was abandoned sometime before 2003, when I found the code and began working on it.  I have kept it updated as necessary to work with my project, called "Castalia".
 
 
-## System
-*Low-level helper stuff: memory, threading etc*
+## Memory managers
+*Libraries that implement dynamic memory allocation*
 
 * [FastMM](https://github.com/pleriche/FastMM4). Lightning fast replacement memory manager for Embarcadero Delphi Win32 and Win64 applications that is not prone to memory fragmentation, and supports shared memory without the use of external .DLL files.
 // *Used as stock memory manager since 2006 but in simplified version. Provides powerful memory leak/corruption detection instruments.*
 
+* [ScaleMM](https://github.com/andremussche/scalemm). Fast scaling memory manager for Delphi
+
+* [BrainMM](https://github.com/d-mozulyov/BrainMM). Extremely fast memory manager for Delphi.
+// Advanced memory allocation functions for faster aligned operations.
+
+
+## System
+*Low-level helper stuff: memory, threading etc*
+
 * [OmniThreadLibrary](https://github.com/gabr42/OmniThreadLibrary). Simple to use threading library for Delphi.
 // *Easy integration of async processes in your app*
-
-* [ScaleMM](https://github.com/andremussche/scalemm). Fast scaling memory manager for Delphi
 
 * [Delphi Detours Library](https://github.com/mahdisafsafi/delphi-detours-library). Library allowing you to hook Delphi functions and object methods and Windows API functions. It provides an easy way to insert and remove hook.
 // *Supports x64, calling original functions, multi hooks, COM/Interfaces/win32api, object methods hooking, fully thread-safe, Delphi 7/2005-2010/XE-XE7 & Lazarus/FPC, 64 bit address is supported.*
@@ -486,6 +509,14 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [DHibernate](https://github.com/thecocce/delphi-hibernate) Object Persistent Framework based on Hibernate and NHibernate for Delphi.
 // *Abandoned since 2012*
 
+* [UniConv](https://github.com/d-mozulyov/UniConv). Universal text conversion library is a universal quick and compact library intended for conversion, comparison and change of the register of text in concordance with the latest standards of the Unicode Consortium. The librarys function greatly resembles ICU, libiconv and Windows.kernel which are de facto standard for popular operating systems.
+
+* [CachedBuffers](https://github.com/d-mozulyov/CachedBuffers). The library is irreplaceable for the tasks of sequential data reading or writing, especially if the requirements for the performance are increased and there are much data.
+
+* [CachedTexts](https://github.com/d-mozulyov/CachedTexts). Powerful and compact cross-platform library aimed at parsing and generating of text data with the maximum possible performance. Depends on the two other libraries: CachedBuffers and UniConv.
+
+* [delphi-yaml](https://bitbucket.org/OCTAGRAM/delphi-yaml). Delphi 7 compatible bindings for libyaml, YAML parser and emitter library implemented in C. Four layers of bindings are proposed.
+
 
 ## OS ##
 *Tools that help dealing with OS-specific internals*
@@ -520,6 +551,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [Smoketest](https://github.com/deltics/delphi.libs/tree/master/smoketest). A framework for writing tests and performance benchmarks using the Delphi language for Microsoft Windows. It has been tested on all versions of Delphi from 7 thru to 2010.
 
 * [mORMot](#general-libraries). testing including mocks and stubs, logging.
+
+* [OpenCTF](http://openctf.sourceforge.net). Test framework add-on for Embarcadero Delphi® which performs automatic checks of all components in Forms (or DataModules). It provides an easy way to build automatic quality checks for large projects where many components have to pass repeated tests. OpenCTF is based on the DUnit open source test framework and extends it by specialized test classes and helper functions.
 
 
 ## Utilities ##
@@ -568,6 +601,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [Delphinus](https://github.com/Memnarch/Delphinus). New Packagemanager which runs on Delphi XE and newer and uses Github as a Backend to Provide the packages.
 
 * [SamplingProfiler](https://www.delphitools.info/samplingprofiler) is a performance profiling tool for Delphi 5 to 32bits Delphi XE4. Its purpose is to help locate bottlenecks, even in final, optimized code running at full-speed.
+
+* [DIPasDoc](http://www.yunqa.de/delphi/products/pasdoc/index). Generates HTML documentation from comments in Pascal source code files. It outputs browsable help as standard HTML files or customizable MS HTML Help projects.
 
 ## License
 
