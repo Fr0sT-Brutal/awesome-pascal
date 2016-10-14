@@ -30,6 +30,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 		- [Language](#language)
 		- [System](#system)
 		- [Template](#template)
+		- [Logging](#logging)
 		- [Other non-visual](#other-non-visual)
 	- [OS](#os)
 	- [Unit Testing](#unit-testing)
@@ -40,7 +41,9 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 ## General Libraries ##
 *Big general-purpose libraries*
 
-* [JVCL](http://sourceforge.net/projects/jvcl). Library of over 600 Delphi components developed by "Project JEDI" members.
+* [JCL](https://github.com/project-jedi/jcl). Set of thoroughly tested and fully documented utility functions and non-visual classes which can be instantly reused in your Delphi and C++ Builder projects. The library is grouped into several categories such as Strings, Files and I/O, Security, Math and many, many more.
+
+* [JVCL](https://github.com/project-jedi/jvcl). Library of over 600 Delphi components developed by "Project JEDI" members.
 // *GUI, algorithms, classes, API headers etc.*
 
 * [Alcinoe](http://sourceforge.net/projects/alcinoe). Components suite for Delphi.
@@ -60,7 +63,9 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [MARS - Curiosity](https://github.com/andrea-magni/MARS). Delphi REST Library. Pure REST approach, standard concepts in a familiar Delphi flavor (including a component based client library). Known compatibility: Delphi versions from XE to 10 Seattle. Some functionalities requires FireDAC.
 
+
 ## Multimedia ##
+
 
 ## Audio
 
@@ -75,6 +80,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [Audorra](https://sourceforge.net/projects/audorra). Digital audio library for Delphi and Freepascal. Using a flexible plugin architecture, it allows you to exchange the audio backend (e.g. WaveOut, OpenAL), add protocol classes (e.g. file, http) and decoders.
 
+
 ## Video
 
 * [DSPack](https://code.google.com/p/dspack). Set of components and classes to write Multimedia Applications using MS Direct Show and DirectX technologies.
@@ -85,6 +91,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [FFmpeg Delphi/Pascal Headers] (http://www.delphiffmpeg.com/headers). Open source translation of FFMPEG headers.
 
 * [PasLibVlc](http://prog.olsztyn.pl/paslibvlc). Interface to VideoLAN libvlc.dll and VCL player component for Delphi / FreePascal based on VideoLAN
+
 
 ## Graphic
 
@@ -134,7 +141,9 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [dglOpenGL](https://github.com/SaschaWillems/dglOpenGL). Delphi / Pascal OpenGL header translation.
 
+
 ## Communications ##
+
 
 ## Network
 *Socket communication, network protocols, encodings, etc*
@@ -169,6 +178,13 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [Daraja Framework](https://github.com/michaelJustin/daraja-framework). A lightweight HTTP server framework for Object Pascal (Delphi 2009+ / Free Pascal 3.0). Implementing RESTful services is supported via the [daraja-restful](https://github.com/michaelJustin/daraja-restful) extension.
 
+* [Alcinoe](#general-libraries). FTP/Http/NNTP/POP3/SMTP, ISAPI, WinInet Http/FTP clients.
+
+* [Fundamentals Code Library](#general-libraries). Blocking TCP client/server, HTTP(S) via SSL3/TLS1.0/TLS1.1/TLS1.2 (fully native).
+
+* [mORMot](#general-libraries). RESTful ORM and SOA services via interfaces over high performance HTTP server, MVC/MVVM web sites
+
+
 ## Serial port
 
 * [Synaser](http://sourceforge.net/p/synalist/code/HEAD/tree/trunk/synaser.pas). Library for blocking communication on serial ports. It is non-visual class as in Synapse, and programmer interface is very similar to Synapse.
@@ -178,6 +194,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [TComPort](https://sourceforge.net/projects/comport). Delphi/C++ Builder serial communications components. It is generally easy to use for basic Serial Communications purposes.
 // *Seems abandoned since 2011*
+
 
 ## GUI ##
 *Visual components*
@@ -199,6 +216,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [FreeEsVCLComponents](https://github.com/errorcalc/FreeEsVCLComponents). Free Errorsoft Vcl Components - a free library of VCL components for Delphi and C++Builder. This new controls and components to improve the appearance applications and to better user experience. Components support visual styles and has modern style. All components has best support transparency, not flicker, and has support Interesting possibility for double buffering for TGraphicControl heirs. 
 
+
 ## Single controls
 
 * [EasyListView](http://code.google.com/p/mustangpeakeasylistview). Part of VirtualShellTools for the Listview but can be used for a TListview Replacement that is faster and more customizable.
@@ -216,12 +234,14 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [TPrintPreview](https://github.com/landrix/TPrintPreview-for-Delphi). Print Preview Component for Delphi Vcl Win32/Win64
 
+
 ## Editors
 
 * [SynEdit](https://sourceforge.net/projects/synedit) ([mirror at GitHub](https://github.com/TurboPack/SynEdit)). Syntax highlighting edit control, not based on the Windows common controls. SynEdit is compatible with both Delphi and Kylix
 
 * [TBCEditor](https://github.com/bonecode/TBCEditor). A syntax highlighting edit control with code folding, minimap, external JSON highlighter and color scheme files, etc.
 // *Very powerful and feature-rich component. Supports Delphi XE4..XE8, C++ Builder XE7, backport to XE available*
+
 
 ## Viewers
 
@@ -232,6 +252,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [HtmlViewer](https://github.com/BerndGabriel/HtmlViewer). Delphi/Lazarus HtmlViewer/FrameViewer.
 // *Html visualiser supporting majority of tags, inline styles and CSS.*
+
 
 ## Other GUI
 
@@ -252,6 +273,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [DKLang](https://github.com/yktoo/dklang). DKLang Localization Package is a set of classes intended to simplify the localization of applications written in Delphi.
 
 * [GNU Gettext for Delphi, C++ and Kylix](https://sourceforge.net/projects/dxgettext/). GNU GetText translation tools for Borland Delphi and Borland C++ Builder.
+
 
 ## Database ##
 
@@ -285,6 +307,11 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [InstantObjects](https://sourceforge.net/projects/instantobjects). Integrated framework for developing object-oriented business solutions in Delphi. The framework provides the foundation for the development process as well as the engine that powers the final application. InstantObjects offers: Model realization in the Delphi IDE via integrated two-way tools; Object persistence in the most common relational databases or flat XML-based files; Object presentation via standard data-aware controls.
 
+* [Alcinoe](#general-libraries). Firebird/MySQL/SQLite3/Memcached/MongoDb/SphinxQL.
+
+* [mORMot](#general-libraries). Direct SQL/NoSQL database access, ORM/ODM over objects.
+
+
 ## Scripting ##
 *Using script engine in your applications*
 
@@ -304,7 +331,9 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [Python for Delphi (P4D)](https://github.com/pyscripter/python4delphi). Set of free components that wrap up the Python dll into Delphi and Lazarus (FPC). They let you easily execute Python scripts, create new Python modules and new Python types. You can create Python extensions as dlls and much more
 
+
 ## Non-visual Classes/Utils ##
+
 
 ## Compression
 
@@ -318,6 +347,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [Delphi zlib](http://www.base2ti.com/?id=delphi.zlib). Wrapper for zlib.obj originally used by Borland. Delphi up to XE3 supported.
 
+
 ## Encryption
 
 * [Delphi Encryption Compendium (DEC)](https://github.com/winkelsdorf/DelphiEncryptionCompendium/releases). Cryptographic library for Delphi & C++ Builder. Symmetric cryptographic functions: Blowfish, Twofish, IDEA, Cast128, Cast256, Mars, RC2, RC4, RC5, RC6, Rijndael / AES, Square, SCOP, Sapphire, 1DES, 2DES, 3DES, 2DDES, 3DDES, 3TDES, 3Way, Gost, Misty, NewDES, Q128, SAFER, Shark, Skipjack, TEA, TEAN; Block cipher modes of operation: CTSx, CBCx, CFB8, CFBx, OFB8, OFBx, CFSx, ECBx; Hashes: MD2, MD4, MD5, RipeMD128, RipeMD160, RipeMD256, RipeMD320, SHA, SHA1, SHA256, SHA384, SHA512, Haval128, Haval160, Haval192, Haval224, Haval256, Tiger, Panama, Whirlpool, Whirlpool1, Square, Snefru128, Snefru256, Sapphire.
@@ -329,6 +359,13 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [SynCrypto](https://github.com/synopse/mORMot/blob/master/SynCrypto.pas). Fast cryptographic routines (hashing and cypher), implementing AES, XOR, RC4, ADLER32, MD5, SHA1, SHA256 algorithms, optimized for speed (tuned assembler and VIA PADLOCK optional support).
 
 * [TForge](https://bitbucket.org/sergworks/tforge). Open-source crypto library written in Delphi, compatible with Free Pascal Compiler. MD5, SHA1, SHA256, CRC32, Jenkins-One-At-Time, HMAC, PBKDF1, PBKDF2, AES, DES, RC4, RC5, Salsa20.
+
+* [Spring4D](#general-libraries). CRC, DES, MD5, SHA
+
+* [Fundamentals Code Library](#general-libraries). Hashes: XOR, CRC, Adler, MD5, SHA, secure keyed MD5/SHA, etc; Cipher: AES, DES, FUNE, RC2/4, RSA.
+
+* [Alcinoe](#general-libraries). AES, Blowfish, MD5, SHA, secure keyed MD5/SHA.
+
 
 ## XML/JSON
 
@@ -353,6 +390,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [NativeXml](https://code.google.com/p/simdesign). This component contains a small-footprint Object Pascal (Delphi) XML implementation that allows to read and write XML documents. You basically only need one unit and you can simply add it to the "uses" clause. You can use this software to read XML documents from files, streams or strings. The load routine generates events that can be used to display load progress on the fly. You can also use it to create and save XML documents.
 
 * [Delphi-XmlLite](https://github.com/GenasysTechnologies/Delphi-XmlLite). Header translation for Microsoft XmlLite. XmlLite is a native C++ implementation of .NET XmlReader+Writer for stream-based, forward-only XML parsing and creation. XmlLite.dll is required. It is included with all new versions of Windows, and service packs for old versions. XmlReader's pull-based interface is cleaner to use than SAX's event-based interface.
+// Seems abandoned and reported to be somewhat buggy.
 
 * [Chimera](https://bitbucket.org/sivv/chimera). Open Source (MIT License) library for Delphi XE2 which provides a fast and cross platform JSON generator/parser (serializer/deserializer) under a license that doesn't suck.
 
@@ -368,6 +406,12 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [dwsJSON](https://bitbucket.org/egrange/dwscript/src/b9f99d4b8187defac3f3713e2ae0f7b83b63d516/Source/dwsJSON.pas?at=master). dwsJSON is a unit that supports JSON parsing/creating, it’s part of DWScript but relatively “standalone”, in that if you add it in your Delphi (or FPC) projects, it won’t pull the whole of DWScript library, and thus can be used anywhere you need.
 
+* [ZEXMLSS](https://github.com/Avemey/zexmlss). Lazarus/Delphi component for read/write ods, excel xml, xlsx.
+
+* [Fundamentals Code Library](#general-libraries). JSON, XML.
+
+* [Alcinoe](#general-libraries). XML/JSON Parser.
+
 
 ## Language
 *Tools for Pascal and other languages*
@@ -378,10 +422,11 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [Castalia-Delphi-Parser](https://github.com/jacobthurman/Castalia-Delphi-Parser). These files make up a hand-written high speed parser for the Object Pascal dialect known as "Delphi". The original work was done by Martin Waldenburg in the late 1990s, and the project was abandoned sometime before 2003, when I found the code and began working on it.  I have kept it updated as necessary to work with my project, called "Castalia".
 
+
 ## System
 *Low-level helper stuff: memory, threading etc*
 
-* [FastMM](http://sourceforge.net/projects/fastmm). Lightning fast replacement memory manager for Embarcadero Delphi Win32 and Win64 applications that is not prone to memory fragmentation, and supports shared memory without the use of external .DLL files.
+* [FastMM](https://github.com/pleriche/FastMM4). Lightning fast replacement memory manager for Embarcadero Delphi Win32 and Win64 applications that is not prone to memory fragmentation, and supports shared memory without the use of external .DLL files.
 // *Used as stock memory manager since 2006 but in simplified version. Provides powerful memory leak/corruption detection instruments.*
 
 * [OmniThreadLibrary](https://github.com/gabr42/OmniThreadLibrary). Simple to use threading library for Delphi.
@@ -394,12 +439,23 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [MemoryModule](https://github.com/Fr0sT-Brutal/Delphi_MemoryModule). With the MemoryModule engine you can store all required DLLs inside your binary to keep it standalone. Additional hook units allow transparent using of MM engine thus allowing switching MM/WinAPI loading as well as enabling 3rd party dynamic-load DLL interfaces that are unaware of MM (tested with Interbase Express components and Firebird client library). MemoryModule is a Pascal port of Joachim Bauch's C MemoryModule.
 
+
 ## Template
 *Engines to generate text output based on templates*
 
 * [SynMustache](https://github.com/synopse/dmustache). Delphi implementation of the Mustache template language, supporting Delphi 6 up to Delphi 10 Seattle (and FPC/Lazarus compilation).
 
 * [Delphi Template Engine](http://sourceforge.net/projects/delphi-templeng). Template engine designed to be used as a library in Delphi (mainly Delphi 7) applications, allowing developers to use templating on their software with no worry about implementing it.
+
+
+## Logging
+
+* [Log4d](https://github.com/landrix/Log4d-for-Delphi). Implementation of logging system for Delphi, based on Log4j.
+
+* [TraceTool](http://tracetool.sourceforge.net/). A C#, C++, Delphi, ActiveX and Java trace framework and a trace viewer.
+
+* [LoggerPro](https://github.com/danieleteti/loggerpro). An modern and pluggable logging framework for Delphi.
+
 
 ## Other non-visual
 
@@ -430,14 +486,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [DHibernate](https://github.com/thecocce/delphi-hibernate) Object Persistent Framework based on Hibernate and NHibernate for Delphi.
 // *Abandoned since 2012*
 
-* [Log4d](https://github.com/landrix/Log4d-for-Delphi). Implementation of logging system for Delphi, based on Log4j.
 
-* [TraceTool](http://tracetool.sourceforge.net/). A C#, C++, Delphi, ActiveX and Java trace framework and a trace viewer.
-
-* [LoggerPro](https://github.com/danieleteti/loggerpro). An modern and pluggable logging framework for Delphi.
-
-## OS ##
-* [ZEXMLSS](https://github.com/Avemey/zexmlss). Lazarus/Delphi component for read/write ods, excel xml, xlsx.
 ## OS ##
 *Tools that help dealing with OS-specific internals*
 
@@ -450,6 +499,9 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [TSMBIOS](https://github.com/RRUZ/tsmbios). Allows access the System Management BIOS (SMBIOS) using the Object Pascal language (Delphi or Free Pascal). The SMBIOS (System Management BIOS) is a standard developed by the DMTF. The information stored in the SMBIOS includes devices manufacturer, model name, serial number, BIOS version, asset tag, processors, ports and device memory installed.
 
 * [VersionInfo for Delphi](http://melander.dk/articles/versioninfo). The library makes it very easy to read values from the Version Info resource of Windows executables and DLLs. Optionally extends the TApplication class with a version info property via class helper.
+
+* [Magenta Systems WMI and SMART Component](http://www.magsys.co.uk/delphi/magwmi.asp). Contains WMI, SMART and SCSI PassThrough functions, of particular use for getting hard disk information and configuring network adaptors, but also for many other general uses. MagWMI provides general view access to any WMI information using SQL like commands, and also a number of dedicated function relating to TCP/IP configuration, such as setting the adaptor IP addresses, the computer name, domain/workgroup, BIOS and disk drive information.
+
 
 ## Unit Testing ##
 
@@ -466,6 +518,9 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [DUnit-XML](https://github.com/VSoftTechnologies/DUnit-XML). Test runner that allows DUnit Tests to output NUnit compatible XML.
 
 * [Smoketest](https://github.com/deltics/delphi.libs/tree/master/smoketest). A framework for writing tests and performance benchmarks using the Delphi language for Microsoft Windows. It has been tested on all versions of Delphi from 7 thru to 2010.
+
+* [mORMot](#general-libraries). testing including mocks and stubs, logging.
+
 
 ## Utilities ##
 *Useful dev tools/IDE plugins*
