@@ -26,7 +26,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 	- [Non-visual Classes/Utils](#non-visual-classesutils)
 		- [Compression](#compression)
 		- [Encryption](#encryption)
-		- [XML/JSON](#xmljson)
+		- [XML/JSON/YAML](#xmljsonyaml)
 		- [Language](#language)
 		- [Memory managers](#memory-managers)
 		- [System](#system)
@@ -237,7 +237,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [TPrintPreview](https://github.com/landrix/TPrintPreview-for-Delphi). Print Preview Component for Delphi Vcl Win32/Win64
 
-* [VolgaDB](). Pretty customizable DBgrid for Delphi. TCustomGrid descendant. CheckBox, ComboBox column styles. Also includes TVolgaDBEdit that replaces TDBEdit, TDBComboBox, TDBLookupCombo, TDBLookupTree andTDBDatePicker in one component. TVolgaDBEdit may be DB-aware and non DB-aware.
+* [VolgaDB](https://sourceforge.net/projects/volgadb). Pretty customizable DBgrid for Delphi. TCustomGrid descendant. CheckBox, ComboBox column styles. Also includes TVolgaDBEdit that replaces TDBEdit, TDBComboBox, TDBLookupCombo, TDBLookupTree andTDBDatePicker in one component. TVolgaDBEdit may be DB-aware and non DB-aware.
 // Seems abandoned since 2013
 
 
@@ -382,7 +382,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [Alcinoe](#general-libraries). AES, Blowfish, MD5, SHA, secure keyed MD5/SHA.
 
 
-## XML/JSON
+## XML/JSON/YAML
 
 * [OmniXML] (https://github.com/mremec/omnixml). XML parser written in Delphi. Full support for Document Object Model (DOM) Level 1 specification; Supports Extensible Markup Language (XML) 1.0 (Second Edition) specification; Has built-in support for different code pages (main 8-bit code pages, UTF-8, UTF-16); Is compatible with MS XML parser; Fast parsing even large and highly structured documents; Includes helper functions to ease processing XML documents; Simplified XPath support.
 
@@ -396,7 +396,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [Open XML](http://www.philo.de/xml/downloads.shtml). Provides a wide range of methods, components and foundation classes. It can be used for Win32/Kylix as well as for .NET development.
 
-* [SuperObject](https://github.com/hgourvest/superobject). Parser/writer for JSON data format. This toolkit is designed to work with Delphi and FreePascal (win32, win64, linux32, linux64, MacOSX Intel)
+* [SuperObject](https://github.com/hgourvest/superobject). Parser/writer for JSON data format. This toolkit is designed to work with Delphi and FreePascal (win32, win64, linux32, linux64, MacOSX Intel). Supports reading/writing XML as well.
 
 * [OXml](http://www.kluug.net/oxml.php). New XML library for Delphi and Lazarus, developed in late 2013. I took some inspiration from OmniXML but wrote the library completely from scratch. The aim of OXml is to be the most versatile and fastest XML library for the Pascal language. OXml features a SAX parser, DOM implementation, a sequential DOM parser a direct XML reader/writer and a vendor for Delphi's XmlIntf.TXMLDocument. OXml supports all Delphi versions starting from Delphi 4 on all platforms: Win32, Win64, OSX, iOS, Android. OXml supports Lazarus 1.0 and newer on all platforms (tested Win32, Win64, Linux, MacOSX).
 // Free license requires to display the Original Developer's Attribution Information each time an Executable or Source Code or a Larger Work is launched or initially run (which includes initiating a session).
@@ -422,11 +422,11 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [dwsJSON](https://bitbucket.org/egrange/dwscript/src/b9f99d4b8187defac3f3713e2ae0f7b83b63d516/Source/dwsJSON.pas?at=master). dwsJSON is a unit that supports JSON parsing/creating, it’s part of DWScript but relatively “standalone”, in that if you add it in your Delphi (or FPC) projects, it won’t pull the whole of DWScript library, and thus can be used anywhere you need.
 
-* [ZEXMLSS](https://github.com/Avemey/zexmlss). Lazarus/Delphi component for read/write ods, excel xml, xlsx.
-
 * [Fundamentals Code Library](#general-libraries). JSON, XML.
 
 * [Alcinoe](#general-libraries). XML/JSON Parser.
+
+* [delphi-yaml](https://bitbucket.org/OCTAGRAM/delphi-yaml). Delphi 7 compatible bindings for libyaml, YAML parser and emitter library implemented in C. Four layers of bindings are proposed.
 
 
 ## Language
@@ -515,7 +515,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [CachedTexts](https://github.com/d-mozulyov/CachedTexts). Powerful and compact cross-platform library aimed at parsing and generating of text data with the maximum possible performance. Depends on the two other libraries: CachedBuffers and UniConv.
 
-* [delphi-yaml](https://bitbucket.org/OCTAGRAM/delphi-yaml). Delphi 7 compatible bindings for libyaml, YAML parser and emitter library implemented in C. Four layers of bindings are proposed.
+* [ZEXMLSS](https://github.com/Avemey/zexmlss). Lazarus/Delphi component for read/write ods, excel xml, xlsx.
 
 
 ## OS ##
