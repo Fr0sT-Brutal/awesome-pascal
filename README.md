@@ -534,6 +534,12 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [ICU4PAS](http://www.crossgl.com/icu4pas/index.html). Object Pascal, cross platform, Direct Class Wrapper over the mature and widely used set of C/C++ ICU libraries providing Unicode support, software internationalization (i18n) and globalization (g11n), giving applications the same results on all platforms. You can use it on Windows with Delphi and FreePascal and on Linux with Kylix and FreePascal.
 // Hadn't been updated since 2007 but ICU interface probably remains the same...
 
+* [CommandLineParser](https://github.com/VSoftTechnologies/VSoft.CommandLineParser). Simple Command Line Options Parser - spawned from the DUnitX Project.
+
+* [GpCommandLineParser](https://github.com/gabr42/GpDelphiUnits/blob/master/src/GpCommandLineParser.pas). Attribute based command line parser.
+
+* [GpDelphiUnits](https://github.com/gabr42/GpDelphiUnits). Collection of useful Delphi units. Various TList descendants, TList-compatible, and TList-similar classes. Dynamically allocated, O(1) enqueue and dequeue, threadsafe, microlocking queue. Interface to 64-bit file functions with some added functionality. String hash, table and dictionary. Collection of Win32/Win64 wrappers and helper functions. Time Zone Routines. Embedded file system.
+
 
 ## OS ##
 *Tools that help dealing with OS-specific internals*
