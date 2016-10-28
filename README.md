@@ -101,6 +101,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [Graphics32](http://sourceforge.net/projects/graphics32). Designed for fast 32-bit graphics handling on Delphi, Kylix and Lazarus. Optimized for 32-bit pixel formats, it provides fast operations with pixels and graphic primitives, and in most cases Graphics32 outperforms the standard TCanvas classes. It is almost a hundred times faster in per-pixel access and about 2-5 times faster in drawing lines.
 
+* [Graphics32](https://github.com/graphics32/graphics32). This is the official GitHub fork of the original SourceForge repository.
+
 * [GraphicEx](http://www.delphi-gems.com/index.php/libs/graphicex-library). Addendum to Delphi's Graphics.pas to enable your application to load many common image formats. This library is primarily designed to load images as background (buttons, forms, toolbars) and textures (DirectX, OpenGL) or for image browsing and editing purposes as long as you don't need to save images.
 
 * [Vampyre Imaging Library](http://imaginglib.sourceforge.net). Cross-platform native Object Pascal (Delphi and Free Pascal) image loading, saving, and manipulation library.
@@ -144,6 +146,9 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [delphi-shader](https://github.com/WouterVanNifterick/delphi-shader). Hundreds of graphical effects, and a library that provides GLSL functionality in pure Delphi code. This project produces an executable with more than a hundred real-time graphical effects. All that is a 100% pascal implementation, without the use of exernal libraries or hardware acceleration.
 
 * [dglOpenGL](https://github.com/SaschaWillems/dglOpenGL). Delphi / Pascal OpenGL header translation.
+
+* [ZenGL](https://github.com/andru-kun/zengl). OpenGL Cross-platform game development library written in Pascal, designed to provide necessary functionality for rendering 2D-graphics, handling input, sound output, etc. 
+// *No updated lately, but is working ok* 
 
 
 ## Communications ##
@@ -303,7 +308,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [delphimemcache](https://code.google.com/p/delphimemcache). Implements a thread safe client for memcached.
 // *Requires Indy 10*
 
-* [SynDB](https://github.com/synopse/mORMot) ([docs](http://synopse.info/files/html/Synopse%20mORMot%20Framework%20SAD%201.18.html#TITL_126)). High performance direct access to SQLite3, Oracle, MSSQL, PostgreSQL, Firebird, MySQL, ODBC, OleDB, including remote HTTP connection and direct JSON support.
+* [SynDB](https://github.com/synopse/mORMot/blob/master) ([docs](http://synopse.info/files/html/Synopse%20mORMot%20Framework%20SAD%201.18.html#TITL_126)). High performance direct access to SQLite3, Oracle, MSSQL, PostgreSQL, Firebird, MySQL, ODBC, OleDB, including remote HTTP connection and direct JSON support.
 
 * [SynMongoDB](https://github.com/synopse/mORMot/blob/master/SynMongoDB.pas) ([docs](http://blog.synopse.info/post/2014/05/07/MongoDB-database-access)). Offers direct low-level access to any MongoDB server, its custom data types, JSON or via `TDocVariant` custom variant document storage.
 
