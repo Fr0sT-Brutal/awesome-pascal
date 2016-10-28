@@ -4,4 +4,8 @@ rvm:
 before_script:
   - gem install awesome_bot
 script:
-- awesome_bot README.md --allow-redirect
+  - ruby .github/osia_get_links.rb
+  - awesome_bot check-links.txt  --allow-ssl
+after_script:
+  - awesome_bot check-info.txt -a 403
+- danger
