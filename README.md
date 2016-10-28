@@ -490,7 +490,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 ## Other non-visual
 
-* [TRegExpr](http://regexpstudio.com/TRegExpr/TRegExpr.html). Easy to use and powerful tool for sophisticated search and substitutioning and for template-based text input check.
+* [TRegExpr](https://github.com/ashumkin/RegExpr). Easy to use and powerful tool for sophisticated search and substitutioning and for template-based text input check.
 // *Abandoned since 2004 but unlike stock RAD Studio implementation doesn't use PCRE obj files that add dependency on msvcrt.dll*
 
 * [FLRE](https://github.com/BeRo1985/flre). FLRE ( F ast L ight R egular E xpressions) is a fast, safe and efficient regular expression library, which is implemented in Object Pascal (Delphi and Free Pascal) but which is even usable from other languages like C/C++ and so on.
