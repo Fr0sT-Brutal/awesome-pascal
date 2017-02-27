@@ -191,6 +191,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [mORMot](#general-libraries). RESTful ORM and SOA services via interfaces over high performance HTTP server, MVC/MVVM web sites
 
+* [SDriver](https://github.com/andrea-magni/SDriver). A Delphi wrapper for [Slack](https://slack.com) API.
+
 
 ## Serial port
 
@@ -245,6 +247,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 // *Seems abandoned since 2013*
 
 * [TTreeListView](http://github.com/benibela/treelistview). This component is a mix between TTreeView and TListView and can paint a tree whose nodes have additional information sorted in columns.
+
+* [neTabControl](https://github.com/jkour/neTabControl). FireMonkey control for Delphi. It builds on the native TabControl and adds a number of features.
 
 
 ## Editors
@@ -327,6 +331,10 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [SynBigTable](https://github.com/synopse/mORMot/blob/master/SynBigTable.pas). Class used to store huge amount of data with fast retrieval.
 
+* [tiOPF](https://github.com/graemeg/tiopf). Object Persistent Framework written in Object Pascal, for use with Delphi and Free Pascal (FPC) compilers. tiOPF simplifies the mapping of an object oriented business model into a relational database. Persistence layers are available for Firebird, Oracle, MS SQL Server, MySQL, PostgreSQL, SQLite, NexusDB, XML, CSV, TAB, Remote (via HTTP) and many more. It also allows you to use your choice of database connection components, like IBX, dbExpress, DOA, SqlDB, FBLib etc.
+
+* [hcOPF](https://sourceforge.net/projects/larryhengensopf). Object Persistent Framework written in Embarcadero's Delphi (Object Pascal). This Value Type Framework provides a base class (ThcObject) composed of attribute objects that can be automatically persisted to an object store (normally an RDBMS).
+
 
 ## Scripting ##
 *Using script engine in your applications*
@@ -389,6 +397,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [Fundamentals Code Library](#general-libraries). Hashes: XOR, CRC, Adler, MD5, SHA, secure keyed MD5/SHA, etc; Cipher: AES, DES, FUNE, RC2/4, RSA.
 
 * [Alcinoe](#general-libraries). AES, Blowfish, MD5, SHA, secure keyed MD5/SHA.
+
+* [DCPcrypt (fork #1)](https://sourceforge.net/projects/dcpcrypt), [DCPcrypt (fork #2)](https://bitbucket.org/wpostma/dcpcrypt2010). Suite of cryptographic components for Delphi.
 
 
 ## XML/JSON/YAML
@@ -629,6 +639,10 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [SamplingProfiler](https://www.delphitools.info/samplingprofiler) is a performance profiling tool for Delphi 5 to 32bits Delphi XE4. Its purpose is to help locate bottlenecks, even in final, optimized code running at full-speed.
 
 * [DIPasDoc](http://www.yunqa.de/delphi/products/pasdoc/index). Generates HTML documentation from comments in Pascal source code files. It outputs browsable help as standard HTML files or customizable MS HTML Help projects.
+
+* [WinSparkle](https://winsparkle.org) and its [Delphi wrapper](https://github.com/jkour/neSparkleComponent). WinSparkle is an easy-to-use software update library for Windows developers. WinSparkle is a heavily (to the point of being its almost-port) inspired by the Sparkle framework originally by Andy Matuschak that became the de facto standard for software updates on macOS. 
+
+* [OmniPascal](http://omnipascal.com). Project that enables Delphi and Free Pascal developers to write and maintain code using the modern editor [Visual Studio Code](https://code.visualstudio.com).
 
 ## License
 
