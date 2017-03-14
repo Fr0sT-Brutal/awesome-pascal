@@ -650,6 +650,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [OmniPascal](http://omnipascal.com). Project that enables Delphi and Free Pascal developers to write and maintain code using the modern editor [Visual Studio Code](https://code.visualstudio.com).
 
+* [Delphi Code Coverage](https://sourceforge.net/projects/delphicodecoverage). Simple Code Coverage tool for Delphi that creates code coverage reports based on detailed MAP files.
+
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0)
