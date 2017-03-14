@@ -38,6 +38,11 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 	- [OS](#os)
 	- [Unit Testing](#unit-testing)
 	- [Utilities](#utilities)
+		- [IDE plugins/wizards](#ide-pluginswizards)
+		- [Documentation](#documentation)
+		- [Code check/review](#code-checkreview)
+		- [Setup](#setup)
+		- [Other](#other)
 
 ----------------------------------------------------------------------------------------------------------------
 
@@ -598,10 +603,9 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 
 ## Utilities ##
-*Useful dev tools/IDE plugins*
 
-* [Lazy Delphi Builder](https://bitbucket.org/tdelphi/lazy-delphi-builder-downloads). Build tool for Delphi. Recompile projects/packages from sources with all dependencies, without need to mess around with configs. Quickly (re-)install components from sources into IDE, with no need to change your Library Path.
-// *Powerful automating tool. Freeware but not open source*
+
+## IDE plugins/wizards ##
 
 * [Delphi IDE theme editor / Delphi IDE Colorizer](https://github.com/rruz/delphi-ide-theme-editor). Tool to change the IDE color highlighting of several Object Pascal IDE's like Delphi (RAD Studio), Appmethod, Lazarus  and Smart Mobile Studio. DITE supports Delphi 5-7, 2005-2010, XE-XE8, Appmethod 1.13-1.14, Lazarus v1.0.1.3 and Smart Mobile Studio IDE v1.1.2.17. The Delphi IDE Colorizer (DIC) is a plugin which allows to customize the look and feel of the workspace of the RAD Studio IDE and Appmethod.
 
@@ -622,35 +626,50 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [ResEd](https://github.com/chaosben/theunknownones). Expert for Delphi 2005, 2006, 2007, 2009, 2010 and XE. This expert is designed for editing the resource files (.res; .resx) that are linked to the active project. It will automatically search for all occurrences of {$R xyz.res} lines and will open/create resourcefiles for them. The expert registers itself in the menubar of Delphi under View.
 
-* [Inno Setup](http://www.jrsoftware.org/isinfo.php). Free installer for Windows programs. First introduced in 1997, Inno Setup today rivals and even surpasses many commercial installers in feature set and stability.
-
-* [SynProject](https://github.com/synopse/SynProject) ([docs](http://synopse.info/fossil/wiki?name=SynProject)). Tool for code source versioning and automated documentation of Delphi projects.
-
 * [Parnassus Bookmarks](https://parnassus.co/delphi-tools/bookmarks). IDE plugin that extends bookmark functionality.
-
-* [PasDoc](https://sourceforge.net/projects/pasdoc). Documentation tool for ObjectPascal (FreePascal and Delphi) source code. Documentation is generated from comments found in source code. Available output formats are HTML, HtmlHelp, LaTeX, latex2rtf, simplexml. More output formats may be added in the future.
-
-* [WMI Delphi Code Creator](https://github.com/RRUZ/wmi-delphi-code-creator). Allows you to generate Object Pascal, Oxygene, C++ and C# code to access the WMI (Windows Management Instrumentation) classes, events and methods. Also includes a set of tools to explorer and Query the content of the WMI.
-
-* [Delphi Preview Handler](https://github.com/RRUZ/delphi-preview-handler). Preview handler for Windows Vista ,7 and 8 which allow you read your object pascal, C++ and Assembly code with Syntax highlighting without open in a editor
-
-* [Delphi Dev. Shell Tools](https://github.com/RRUZ/delphi-dev-shell-tools). Windows shell extension with useful tasks for Object Pascal Developers (Delphi, Free Pascal).
-
-* [Delphi.gitignore](https://github.com/github/gitignore). .gitignore templates for Delphi. There is also one for Lazarus.
  
 * [DelphiSettingManager](https://github.com/Arvur/DelphiSettingManager). Multiple IDE profiles for Delphi (up to XE6). Allows to install multiple versions of the same component or different component sets for different projects.
 
 * [Delphinus](https://github.com/Memnarch/Delphinus). New Packagemanager which runs on Delphi XE and newer and uses Github as a Backend to Provide the packages.
 
-* [SamplingProfiler](https://www.delphitools.info/samplingprofiler) is a performance profiling tool for Delphi 5 to 32bits Delphi XE4. Its purpose is to help locate bottlenecks, even in final, optimized code running at full-speed.
+
+## Documentation ##
+
+* [SynProject](https://github.com/synopse/SynProject) ([docs](http://synopse.info/fossil/wiki?name=SynProject)). Tool for code source versioning and automated documentation of Delphi projects.
+
+* [PasDoc](https://sourceforge.net/projects/pasdoc). Documentation tool for ObjectPascal (FreePascal and Delphi) source code. Documentation is generated from comments found in source code. Available output formats are HTML, HtmlHelp, LaTeX, latex2rtf, simplexml. More output formats may be added in the future.
 
 * [DIPasDoc](http://www.yunqa.de/delphi/products/pasdoc/index). Generates HTML documentation from comments in Pascal source code files. It outputs browsable help as standard HTML files or customizable MS HTML Help projects.
 
-* [WinSparkle](https://winsparkle.org) and its [Delphi wrapper](https://github.com/jkour/neSparkleComponent). WinSparkle is an easy-to-use software update library for Windows developers. WinSparkle is a heavily (to the point of being its almost-port) inspired by the Sparkle framework originally by Andy Matuschak that became the de facto standard for software updates on macOS. 
 
-* [OmniPascal](http://omnipascal.com). Project that enables Delphi and Free Pascal developers to write and maintain code using the modern editor [Visual Studio Code](https://code.visualstudio.com).
+## Code check/review ##
+
+* [SamplingProfiler](https://www.delphitools.info/samplingprofiler) is a performance profiling tool for Delphi 5 to 32bits Delphi XE4. Its purpose is to help locate bottlenecks, even in final, optimized code running at full-speed.
 
 * [Delphi Code Coverage](https://sourceforge.net/projects/delphicodecoverage). Simple Code Coverage tool for Delphi that creates code coverage reports based on detailed MAP files.
+
+
+## Setup ##
+
+* [Lazy Delphi Builder](https://bitbucket.org/tdelphi/lazy-delphi-builder-downloads). Build tool for Delphi. Recompile projects/packages from sources with all dependencies, without need to mess around with configs. Quickly (re-)install components from sources into IDE, with no need to change your Library Path.
+// *Powerful automating tool. Freeware but not open source*
+
+* [Inno Setup](http://www.jrsoftware.org/isinfo.php). Free installer for Windows programs. First introduced in 1997, Inno Setup today rivals and even surpasses many commercial installers in feature set and stability.
+
+* [WinSparkle](https://winsparkle.org) and its [Delphi wrapper](https://github.com/jkour/neSparkleComponent). WinSparkle is an easy-to-use software update library for Windows developers. WinSparkle is a heavily (to the point of being its almost-port) inspired by the Sparkle framework originally by Andy Matuschak that became the de facto standard for software updates on macOS. 
+
+
+## Other ##
+
+* [WMI Delphi Code Creator](https://github.com/RRUZ/wmi-delphi-code-creator). Allows you to generate Object Pascal, Oxygene, C++ and C# code to access the WMI (Windows Management Instrumentation) classes, events and methods. Also includes a set of tools to explorer and Query the content of the WMI.
+
+* [Delphi Preview Handler](https://github.com/RRUZ/delphi-preview-handler). Preview handler for Windows Vista, 7 and 8 which allow you read your object pascal, C++ and Assembly code with Syntax highlighting without open in a editor
+
+* [Delphi Dev. Shell Tools](https://github.com/RRUZ/delphi-dev-shell-tools). Windows shell extension with useful tasks for Object Pascal Developers (Delphi, Free Pascal).
+
+* [Delphi.gitignore](https://github.com/github/gitignore). .gitignore templates for Delphi. There is also one for Lazarus.
+
+* [OmniPascal](http://omnipascal.com). Project that enables Delphi and Free Pascal developers to write and maintain code using the modern editor [Visual Studio Code](https://code.visualstudio.com).
 
 ## License
 
