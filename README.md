@@ -586,8 +586,10 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [DUnitX](https://github.com/VSoftTechnologies/DUnitX). New test framework, taking ideas from DUnit, NUnit and other test frameworks. It is designed to work with Delphi 2010 or later, it makes use of language/RTL features that are not available in older versions of Delphi.
 
 * [DUnit](http://dunit.sourceforge.net). Unit Testing Framework, that has been the standard testing framework for years, the Delphi IDE now ships with this library.
+// *Included since XE, deprecated since XE8 in favor of DUnitX; seems abandoned.*
 
 * [DUnit2](http://dunit2.sourceforge.net). Fork of the DUnit Project that adds several new features.
+// *Seems abandoned, lacks some features from last DUnit version.*
 
 * [DelphiSpec](https://github.com/RomanYankovsky/DelphiSpec). Library for running automated tests written in plain language. Because they're written in plain language, they can be read by anyone on your team. Because they can be read by anyone, you can use them to help improve communication, collaboration and trust on your team.
 
@@ -632,6 +634,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [Delphinus](https://github.com/Memnarch/Delphinus). New Packagemanager which runs on Delphi XE and newer and uses Github as a Backend to Provide the packages.
 
+* [TestInsight](https://bitbucket.org/sglienke/testinsight/wiki/Home). Unit testing IDE Plugin for Delphi. It supports all versions from XE to 10 Seattle. Supports DUnit, DUnit2, DUnitX frameworks.
+
 
 ## Documentation ##
 
@@ -670,6 +674,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [Delphi.gitignore](https://github.com/github/gitignore). .gitignore templates for Delphi. There is also one for Lazarus.
 
 * [OmniPascal](http://omnipascal.com). Project that enables Delphi and Free Pascal developers to write and maintain code using the modern editor [Visual Studio Code](https://code.visualstudio.com).
+
+* [Delphi Unit Tests](https://bitbucket.org/NickHodges/delphi-unit-tests). Set of unit tests for Delphi's libraries. Delphi community members are encouraged to fork the repository, add tests, and create a pull request. Embarcadero employees are particularly encouraged to add tests from the internal tests that are run with official Delphi builds.
 
 ## License
 
