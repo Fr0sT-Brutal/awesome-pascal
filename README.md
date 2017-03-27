@@ -73,6 +73,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [LKSL](https://github.com/LaKraven/LKSL). LaKraven Studios Standard Library. Special Common Base Types each containing a Thread-Safe Locking Mechanism. Event Engine - a very powerful system for producing Multi-Threaded, Asynchronous and Event-Driven programs. Generics Collections 	Highly efficient, Thread-Safe Collection Types (lists, trees etc.). Stream Handling Library- makes working with Streams much easier! Handles Deleting, Inserting, Reading and Writing data.
 
+* [Redux Delphi](https://github.com/pierrejean-coudert/ReduxDelphi) ReduxDelphi is a predictable state container for Delphi apps utilizing a unidirectional data flow. Inspired by ReduxJS. Comes with Immutable Generic List.
 
 ## Multimedia ##
 
@@ -266,7 +267,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [SynEdit](https://sourceforge.net/projects/synedit) ([mirror at GitHub](https://github.com/TurboPack/SynEdit)). Syntax highlighting edit control, not based on the Windows common controls. SynEdit is compatible with both Delphi and Kylix
 
-* [TBCEditor](https://github.com/bonecode/TBCEditor). A syntax highlighting edit control with code folding, minimap, external JSON highlighter and color scheme files, etc.
+* [BCEditor](https://github.com/bonecode/BCEditor). A syntax highlighting edit control with code folding, minimap, external JSON highlighter and color scheme files, etc.
 // *Very powerful and feature-rich component. Supports Delphi XE4..XE8, C++ Builder XE7, backport to XE available*
 
 
