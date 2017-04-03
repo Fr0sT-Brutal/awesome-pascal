@@ -1,11 +1,13 @@
-# Awesome Delphi [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/Fr0sT-Brutal/awesome-delphi.svg?branch=master)](https://travis-ci.org/Fr0sT-Brutal/awesome-delphi)
+# Awesome Delphi [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome Delphi frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 
-**Note that only open-source projects are considered. Dead projects are mainly ignored except for those which do not have alive analogs.**
+**Note that only open-source projects are considered. Dead projects (not updated for 3 years or more) are mainly ignored except for those which do not have alive analogs.**
 Feel free to suggest other missing nice projects either by comments or pull requests.
 
 This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.zeef.com/anton.frost)
+
+## Contents ##
 
 - [Awesome Delphi](#awesome-delphi)
 	- [General Libraries](#general-libraries)
@@ -160,6 +162,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [Platform eXtended Library (PXL)](https://sourceforge.net/projects/asphyre). Cross-platform framework for developing 2D/3D video games, interactive and scientific applications. It aids the developer with mathematics, hardware control, resource management, displaying real-time graphics and text, handle user input and network communication capabilities.
 
+* [CrystalPathFinding](https://github.com/d-mozulyov/CrystalPathFinding). Simple and effective library with an open source intended for the searching of the shortest paths by algorithms A*/WA* for maps based on tiles with 4 (simple), 8 (diagonal/diagonalex) or 6 (hexagonal) neighbors.
+
 
 ## Communications ##
 
@@ -195,7 +199,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [Kitto](https://github.com/nandod/kitto). Allows to create Rich Internet Applications based on a data model that can be mapped onto any database. The client-side part uses ExtJS (through the ExtPascal library) to create a fully AJAX application, allowing you to build standard and advanced data-manipulating forms in a fraction of the time. Kitto is aimed at Delphi developers that need to create web application without delving into the intricacies of HTML, CSS, Javascript or learning to use a particular library such as ExtJS, yet it allows access to the bare metal if required.
 
-* [Daraja Framework](https://github.com/michaelJustin/daraja-framework). A lightweight HTTP server framework for Object Pascal (Delphi 2009+ / Free Pascal 3.0). Implementing RESTful services is supported via the [daraja-restful](https://github.com/michaelJustin/daraja-restful) extension.
+* [Daraja Framework](https://github.com/michaelJustin/daraja-framework). Lightweight HTTP server framework for Object Pascal (Delphi 2009+ / Free Pascal 3.0). Implementing RESTful services is supported via the [daraja-restful](https://github.com/michaelJustin/daraja-restful) extension.
 
 * [Alcinoe](#general-libraries). FTP/Http/NNTP/POP3/SMTP, ISAPI, WinInet Http/FTP clients.
 
@@ -203,7 +207,9 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [mORMot](#general-libraries). RESTful ORM and SOA services via interfaces over high performance HTTP server, MVC/MVVM web sites
 
-* [SDriver](https://github.com/andrea-magni/SDriver). A Delphi wrapper for [Slack](https://slack.com) API.
+* [SDriver](https://github.com/andrea-magni/SDriver). Delphi wrapper for [Slack](https://slack.com) API.
+
+* [Hprose for Delphi/Lazarus](https://github.com/hprose/hprose-delphi). Hprose is a High Performance Remote Object Service Engine. It is a modern, lightweight, cross-language, cross-platform, object-oriented, high performance, remote dynamic communication middleware. It is not only easy to use, but powerful. This project is the implementation of Hprose for Delphi/Lazarus.
 
 
 ## Serial port
@@ -267,7 +273,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [SynEdit](https://sourceforge.net/projects/synedit) ([mirror at GitHub](https://github.com/TurboPack/SynEdit)). Syntax highlighting edit control, not based on the Windows common controls. SynEdit is compatible with both Delphi and Kylix
 
-* [BCEditor](https://github.com/bonecode/BCEditor). A syntax highlighting edit control with code folding, minimap, external JSON highlighter and color scheme files, etc.
+* [BCEditor](https://github.com/bonecode/BCEditor). Syntax highlighting edit control with code folding, minimap, external JSON highlighter and color scheme files, etc.
 // *Very powerful and feature-rich component. Supports Delphi XE4..XE8, C++ Builder XE7, backport to XE available*
 
 
@@ -280,6 +286,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [HtmlViewer](https://github.com/BerndGabriel/HtmlViewer). Delphi/Lazarus HtmlViewer/FrameViewer.
 // *Html visualiser supporting majority of tags, inline styles and CSS.*
+
+* [SciDe](https://github.com/da-baranov/SciDe). [Sciter](https://sciter.com) (Embeddable HTML/CSS/script engine) wrapper for Delphi.
 
 
 ## Other GUI
@@ -334,7 +342,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [Redis client](https://github.com/danieleteti/delphiredisclient) for Delphi 10.1 Berlin, Delphi 10 Seattle, XE8, XE7, XE6 and XE5 (should works also with older versions). This client is able to send all Redis commands and read the response using an internal parser.
 
-* [QDAC3](svn://www.qdac.cc/QDAC3), [Web](http://blog.qdac.cc/?page_id=139) stands for quick data access components. Useful units such as QJson ( easy to use json unit), QWorker(job delivery) etc.
+* [QDAC3] (SVN: svn://www.qdac.cc/QDAC3, [Web](http://blog.qdac.cc/?page_id=139)) stands for quick data access components. Useful units such as QJson ( easy to use json unit), QWorker(job delivery) etc.
 // *Description and comments in Chinese, author is not good at English. Haven't tested this library by myself.*
 
 * [InstantObjects](https://sourceforge.net/projects/instantobjects). Integrated framework for developing object-oriented business solutions in Delphi. The framework provides the foundation for the development process as well as the engine that powers the final application. InstantObjects offers: Model realization in the Delphi IDE via integrated two-way tools; Object persistence in the most common relational databases or flat XML-based files; Object presentation via standard data-aware controls.
@@ -469,6 +477,9 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [Castalia-Delphi-Parser](https://github.com/jacobthurman/Castalia-Delphi-Parser). These files make up a hand-written high speed parser for the Object Pascal dialect known as "Delphi". The original work was done by Martin Waldenburg in the late 1990s, and the project was abandoned sometime before 2003, when I found the code and began working on it.  I have kept it updated as necessary to work with my project, called "Castalia".
 
+* [CrossPascal](https://github.com/BeRo1985/crosspascal). aims to be a Delphi 7 compatible cross-platform source-to-source compiler (together with the new unicode string types from XE3 but where ansistring is still the default string type for to be still Delphi 7 compatible) which generates intermediate C code.
+// *Quite interesting project though seems abandoned*
+
 
 ## Memory managers
 *Libraries that implement dynamic memory allocation*
@@ -506,7 +517,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [Log4d](https://github.com/landrix/Log4d-for-Delphi). Implementation of logging system for Delphi, based on Log4j.
 
-* [TraceTool](http://tracetool.sourceforge.net/). A C#, C++, Delphi, ActiveX and Java trace framework and a trace viewer.
+* [TraceTool](http://tracetool.sourceforge.net/). C#, C++, Delphi, ActiveX and Java trace framework and a trace viewer.
 
 * [LoggerPro](https://github.com/danieleteti/loggerpro). An modern and pluggable logging framework for Delphi.
 
@@ -598,7 +609,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [DUnit-XML](https://github.com/VSoftTechnologies/DUnit-XML). Test runner that allows DUnit Tests to output NUnit compatible XML.
 
-* [Smoketest](https://github.com/deltics/delphi.libs/tree/master/smoketest). A framework for writing tests and performance benchmarks using the Delphi language for Microsoft Windows. It has been tested on all versions of Delphi from 7 thru to 2010.
+* [Smoketest](https://github.com/deltics/delphi.libs/tree/master/smoketest). Framework for writing tests and performance benchmarks using the Delphi language for Microsoft Windows. It has been tested on all versions of Delphi from 7 thru to 2010.
 
 * [SynTests](https://github.com/synopse/mORMot/blob/master/SynTests.pas). Unit test functions including mocks and stubs.
 
