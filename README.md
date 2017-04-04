@@ -492,6 +492,9 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [BrainMM](https://github.com/d-mozulyov/BrainMM). Extremely fast memory manager for Delphi.
 // *Advanced memory allocation functions for faster aligned operations.*
 
+* [Delphi LeakCheck](https://bitbucket.org/shadow_cs/delphi-leakcheck). A memory manager extension that adds leak checking functionality.
+// *Main difference from the default memory manager is the multi-platform implementation of leak checking with DUnit and DUnitX integration.*
+
 
 ## System
 *Low-level helper stuff: memory, threading etc*
