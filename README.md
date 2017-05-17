@@ -164,6 +164,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [CrystalPathFinding](https://github.com/d-mozulyov/CrystalPathFinding). Simple and effective library with an open source intended for the searching of the shortest paths by algorithms A*/WA* for maps based on tiles with 4 (simple), 8 (diagonal/diagonalex) or 6 (hexagonal) neighbors.
 
+* [Allegro-Pas](https://sourceforge.net/projects/allegro-pas) ([GitHub](https://github.com/niuniomartinez/allegro-pas)). Wrapper to use the Allegro game librery with Pascal/Delphi.
+
 
 ## Communications ##
 
