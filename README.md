@@ -422,6 +422,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [DCPcrypt (fork #1)](https://sourceforge.net/projects/dcpcrypt), [DCPcrypt (fork #2)](https://bitbucket.org/wpostma/dcpcrypt2010). Suite of cryptographic components for Delphi.
 
+* [HashLib4Pascal](https://github.com/Xor-el/HashLib4Pascal). Delphi/FreePascal compatible library that provides an easy to use interface for computing hashes and checksums of strings (with a specified encoding), files, streams, byte arrays and untyped data to mention but a few. It also supports Incremental Hashing.
+
 
 ## XML/JSON/YAML
 
@@ -580,6 +582,16 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [GpCommandLineParser](https://github.com/gabr42/GpDelphiUnits/blob/master/src/GpCommandLineParser.pas). Attribute based command line parser.
 
 * [GpDelphiUnits](https://github.com/gabr42/GpDelphiUnits). Collection of useful Delphi units. Various TList descendants, TList-compatible, and TList-similar classes. Dynamically allocated, O(1) enqueue and dequeue, threadsafe, microlocking queue. Interface to 64-bit file functions with some added functionality. String hash, table and dictionary. Collection of Win32/Win64 wrappers and helper functions. Time Zone Routines. Embedded file system.
+
+* [TIntX](https://github.com/Xor-el/IntXLib4Pascal). Pascal port of IntX arbitrary precision Integer library with fast, about O(N * log N) multiplication/division algorithms implementation. It provides all the basic arithmetic operations on Integers, comparing, bitwise shifting etc. It also allows parsing numbers in different bases and converting them to string, also in any base. The advantage of this library is its fast multiplication, division and from base/to base conversion algorithms. all the fast versions of the algorithms are based on fast multiplication of big Integers using Fast Hartley Transform which runs for O(N * log N * log log N) time instead of classic O(N^2).
+
+* [BaseNcodingPascal](https://github.com/Xor-el/BaseNcodingPascal). Library for encoding of binary data into strings using base32, base85, base128 and other algorithms for FPC and Delphi.
+
+* [ByteSizeLibPascal](https://github.com/Xor-el/ByteSizeLibPascal). TByteSize is a utility "record" that makes byte size representation in code easier by removing ambiguity of the value being represented.
+
+* [DelphiBigNumberXLib](https://github.com/Xor-el/DelphiBigNumberXLib). Arbitrary Precision Library for Delphi with Support for Integer and Floating Point Computations.
+
+* [EmailValidationPascal](https://github.com/Xor-el/EmailValidationPascal). Simple Class for Validating Email Address Syntax in Pascal/Delphi.
 
 
 ## OS ##
