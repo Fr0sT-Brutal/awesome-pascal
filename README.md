@@ -56,7 +56,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [JVCL](https://github.com/project-jedi/jvcl). Library of over 600 Delphi components developed by "Project JEDI" members.
 // *GUI, algorithms, classes, API headers etc.*
 
-* [Alcinoe](http://sourceforge.net/projects/alcinoe). Components suite for Delphi.
+* [Alcinoe](http://sourceforge.net/projects/alcinoe1). Components suite for Delphi.
 // *Network: FTP/Http/NNTP/POP3/SMTP, ISAPI, WinInet Http/FTP clients; DB: Firebird/MySQL/SQLite3/Memcached/MongoDb/SphinxQL; XML/JSON Parser; ZLIB; Cryptography: AES, Blowfish, MD5, SHA, secure keyed MD5/SHA; Other: Self-Balancing Binary Trees, expression evaluator*
 
 * [Fundamentals Code Library](http://sourceforge.net/projects/fundementals). Collection of Delphi / FreePascal code units. Includes libraries for Unicode, Strings, Data Structures, Sockets and Mathematics.
@@ -82,7 +82,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 ## Audio
 
-* [Audio Tools Library](http://mac.sourceforge.net/atl). For manipulating many audio formats file information.
+* [Audio Tools Library](http://mac.sourceforge.net/atl1). For manipulating many audio formats file information.
 //**Abandoned since 2005.**
 
 * [Delphi ASIO & VST Project](http://sourceforge.net/projects/delphiasiovst). Framework for writing applications using the ASIO interface and VST plugins. It comes with countless DSP algorithms all demonstrated in dozens of examples.
@@ -98,7 +98,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [DSPack](https://code.google.com/p/dspack). Set of components and classes to write Multimedia Applications using MS Direct Show and DirectX technologies.
 
-* [Delphi-OpenCV](https://github.com/Laex/Delphi-OpenCV). Translation of OpenCV library header files in Delphi
+* [Delphi-OpenCV](https://github.com/Laex/Delphi-OpenCV1). Translation of OpenCV library header files in Delphi
 // *Includes FFMPEG headers*
 
 * [FFmpeg Delphi/Pascal Headers] (http://www.delphiffmpeg.com/headers). Open source translation of FFMPEG headers.
