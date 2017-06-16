@@ -6,5 +6,4 @@ before_script:
   - gem install danger
 script:
   - awesome_bot README.md --allow-redirect --allow-dupe
-after_script:
   - danger
