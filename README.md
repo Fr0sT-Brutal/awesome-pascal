@@ -166,7 +166,9 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [Allegro-Pas](https://sourceforge.net/projects/allegro-pas) ([GitHub](https://github.com/niuniomartinez/allegro-pas)). Wrapper to use the Allegro game librery with Pascal/Delphi.
 
-* [TileEngine](http://www.tilengine.org/) ([GitHub](https://github.com/megamarc/Tilengine)). Wrapper to use the Tilengine game library with Pascal/Delphi. Tilengine is a cross-platform 2D graphics engine for creating classic/retro games with tilemaps, sprites and palettes. Its scanline-based rendering algorithm makes raster effects a core feature, a technique used by many games running on real 2D graphics chips.
+* [Tilengine](http://www.tilengine.org/) ([GitHub](https://github.com/megamarc/Tilengine)). Wrapper to use the Tilengine game library with Pascal/Delphi. Tilengine is a cross-platform 2D graphics engine for creating classic/retro games with tilemaps, sprites and palettes. Its scanline-based rendering algorithm makes raster effects a core feature, a technique used by many games running on real 2D graphics chips.
+
+* [Castle Engine](https://castle-engine.sourceforge.io/) ([GitHub](https://github.com/castle-engine/castle-engine)). Complete Pascal Game Engine. Cross-platform 3D and 2D game engine with a lot of graphic effects and a scene graph based on X3D. 
 
 * [SDL2](http://www.freepascal-meets-sdl.net/) ([GitHub](https://github.com/ev1313/Pascal-SDL-2-Headers)). Pascal SDL 2 Headers. Simple DirectMedia Layer is a cross-platform development library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL and Direct3D.
 
