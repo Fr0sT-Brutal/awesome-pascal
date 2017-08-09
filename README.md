@@ -678,6 +678,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [Delphi Code Coverage](https://sourceforge.net/projects/delphicodecoverage). Simple Code Coverage tool for Delphi that creates code coverage reports based on detailed MAP files.
 
+* [Pascal Analyzer](http://www.peganza.com/products_pal.html) (free Lite version available). Pascal Analyzer, or PAL for short, parses Delphi or Borland Pascal source code. It builds large internal tables of identifiers, and collects other information such as calls between subprograms. When the parsing is completed, extensive reports are produced. These reports contain a great deal of important information about the source code. This information will help you understand your source code better, and assist you in producing code of higher quality and reliability.
+
 
 ## Setup ##
 
