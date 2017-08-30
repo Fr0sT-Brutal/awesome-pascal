@@ -362,6 +362,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [stateless](https://github.com/SirRufo/stateless). Simple library for creating state machines in Delphi code.
 
+* [slf4p](https://github.com/michaelJustin/slf4p). A simple logging facade with support for LazLogger, Log4D, and other logging frameworks.
+
 
 ## OS ##
 *Tools that help dealing with OS-specific internals*
@@ -435,6 +437,10 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [Delphi.gitignore](https://github.com/github/gitignore). .gitignore templates for Delphi. There is also one for Lazarus.
  
 * [DelphiSettingManager](https://github.com/Arvur/DelphiSettingManager). Multiple IDE profiles for Delphi (up to XE6). Allows to install multiple versions of the same component or different component sets for different projects.
+
+## Web-development
+
+* [Daraja HTTP Framework](https://github.com/michaelJustin/daraja-framework). A lightweight HTTP server framework for Object Pascal (Delphi 2009+ / Free Pascal 3.0). Supports RESTful.
 
 ## License
 
