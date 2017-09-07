@@ -63,6 +63,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 // *Utils: ZLIB compression; JSON; XML; ProtocolBuffers; Hashes: XOR, CRC, Adler, MD5, SHA, secure keyed MD5/SHA, etc; Network: blocking TCP client/server, HTTP(S) via SSL3/TLS1.0/TLS1.1/TLS1.2 (fully native); SQL parser; BitCoin MtGox client; Blaise script engine; Cipher: AES, DES, FUNE, RC2/4, RSA; Maths: matrix, complex, statistics*
 
 * [Spring4D](https://bitbucket.org/sglienke/spring4d). Open-source code library for Embarcadero Delphi 2010 and higher. It consists of a number of different modules that contain a base class library (common types, interface based collection types, reflection extensions) and a dependency injection framework. Includes Encryption Library.
+* [Spring4D](https://bitbucket.org/sglienke/spring4d). Open-source code library for Embarcadero Delphi 2010 and higher. It consists of a number of different modules that contain a base class library (common types, interface based collection types, reflection extensions) and a dependency injection framework. Includes Encryption Library.
 // *Collections and other containers using Generics and based on IEnumerable, probably more accurate and featured than RTL analogs; crypto: CRC, DES, MD5, SHA; file utils etc*
 
 * [TheUnknownOnes](https://github.com/chaosben/theunknownones). Huge heap of classes, components, utilities for almost every purpose. Nearly undocumented and seems not very up-to-date though.
@@ -321,7 +322,9 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [ZeosLib](http://sourceforge.net/projects/zeoslib). Set of database components for MySQL, PostgreSQL, Interbase, Firebird, MS SQL, Sybase, Oracle and SQLite.
 
-* [Unified Interbase](https://github.com/hgourvest/uib). Set of components to use Interbase, FireBird and YAFFIL. These components were born from the need to use Interbase, FireBird or Yaffil indifferently as fast as possible in a Multithreading environment, a Server for example.
+* [Marshmallow](https://bitbucket.org/soundvibe/marshmallow/wiki/Home). Object-Relational Mapping for Delphi XE7, XE6, XE5, XE4, XE3 and XE2 (Win32) inspired by .NET micro ORM's (mostly by PetaPoco) and Java Hibernate. Developed  by Linas Naginionis. Supports SQLite, Sybase ASA, SQL Server, Firebird, Oracle, MySQL, PostgreSQL, MongoDB. Uses [Spring](http://code.google.com/p/delphi-spring-framework/) Framework. In active development.
+
+* [Unified Interbase](http://sourceforge.net/projects/uib). Set of components to use Interbase, FireBird and YAFFIL. These components were born from the need to use Interbase, FireBird or Yaffil indifferently as fast as possible in a Multithreading environment, a Server for example.
 
 * [ASQLite](https://github.com/remobjects/ASQLite3). Delphi SQLite set of DAC components from aducom software, based on their latest release for Delphi 2009, and updated to support newer editions of Delphi as included in RemObjects Data Abstract for Delphi.
 
@@ -428,6 +431,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 ## XML/JSON/YAML
 
 * [OmniXML](https://github.com/mremec/omnixml). XML parser written in Delphi. Full support for Document Object Model (DOM) Level 1 specification; Supports Extensible Markup Language (XML) 1.0 (Second Edition) specification; Has built-in support for different code pages (main 8-bit code pages, UTF-8, UTF-16); Is compatible with MS XML parser; Fast parsing even large and highly structured documents; Includes helper functions to ease processing XML documents; Simplified XPath support.
+
+* [JsonDataObjects](https://github.com/ahausladen/JsonDataObjects). JSON toolkit (read/write) written by Andreas Hausladen. Very [fast](http://blog.synopse.info/post/2015/02/16/Benchmarking-JsonDataObjects-JSON-parser) in compare to others!
 
 * [SAX for Pascal](http://sourceforge.net/projects/saxforpascal). Designed to implement the Simple API for XML Parsing in Pascal/Delphi.
 // *Callback-based XML parser, useful for processing huge XML streams.*
@@ -590,6 +595,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [EmailValidationPascal](https://github.com/Xor-el/EmailValidationPascal). Simple Class for Validating Email Address Syntax in Pascal/Delphi.
 
+* [slf4p](https://github.com/michaelJustin/slf4p). A simple logging facade with support for LazLogger, Log4D, and other logging frameworks.
+
 
 ## OS ##
 *Tools that help dealing with OS-specific internals*
@@ -660,6 +667,10 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [Delphinus](https://github.com/Memnarch/Delphinus). New Packagemanager which runs on Delphi XE and newer and uses Github as a Backend to Provide the packages.
 
+* [Delphi LeakCheck](https://bitbucket.org/shadow_cs/delphi-leakcheck/) is a free code library to check the memory leaks in the DUnit and DUnit2 tests. Supports Delphi XE7+. Dev started 03.2015
+
+* [Parnassus Bookmarks](https://parnassus.co/delphi-tools/bookmarks). IDE plugin that extends bookmark functionality.
+
 * [TestInsight](https://bitbucket.org/sglienke/testinsight/wiki/Home). Unit testing IDE Plugin for Delphi. It supports all versions from XE to 10 Seattle. Supports DUnit, DUnit2, DUnitX frameworks.
 
 
@@ -704,6 +715,10 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [OmniPascal](http://omnipascal.com). Project that enables Delphi and Free Pascal developers to write and maintain code using the modern editor [Visual Studio Code](https://code.visualstudio.com).
 
 * [Delphi Unit Tests](https://bitbucket.org/NickHodges/delphi-unit-tests). Set of unit tests for Delphi's libraries. Delphi community members are encouraged to fork the repository, add tests, and create a pull request. Embarcadero employees are particularly encouraged to add tests from the internal tests that are run with official Delphi builds.
+
+## Web-development
+
+* [Daraja HTTP Framework](https://github.com/michaelJustin/daraja-framework). A lightweight HTTP server framework for Object Pascal (Delphi 2009+ / Free Pascal 3.0). Supports RESTful.
 
 ## License
 
