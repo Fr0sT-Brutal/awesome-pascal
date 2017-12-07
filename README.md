@@ -38,6 +38,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 		- [Logging](#logging)
 		- [Other non-visual](#other-non-visual)
 	- [OS](#os)
+	- [Report generating](#report-generating)
 	- [Unit Testing](#unit-testing)
 	- [Debugging / error handling](#debugging--error-handling)
 	- [Utilities](#utilities)
@@ -46,7 +47,6 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 		- [Code check/review, debug](#code-checkreview-debug)
 		- [Setup](#setup)
 		- [Other](#other)
-	- [Report](#report)
 
 ----------------------------------------------------------------------------------------------------------------
 
@@ -620,6 +620,13 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 // *Free with source for non-commercial usage (only) with some [conditions](http://help.madshi.net/License.htm). Available to download as part of `madCollection` installer. Pretty well documented. Requires `madBasic` package.*
 
 
+## Report generating ##
+
+* [Report Manager](http://reportman.sourceforge.net/). Report manager is a reporting application (Report Manager Designer) and a set of libraries and utilities to preview, export or print reports. Include native .Net and Delphi/C++Builder libraries, ActiveX component and also standard dynamic link library for use in any language like GNU C.
+
+* [FortesReport](https://github.com/fortesinformatica/fortesreport-ce). The FortesReport is a powerful report generator available as a package of components for Delphi.
+
+
 ## Unit Testing ##
 
 * [DUnitX](https://github.com/VSoftTechnologies/DUnitX). New test framework, taking ideas from DUnit, NUnit and other test frameworks. It is designed to work with Delphi 2010 or later, it makes use of language/RTL features that are not available in older versions of Delphi.
@@ -746,11 +753,6 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [madDisAsm](http://help.madshi.net/madDisAsm.htm). The package features a full x86 disassembler including MMX, 3dNow enhanced, SSE and SSE2 support. The disassembler can examine a single x86 instruction (see ParseCode) or a full function (see ParseFunction) and either return a short analysis or a full text disassembly. Register contents are watched/followed if possible, this improves the analyses for jump/call targets. Case/switch jump tables are automatically detected and handled correctly.
 // *Free **without source** for non-commercial usage (only) with some [conditions](http://help.madshi.net/License.htm). Available to download as part of `madCollection` installer (you'll need to install `madExcept` item). Pretty well documented.*
 
-## Report ##
-
-* [Report Manager](http://reportman.sourceforge.net/). Report manager is a reporting application (Report Manager Designer) and a set of libraries and utilities to preview, export or print reports. Include native .Net and Delphi/C++Builder libraries, ActiveX component and also standard dynamic link library for use in any language like GNU C.
-
-* [FortesReport](https://github.com/fortesinformatica/fortesreport-ce). The FortesReport is a powerful report generator available as a package of components for Delphi.
 
 ## License
 
