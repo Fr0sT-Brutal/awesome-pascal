@@ -223,6 +223,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [Hprose for Delphi/Lazarus](https://github.com/hprose/hprose-delphi). Hprose is a High Performance Remote Object Service Engine. It is a modern, lightweight, cross-language, cross-platform, object-oriented, high performance, remote dynamic communication middleware. It is not only easy to use, but powerful. This project is the implementation of Hprose for Delphi/Lazarus.
 
+* [TelegAPI](https://github.com/ms301/TelegAPI). Library for working with Telegram messenger Bot API in Delphi.
+
 
 ## Serial port
 
@@ -325,6 +327,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [OpenWire](https://sourceforge.net/projects/openwireproject). The library allows writing advanced VCL and FireMonkey components for rapid codeless application development. The components developed with the library allow creation of complex applications with zero lines of program code.
 
 * [SynTaskDialog](https://github.com/synopse/mORMot/blob/master/SynTaskDialog.pas). Implement TaskDialog window (native on Vista/Seven, emulated on XP)
+
+* [AnyiQuack](https://github.com/WladiD/AnyiQuack). jQuery-like control animation framework.
 
 
 ## Database ##
