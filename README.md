@@ -79,6 +79,10 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [Redux Delphi](https://github.com/pierrejean-coudert/ReduxDelphi) ReduxDelphi is a predictable state container for Delphi apps utilizing a unidirectional data flow. Inspired by ReduxJS. Comes with Immutable Generic List.
 
+* [GrijjyFoundation](https://github.com/grijjy/GrijjyFoundation). Foundation classes and utilities that are used throughout the other Grijjy Repositories.
+// *BSON/JSON, IOCP/EPOLL sockets, socket pools, HTTP, HTTP/2, OpenSSL, ProtocolBuffers.*
+
+
 ## Multimedia ##
 
 
@@ -224,6 +228,10 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [Hprose for Delphi/Lazarus](https://github.com/hprose/hprose-delphi). Hprose is a High Performance Remote Object Service Engine. It is a modern, lightweight, cross-language, cross-platform, object-oriented, high performance, remote dynamic communication middleware. It is not only easy to use, but powerful. This project is the implementation of Hprose for Delphi/Lazarus.
 
 * [TelegAPI](https://github.com/ms301/TelegAPI). Library for working with Telegram messenger Bot API in Delphi.
+
+* [DelphiZeroMQ](https://github.com/grijjy/DelphiZeroMQ). Delphi implementation of ZeroMQ Majordomo protocol and CZMQ high level binding.
+
+* [GrijjyFoundation](#general-libraries). IOCP/EPOLL sockets, socket pools, HTTP, HTTP/2, OpenSSL, ProtocolBuffers.
 
 
 ## Serial port
@@ -373,6 +381,12 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [Marshmallow](https://bitbucket.org/soundvibe/marshmallow/wiki/Home). Object-Relational Mapping for Delphi XE7, XE6, XE5, XE4, XE3 and XE2 (Win32) inspired by .NET micro ORM's (mostly by PetaPoco) and Java Hibernate. Developed  by Linas Naginionis. Supports SQLite, Sybase ASA, SQL Server, Firebird, Oracle, MySQL, PostgreSQL, MongoDB. Uses [Spring](http://code.google.com/p/delphi-spring-framework/) Framework. In active development.
 
+* [DelphiCassandra](https://github.com/grijjy/DelphiCassandra). Delphi driver classes to communicate with Cassandra database.
+
+* [DelphiCouchbase](https://github.com/grijjy/DelphiCouchbase). Delphi driver classes to communicate with Couchbase database.
+
+* [DelphiMongoDB](https://github.com/grijjy/DelphiMongoDB). Delphi driver classes to communicate with MongoDB database.
+
 
 ## Scripting ##
 *Using script engine in your applications*
@@ -485,6 +499,9 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [delphi-yaml](https://bitbucket.org/OCTAGRAM/delphi-yaml). Delphi 7 compatible bindings for libyaml, YAML parser and emitter library implemented in C. Four layers of bindings are proposed.
 
+* [GrijjyFoundation](#general-libraries). JSON/BSON.
+
+
 
 ## Language
 *Tools for Pascal and other languages*
@@ -542,6 +559,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [SynLog](https://github.com/synopse/mORMot/blob/master/SynLog.pas). Logging functions used by Synopse projects.
 
 * [slf4p](https://github.com/michaelJustin/slf4p). A simple logging facade with support for LazLogger, Log4D, and other logging frameworks.
+
+* [GrijjyCloudLogger](https://github.com/grijjy/GrijjyCloudLogger). Remote logging tool that allows you to send log messages over the Intranet or Internet from Windows, Linux, iOS, Android and macOS devices to a viewer running on Windows. Besides sending messages along with any data, it has numerous features including custom live watches, remote live views of objects, tracking live memory usage, object allocations, growth leaks and more.
 
 
 ## Other non-visual
@@ -605,6 +624,9 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [DelphiBigNumberXLib](https://github.com/Xor-el/DelphiBigNumberXLib). Arbitrary Precision Library for Delphi with Support for Integer and Floating Point Computations.
 
 * [EmailValidationPascal](https://github.com/Xor-el/EmailValidationPascal). Simple Class for Validating Email Address Syntax in Pascal/Delphi.
+
+* [FastMath](https://github.com/neslib/FastMath). Delphi math library that is optimized for fast performance (sometimes at the cost of not performing error checking or losing a little accuracy). It uses hand-optimized assembly code to achieve much better performance then the equivalent functions provided by the Delphi RTL.
+// *Floating-point, vector, matrix operations.*
 
 
 ## OS ##
