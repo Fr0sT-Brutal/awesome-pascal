@@ -263,7 +263,9 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [Essentials](https://github.com/TurboPack/Essentials). Contains 13 native VCL controls for Embarcadero Delphi and C++Builder. The controls include drop-down calendars and calculators, roll-up dialogs, 3-D labels, tiled backgrounds, scrolling messages, menu buttons, and more.
 
-* [FreeEsVCLComponents](https://github.com/errorcalc/FreeEsVCLComponents). Free Errorsoft Vcl Components - a free library of VCL components for Delphi and C++Builder. This new controls and components to improve the appearance applications and to better user experience. Components support visual styles and has modern style. All components has best support transparency, not flicker, and has support Interesting possibility for double buffering for TGraphicControl heirs. 
+* [FreeEsVCLComponents](https://github.com/errorcalc/FreeEsVCLComponents). Free Errorsoft Vcl Components - a free library of VCL components for Delphi and C++Builder. This new controls and components to improve the appearance applications and to better user experience. Components support visual styles and has modern style. All components has best support transparency, not flicker, and has support Interesting possibility for double buffering for TGraphicControl heirs.
+
+* [SpTBXLib](https://github.com/SilverpointDev/sptbxlib). Add on package for Toolbar2000 components, it adds the following features: Skins, Unicode support, Custom painting events and many more.
 
 
 ## Single controls
@@ -290,6 +292,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [neTabControl](https://github.com/jkour/neTabControl). FireMonkey control for Delphi. It builds on the native TabControl and adds a number of features.
 
+* [ATTabs](https://github.com/Alexey-T/ATTabs). Delphi/Lazarus component for lite tabs. OS independent, fully custom drawn.
+
 
 ## Editors
 
@@ -301,15 +305,17 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 ## Viewers
 
-* [ATViewer](https://sourceforge.net/projects/atviewer). Delphi components to view various file types: text, binary, images, multimedia, webpages, etc.
+* [ATViewer](https://sourceforge.net/projects/atviewer) ([mirror at GitHub](https://github.com/Alexey-T/ATViewer)). Delphi components to view various file types: text, binary, images, multimedia, webpages, etc.
 // *Used in Universal Viewer software. Could be used to display hex dumps, features fast display of unlimited size files/streams. Supports Total Commander Lister plugins.*
 
-* [ATImageMap](https://sourceforge.net/projects/atviewer/files/ATImageMap). Component designed to show many images (parts of the whole image) as a single map. For example, you may have array of images, 200 by X, and 100 by Y â€” control will show them as a single map. Component also allows to draw paths: each path consists of many lines, points, and icons.
+* [ATImageMap](https://sourceforge.net/projects/atviewer/files/ATImageMap) ([mirror at GitHub](https://github.com/Alexey-T/ATViewer)). Component designed to show many images (parts of the whole image) as a single map. For example, you may have array of images, 200 by X, and 100 by Y and control will show them as a single map. Component also allows to draw paths: each path consists of many lines, points, and icons.
 
 * [HtmlViewer](https://github.com/BerndGabriel/HtmlViewer). Delphi/Lazarus HtmlViewer/FrameViewer.
 // *Html visualiser supporting majority of tags, inline styles and CSS.*
 
 * [SciDe](https://github.com/da-baranov/SciDe). [Sciter](https://sciter.com) (Embeddable HTML/CSS/script engine) wrapper for Delphi.
+
+* [ATBinHex](https://github.com/Alexey-T/ATViewer). Viewer for files of unlimited size like in Total Commander.
 
 
 ## Other GUI
@@ -412,6 +418,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [lua4delphi](https://github.com/danieleteti/lua4delphi). Delphi binding for Lua 5.1 language.
 // *LUA DLL required*
+
+* [chakracore-delphi](https://github.com/tondrej/chakracore-delphi). Delphi and Free Pascal bindings and classes for Microsoft's ChakraCore JavaScript engine library.
 
 
 ## Non-visual Classes/Utils ##
@@ -770,6 +778,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [Inno Setup](http://www.jrsoftware.org/isinfo.php). Free installer for Windows programs. First introduced in 1997, Inno Setup today rivals and even surpasses many commercial installers in feature set and stability.
 
 * [WinSparkle](https://winsparkle.org) and its [Delphi wrapper](https://github.com/jkour/neSparkleComponent). WinSparkle is an easy-to-use software update library for Windows developers. WinSparkle is a heavily (to the point of being its almost-port) inspired by the Sparkle framework originally by Andy Matuschak that became the de facto standard for software updates on macOS. 
+
+* [Silverpoint MultiInstaller](http://www.silverpointdevelopment.com/multiinstaller/index.htm). Multi component package installer for Embarcadero Delphi and C++Builder, it was created to ease the components installation on the IDE.
 
 
 ## Other ##
