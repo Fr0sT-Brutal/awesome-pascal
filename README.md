@@ -82,6 +82,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [GrijjyFoundation](https://github.com/grijjy/GrijjyFoundation). Foundation classes and utilities that are used throughout the other Grijjy Repositories.
 // *BSON/JSON, IOCP/EPOLL sockets, socket pools, HTTP, HTTP/2, OpenSSL, ProtocolBuffers.*
 
+* [unRxLib](http://www.micrel.cz/RxLib/dfiles.htm). Effort to keep RxLibrary (library of 60+ components) actual.
+
 
 ## Multimedia ##
 
@@ -344,6 +346,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [AnyiQuack](https://github.com/WladiD/AnyiQuack). jQuery-like control animation framework.
 
+* [TLanguages](https://github.com/albertodev01/TLanguages). Localization tool for VCL and FMX.
+
 
 ## Database ##
 
@@ -421,6 +425,9 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [chakracore-delphi](https://github.com/tondrej/chakracore-delphi). Delphi and Free Pascal bindings and classes for Microsoft's ChakraCore JavaScript engine library.
 
+* [VerySimple.Lua](https://github.com/Dennis1000/verysimplelua). Lua Wrapper for Delphi XE5-D10.1 which automatically creates OOP callback functions for Delphi <-> Lua.
+// *LUA DLL required*
+
 
 ## Non-visual Classes/Utils ##
 
@@ -461,6 +468,10 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [DCPcrypt (fork #1)](https://sourceforge.net/projects/dcpcrypt), [DCPcrypt (fork #2)](https://bitbucket.org/wpostma/dcpcrypt2010). Suite of cryptographic components for Delphi.
 
 * [HashLib4Pascal](https://github.com/Xor-el/HashLib4Pascal). Delphi/FreePascal compatible library that provides an easy to use interface for computing hashes and checksums of strings (with a specified encoding), files, streams, byte arrays and untyped data to mention but a few. It also supports Incremental Hashing.
+
+* [CRC/Hash](http://www.wolfgang-ehrhardt.de/crchash_en.html). Pascal / Delphi source and binary files related to CRC, hash, and HMAC calculations. CRC, Adler, BJ lookup, MD5, SHA, Whirlpool, Blake
+
+* [Crypto](http://www.wolfgang-ehrhardt.de/crypt_en.html). Several cipher algorithms: the 128-bit block ciphers AES and Twofish, the 64-bit block cipher Blowfish, and the stream ciphers Salsa20/XSalsa20/ChaCha and Sosemanuk. 
 
 
 ## XML/JSON/YAML
@@ -509,6 +520,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [GrijjyFoundation](#general-libraries). JSON/BSON.
 
+* [VerySimpleXML](https://github.com/Dennis1000/verysimplexml). Lightweight, one-unit, cross-platform XML reader/writer for Delphi 2010 - 10.2.2 Tokyo
 
 
 ## Language
@@ -636,6 +648,12 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [FastMath](https://github.com/neslib/FastMath). Delphi math library that is optimized for fast performance (sometimes at the cost of not performing error checking or losing a little accuracy). It uses hand-optimized assembly code to achieve much better performance then the equivalent functions provided by the Delphi RTL.
 // *Floating-point, vector, matrix operations.*
 
+* [MPArith](http://www.wolfgang-ehrhardt.de/misc_en.html#mparith). Multi precision integer, rational, real, and complex arithmetic.
+
+* [AMath](http://www.wolfgang-ehrhardt.de/misc_en.html#amath) and [DAMath](http://www.wolfgang-ehrhardt.de/misc_en.html#damath). Accurate mathematical methods without using multi precision arithmetic and double precision accurate mathematical methods without using multi precision arithmetic or assembler respectively.
+
+* [PRNG](http://www.wolfgang-ehrhardt.de/misc_en.html#prng). Seven fast pseudo random number generators with period lengths much greater than Pascal's random function. All are implemented with context records, therefore several independent generators can be used simultaneously, they are not cryptographically secure. In addition there are three cryptographic generators.
+
 
 ## OS ##
 *Tools that help dealing with OS-specific internals*
@@ -747,6 +765,14 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [Browse and Doc It](http://www.davidghoyle.co.uk/WordPress/?page_id=872). Plug-in allows you to document and browse your code from within the IDE.
 
 * [Integrated Testing Helper](http://www.davidghoyle.co.uk/WordPress/?page_id=874). Plugin for Delphi and RAD Studio that allows you to run command-line application before and after the compilation of you projects. It also provides the ability to zip you projects files into an archive on each compile/build and manage the application's version information.
+
+* [Project Magician](https://www.uweraabe.de/Blog/2018/05/17/keep-your-project-files-clean-with-project-magician). Wizard for advanced project options manipulation.
+
+* [Selective Debugging](http://www.uweraabe.de/Blog/2015/05/08/selective-debugging/). Wizard that allows to tune for which units their debug version will be used.
+
+* [MMX Code Explorer](https://www.mmx-delphi.de). Feature-rich productivity enhancing plugin. Includes refactoring, class browser, advanced editing, metrict and many more.
+
+* [FormResource](http://chapmanworld.com/2017/03/22/formresource-a-free-delphi-component-for-organizing-product-dependencies). Wizard that helps storing various data as form resources.
 
 
 ## Documentation ##
