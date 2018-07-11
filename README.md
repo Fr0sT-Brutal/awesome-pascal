@@ -158,6 +158,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [dglOpenGL](https://github.com/SaschaWillems/dglOpenGL). Delphi / Pascal OpenGL header translation.
 
+* [pasvulkan](https://github.com/BeRo1985/pasvulkan). Vulkan header generator, OOP-style API wrapper, framework and prospective Vulkan-based game engine for Object Pascal.
+
 
 ## Game dev ##
 
