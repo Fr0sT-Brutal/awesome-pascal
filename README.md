@@ -158,8 +158,6 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [dglOpenGL](https://github.com/SaschaWillems/dglOpenGL). Delphi / Pascal OpenGL header translation.
 
-* [pasvulkan](https://github.com/BeRo1985/pasvulkan). Vulkan header generator, OOP-style API wrapper, framework and prospective Vulkan-based game engine for Object Pascal.
-
 
 ## Game dev ##
 
@@ -183,6 +181,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [SDL2](http://www.freepascal-meets-sdl.net/) ([GitHub](https://github.com/ev1313/Pascal-SDL-2-Headers)). Pascal SDL 2 Headers. Simple DirectMedia Layer is a cross-platform development library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL and Direct3D.
 
 * [SFML](https://github.com/CWBudde/PasSFML). Pascal SFML Headers. SFML provides a simple interface to the various components of your PC, to ease the development of games and multimedia applications. It is composed of five modules: system, window, graphics, audio and network. Currently Delphi and FPC/Lazarus are supported. However, due to a compiler incompatibility with the Delphi compiler (solved with workarounds), FPC is recommended at the moment.
+
+* [pasvulkan](https://github.com/BeRo1985/pasvulkan). Vulkan header generator, OOP-style API wrapper, framework and prospective Vulkan-based game engine for Object Pascal.
 
 
 ## Communications ##
