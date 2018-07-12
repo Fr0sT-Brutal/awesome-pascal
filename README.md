@@ -182,6 +182,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [SFML](https://github.com/CWBudde/PasSFML). Pascal SFML Headers. SFML provides a simple interface to the various components of your PC, to ease the development of games and multimedia applications. It is composed of five modules: system, window, graphics, audio and network. Currently Delphi and FPC/Lazarus are supported. However, due to a compiler incompatibility with the Delphi compiler (solved with workarounds), FPC is recommended at the moment.
 
+* [pasvulkan](https://github.com/BeRo1985/pasvulkan). Vulkan header generator, OOP-style API wrapper, framework and prospective Vulkan-based game engine for Object Pascal.
+
 
 ## Communications ##
 
