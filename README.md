@@ -96,7 +96,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [Delphi ASIO & VST Project](http://sourceforge.net/projects/delphiasiovst). Framework for writing applications using the ASIO interface and VST plugins. It comes with countless DSP algorithms all demonstrated in dozens of examples.
 //*Not very active lately, but the trunk is in a usable state .*
 
-* [NewAC - New Audio Components](http://code.google.com/p/newac). Designed to help your Delphi programs perform different sound processing tasks. With NewAC you can play audio stored in many formats (wav, Ogg Vorbis, FLAC, Monkey Audio, WavPack, MP3, Windows WMA, DTS, AC-3 (Dobly Surround), VOB (DVD files)).
+* [NewAC - New Audio Components](http://code.google.com/p/newac) (abandoned, list of forks on GH [here](https://github.com/search?l=Pascal&o=desc&q=newac&s=updated&type=Repositories)). Designed to help your Delphi programs perform different sound processing tasks. With NewAC you can play audio stored in many formats (wav, Ogg Vorbis, FLAC, Monkey Audio, WavPack, MP3, Windows WMA, DTS, AC-3 (Dobly Surround), VOB (DVD files)).
 // *Playback, recording, tag read/write, some audio editing tasks and conversions*
 
 * [Audorra](https://sourceforge.net/projects/audorra). Digital audio library for Delphi and Freepascal. Using a flexible plugin architecture, it allows you to exchange the audio backend (e.g. WaveOut, OpenAL), add protocol classes (e.g. file, http) and decoders.
@@ -104,7 +104,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 ## Video
 
-* [DSPack](https://code.google.com/p/dspack). Set of components and classes to write Multimedia Applications using MS Direct Show and DirectX technologies.
+* [DSPack](https://code.google.com/p/dspack) (abandoned, active fork is [here](https://github.com/micha137/dspack-continued-mirror-for-delphinus)). Set of components and classes to write Multimedia Applications using MS Direct Show and DirectX technologies.
 
 * [Delphi-OpenCV](https://github.com/Laex/Delphi-OpenCV). Translation of OpenCV library header files in Delphi
 // *Includes FFMPEG headers*
@@ -122,7 +122,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [Vampyre Imaging Library](http://imaginglib.sourceforge.net). Cross-platform native Object Pascal (Delphi and Free Pascal) image loading, saving, and manipulation library.
 
-* [CCR-EXIF](https://code.google.com/p/ccr-exif). Library to read and write Exif, IPTC and XMP metadata from JPEG, TIFF and PSD images.
+* [CCR-EXIF](https://code.google.com/p/ccr-exif) (seems abandoned, list of forks on GH [here](https://github.com/search?l=Pascal&o=desc&q=ccr-exif&s=updated&type=Repositories)). Library to read and write Exif, IPTC and XMP metadata from JPEG, TIFF and PSD images.
 
 * [KIcon](http://www.tkweb.eu/en/delphicomp/kicon.html). This component makes sense if a more complex manipulation with icons (or better icon files *.ico) than just viewing is needed. Full PNG icon image support, correct rendering, icons with alpha channel.
 
@@ -193,7 +193,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [Internet Component Suite](http://www.overbyte.be/frame_index.html). Asynchronous-based library composed of various Internet components and applications. Clients/servers for TCP, UDP, raw sockets, FTP, SMTP, POP3, NNTP, HTTP, Telnet and more. Supports SSL and TLS with the help of OpenSSL. Also includes Mime Decoder, SHA1/MD4/MD5 hashes, DES encryption.
 
-* [Indy](https://code.google.com/p/indyproject). Network components for Delphi, C++Builder, Delphi.NET, and FreePascal
+* [Indy](http://www.indyproject.org/Sockets/Download/svn.en.aspx). Network components for Delphi, C++Builder, Delphi.NET, and FreePascal
 // *All-in-one network library based on blocking sockets and threads. Included in default RAD studio installation since 2006.*
 
 * [Ararat Synapse](https://sourceforge.net/p/synalist). Pascal TCP/IP Library for Dephi, C++Builder, Kylix and FreePascal. Deals with network communication by means of blocking (synchronous) sockets or with limited non-blocking mode. This project not using asynchronous sockets! The Project contains simple low level non-visual objects for easiest programming without problems (no required multithread synchronisation, no need for windows message processing,â€¦) Great for command line utilities, visual projects, NT services,â€¦
@@ -274,7 +274,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 ## Single controls
 
-* [EasyListView](http://code.google.com/p/mustangpeakeasylistview). Part of VirtualShellTools for the Listview but can be used for a TListview Replacement that is faster and more customizable.
+* [EasyListView](http://code.google.com/p/mustangpeakeasylistview) (seems abandoned, active fork on GH [here](https://github.com/TurboPack/MustangpeakEasyListview)). Part of VirtualShellTools for the Listview but can be used for a TListview Replacement that is faster and more customizable.
 // *Feature-rich Listview implementing virtual (callback-based) MVC paradigm.*
 
 * [VirtualTreeView](https://github.com/Virtual-TreeView/Virtual-TreeView). Treeview control built from ground up. Many years of development made it one of the most flexible and advanced tree controls available today.
@@ -324,7 +324,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 ## Other GUI
 
-* [GMLib](https://code.google.com/p/gmlibrary) (Google Maps Library). Components for Delphi/C++ Builder that encapsulate the GoogleMaps API to administrate a map, markers, polygons, rectangles, polylines,... All objects that you can put into a map.
+* [GMLib](https://code.google.com/p/gmlibrary) (Google Maps Library) (seems abandoned, active fork on GH [here](https://github.com/bero/GMLibrary)). Components for Delphi/C++ Builder that encapsulate the GoogleMaps API to administrate a map, markers, polygons, rectangles, polylines,... All objects that you can put into a map.
 
 * [VCL Styles Utils](https://github.com/rruz/vcl-styles-utils). Collection of classes and style hooks, which extend, fix QC reports and add new features to the VCL Styles.
 // *Collection of patches/enhancements that promote stock VCL style engine to a new level. Styling for Inno setup and NSIS also available.*
@@ -361,7 +361,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [TxQuery](https://github.com/ccy/txquery). TDataSet descendant component that can be used to query one or more TDataSet descendant components using SQL statements. It is implemented in Delphi 100% source code, no DLL required, because it implements its own SQL syntax parser and SQL engine.
 
-* [Delphi-ORM](https://code.google.com/p/delphi-orm). Object-Relational Mapping for Delphi XE7, XE6, XE5, XE4, XE3 and XE2 (Win32). Supports for FirebirdSQL, SQLServer and SQLite3.
+* [Delphi-ORM](https://github.com/danieleteti/delphi-orm). Object-Relational Mapping for Delphi XE7, XE6, XE5, XE4, XE3 and XE2 (Win32). Supports for FirebirdSQL, SQLServer and SQLite3.
 
 * [delphimemcache](https://code.google.com/p/delphimemcache). Implements a thread safe client for memcached.
 // *Requires Indy 10*
