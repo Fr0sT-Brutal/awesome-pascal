@@ -357,6 +357,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [Unified Interbase](http://sourceforge.net/projects/uib). Set of components to use Interbase, FireBird and YAFFIL. These components were born from the need to use Interbase, FireBird or Yaffil indifferently as fast as possible in a Multithreading environment, a Server for example.
 
+* [CData FireDAC Components](https://www.cdata.com/firedac/). Our high-performance FireDAC Drivers offer straightforward integration with more than 120+ popular data sources, including NoSQL & Big Data databases, CRM, ERP, Accounting Systems, Marketing Automation, cloud platforms, and more. The Drivers fully integrate with RAD Studio, and offer a simple Transact-SQL interface for connecting with data, virtually identical to how a user would interact with a relational database like SQL server.
+
 * [ASQLite](https://github.com/remobjects/ASQLite3). Delphi SQLite set of DAC components from aducom software, based on their latest release for Delphi 2009, and updated to support newer editions of Delphi as included in RemObjects Data Abstract for Delphi.
 
 * [TxQuery](https://github.com/ccy/txquery). TDataSet descendant component that can be used to query one or more TDataSet descendant components using SQL statements. It is implemented in Delphi 100% source code, no DLL required, because it implements its own SQL syntax parser and SQL engine.
