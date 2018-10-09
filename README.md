@@ -788,6 +788,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 ## Code check/review, debug ##
 
+* [GpProfiler2017](https://github.com/ase379/gpprofile2017) is a source code instrumenting profiler for Delphi XE and higher. Other forks support older versions.
+
 * [SamplingProfiler](https://www.delphitools.info/samplingprofiler) is a performance profiling tool for Delphi 5 to 32bits Delphi XE4. Its purpose is to help locate bottlenecks, even in final, optimized code running at full-speed.
 
 * [Delphi Code Coverage](https://sourceforge.net/projects/delphicodecoverage). Simple Code Coverage tool for Delphi that creates code coverage reports based on detailed MAP files.
