@@ -615,6 +615,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [Delphi Event Bus](https://github.com/spinettaro/delphi-event-bus) (for short DEB) is an Event Bus framework for Delphi.
 
+* [DelphiEventBus](https://github.com/BitecSPB/DelphiEventBus) Yet another Event Bus framework for Delphi, with annotations and rich  event filtering.
+
 * [DHibernate](https://github.com/thecocce/delphi-hibernate) Object Persistent Framework based on Hibernate and NHibernate for Delphi.
 // *Abandoned since 2012*
 
