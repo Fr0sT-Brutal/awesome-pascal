@@ -187,6 +187,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [pasvulkan](https://github.com/BeRo1985/pasvulkan). Vulkan header generator, OOP-style API wrapper, framework and prospective Vulkan-based game engine for Object Pascal.
 
+* [DarkGlass](https://github.com/chapmanworld/DarkGlass). DarkGlass is a general purpose game engine written using Delphi.
+
 
 ## Communications ##
 
