@@ -582,15 +582,13 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [TraceTool](http://tracetool.sourceforge.net/). C#, C++, Delphi, ActiveX and Java trace framework and a trace viewer.
 
-* [LoggerPro](https://github.com/danieleteti/loggerpro). An modern and pluggable logging framework for Delphi.
+* [LoggerPro](https://github.com/danieleteti/loggerpro). A modern and pluggable logging framework for Delphi.
 
 * [SynLog](https://github.com/synopse/mORMot/blob/master/SynLog.pas). Logging functions used by Synopse projects.
 
 * [slf4p](https://github.com/michaelJustin/slf4p). A simple logging facade with support for LazLogger, Log4D, and other logging frameworks.
 
 * [GrijjyCloudLogger](https://github.com/grijjy/GrijjyCloudLogger). Remote logging tool that allows you to send log messages over the Intranet or Internet from Windows, Linux, iOS, Android and macOS devices to a viewer running on Windows. Besides sending messages along with any data, it has numerous features including custom live watches, remote live views of objects, tracking live memory usage, object allocations, growth leaks and more.
-
-* [LoggerPro](https://github.com/danieleteti/loggerpro). Another An modern and pluggable logging framework for Delphi.
 
 * [QuickLogger](https://github.com/exilon/QuickLogger). Delphi/freepascal/.NET (Windows/Linux) library for logging on files, console, memory, email, rest, eventlog, redis, ide debug messages and throw events..
 
