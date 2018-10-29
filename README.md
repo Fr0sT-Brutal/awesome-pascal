@@ -668,6 +668,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [CSV File and String Reader](https://www.codeproject.com/Tips/783493/Delphi-CSV-File-and-String-Reader-Classes). TnvvCSVFileReader and TnvvCSVStringReader are light weighted and fast classes that resemble unidirectional data set.
 
+* [HTMLBuilder](https://github.com/guitorres/htmlbuilder). Build simplified html with pascal code.
+
 ## OS ##
 *Tools that help dealing with OS-specific internals*
 
