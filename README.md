@@ -530,6 +530,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [VerySimpleXML](https://github.com/Dennis1000/verysimplexml). Lightweight, one-unit, cross-platform XML reader/writer for Delphi 2010 - 10.2.2 Tokyo
 
+* [XSuperObject](https://github.com/onryldz/x-superobject). Delphi Cross Platform Rapid JSON
 
 ## Language
 *Tools for Pascal and other languages*
@@ -540,7 +541,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [Castalia-Delphi-Parser](https://github.com/jacobthurman/Castalia-Delphi-Parser). These files make up a hand-written high speed parser for the Object Pascal dialect known as "Delphi". The original work was done by Martin Waldenburg in the late 1990s, and the project was abandoned sometime before 2003, when I found the code and began working on it.  I have kept it updated as necessary to work with my project, called "Castalia".
 
-* [CrossPascal](https://github.com/BeRo1985/crosspascal). aims to be a Delphi 7 compatible cross-platform source-to-source compiler (together with the new unicode string types from XE3 but where ansistring is still the default string type for to be still Delphi 7 compatible) which generates intermediate C code.
+* [CrossPascal](https://github.com/BeRo1985/crosspascal). Aims to be a Delphi 7 compatible cross-platform source-to-source compiler (together with the new unicode string types from XE3 but where ansistring is still the default string type for to be still Delphi 7 compatible) which generates intermediate C code.
 // *Quite interesting project though seems abandoned*
 
 
@@ -670,6 +671,9 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [HTMLBuilder](https://github.com/guitorres/htmlbuilder). Build simplified html with pascal code.
 
+* [Marvin.IA](https://github.com/marvinbraga/Marvin.IA). Machine learning collection of object-oriented Pascal primitives (only interfaces and classes).
+
+
 ## OS ##
 *Tools that help dealing with OS-specific internals*
 
@@ -736,7 +740,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 
 ## Utilities ##
-*Free but non-opensource products allowed here.*
+*Free non-opensource products allowed here.*
 
 ## IDE plugins/wizards ##
 
@@ -843,6 +847,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [madDisAsm](http://help.madshi.net/madDisAsm.htm). The package features a full x86 disassembler including MMX, 3dNow enhanced, SSE and SSE2 support. The disassembler can examine a single x86 instruction (see ParseCode) or a full function (see ParseFunction) and either return a short analysis or a full text disassembly. Register contents are watched/followed if possible, this improves the analyses for jump/call targets. Case/switch jump tables are automatically detected and handled correctly.
 // *Free **without source** for non-commercial usage (only) with some [conditions](http://help.madshi.net/License.htm). Available to download as part of `madCollection` installer (you'll need to install `madExcept` item). Pretty well documented.*
 
+* [Chet - C Header Translator for Delphi](https://github.com/neslib/Chet). Chet is a .h-to-.pas translator powered by libclang for Delphi. Uses the Clang compiler to parse header files, resulting in more accurate translations that require fewer manual adjustments.
 
 ## License
 
