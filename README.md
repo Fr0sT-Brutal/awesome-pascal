@@ -1,4 +1,4 @@
-﻿# Awesome Delphi [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Delphi [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome Delphi frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 
@@ -247,6 +247,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [STOMP Client](https://github.com/danieleteti/delphistompclient). STOMP client for Embarcadero Delphi and FreePascal. The project can use INDY (Delphi) or Synapse (Delphi or FreePascal).
 
+* [delphiXero](https://github.com/littleearth/delphiXERO) XERO accounting API for Delphi
+
 ## Serial port
 
 * [Synaser](http://sourceforge.net/p/synalist/code/HEAD/tree/trunk/synaser.pas). Library for blocking communication on serial ports. It is non-visual class as in Synapse, and programmer interface is very similar to Synapse.
@@ -333,7 +335,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 ## Other GUI
 
-* [GMLib](https://code.google.com/p/gmlibrary) (Google Maps Library) (seems abandoned, active fork on GH [here](https://github.com/bero/GMLibrary)). Components for Delphi/C++ Builder that encapsulate the GoogleMaps API to administrate a map, markers, polygons, rectangles, polylines,... All objects that you can put into a map.
+* [GMLib](https://code.google.com/p/gmlibrary) (Google Maps Library) (seems abandoned, active fork on GH [here](https://github.com/bero/GMLibrary) and [here](https://github.com/cadetill/gmlib_v1)). Components for Delphi/C++ Builder that encapsulate the GoogleMaps API to administrate a map, markers, polygons, rectangles, polylines,... All objects that you can put into a map.
 
 * [VCL Styles Utils](https://github.com/rruz/vcl-styles-utils). Collection of classes and style hooks, which extend, fix QC reports and add new features to the VCL Styles.
 // *Collection of patches/enhancements that promote stock VCL style engine to a new level. Styling for Inno setup and NSIS also available.*
@@ -797,6 +799,10 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [MMX Code Explorer](https://www.mmx-delphi.de). Feature-rich productivity enhancing plugin. Includes refactoring, class browser, advanced editing, metrict and many more.
 
 * [FormResource](http://chapmanworld.com/2017/03/22/formresource-a-free-delphi-component-for-organizing-product-dependencies). Wizard that helps storing various data as form resources.
+
+* [Delphi Library Helper](https://github.com/littleearth/delphi-library-helper) Tool to assist Delphi developers configuring library folders. 
+
+* [Mobile Image Creator](https://github.com/littleearth/mobile-image-creator) Creating Icons and Launcher Images for Delphi Mobile Applications (Firemonkey). This is a fork of Mobile Gfx created by [Thomas Grubb of RiverSoftAVG](http://riversoftavg.com/blogs/index.php/2014/02/03/creating-icons-and-launchers-for-delphi-mobile-applications/).
 
 
 ## Documentation ##
