@@ -596,7 +596,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [GrijjyCloudLogger](https://github.com/grijjy/GrijjyCloudLogger). Remote logging tool that allows you to send log messages over the Intranet or Internet from Windows, Linux, iOS, Android and macOS devices to a viewer running on Windows. Besides sending messages along with any data, it has numerous features including custom live watches, remote live views of objects, tracking live memory usage, object allocations, growth leaks and more.
 
-* [QuickLogger](https://github.com/exilon/QuickLogger). Delphi/freepascal/.NET (Windows/Linux) library for logging on files, console, memory, email, rest, eventlog, redis, ide debug messages and throw events..
+* [QuickLogger](https://github.com/exilon/QuickLogger). Delphi/freepascal/.NET (Windows/Linux) library for logging on files, console, memory, email, rest, telegram, slack, eventlog, redis, ide debug messages and throw events..
 
 
 ## Math
