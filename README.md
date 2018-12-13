@@ -85,6 +85,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [unRxLib](http://www.micrel.cz/RxLib/dfiles.htm). Effort to keep RxLibrary (library of 60+ components) actual.
 
+* [QuickLib] (https://github.com/exilon/QuickLib). Delphi/freepascal (Windows/Linux) library for Quick development and crossplatform support (Json Serialize, AutoMapper, Chronometer, Threads, Lists, Config, Console services and more).
+
 
 ## Multimedia ##
 
@@ -162,6 +164,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [DelphiZXingQRCodeEx](https://github.com/MichaelDemidov/DelphiZXingQRCodeEx). Delphi port of the QR Code generating functionality from ZXing, an open source barcode image processing library.
 
 * [ZXing.Delphi](https://github.com/Spelt/ZXing.Delphi). Native Object Pascal library for Delphi XE to 10.2 Tokyo that is based on the well known open source Barcode Scanning Library ZXing (Zebra Crossing). It is aimed at all of the FireMonkey mobile platforms and, starting from v3.1, it fully supports also Windows VCL applications (no dependencies on FMX.Graphics unit).
+
+* [QuickImageFX](https://github.com/exilon/QuickImageFX). Delphi library for simplifying image load/save, conversion and transformation. Load/save png, jpg, gif and bmp. get image from different resources: file, stream, http, imagelist, associated windows icon, executable file icon, etc... Rotate, flip, grayscale and many other transformations.
 
 ## Game dev ##
 
@@ -410,6 +414,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [DelphiMongoDB](https://github.com/grijjy/DelphiMongoDB). Delphi driver classes to communicate with MongoDB database.
 
+* [QuickORM](https://github.com/exilon/QuickORM). QuickORM is a simple RestServer and Restclient based on mORMot framework. Provides a fast implementation of client-server applications in few minutes.
+
 
 ## Scripting ##
 *Using script engine in your applications*
@@ -596,7 +602,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [GrijjyCloudLogger](https://github.com/grijjy/GrijjyCloudLogger). Remote logging tool that allows you to send log messages over the Intranet or Internet from Windows, Linux, iOS, Android and macOS devices to a viewer running on Windows. Besides sending messages along with any data, it has numerous features including custom live watches, remote live views of objects, tracking live memory usage, object allocations, growth leaks and more.
 
-* [QuickLogger](https://github.com/exilon/QuickLogger). Delphi/freepascal/.NET (Windows/Linux) library for logging on files, console, memory, email, rest, eventlog, redis, ide debug messages and throw events..
+* [QuickLogger](https://github.com/exilon/QuickLogger). Delphi/freepascal/.NET (Windows/Linux) library for logging on files, console, memory, email, rest, telegram, slack, eventlog, redis, ide debug messages and throw events..
 
 
 ## Math
