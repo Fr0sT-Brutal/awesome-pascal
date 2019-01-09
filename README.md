@@ -76,7 +76,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [MARS - Curiosity](https://github.com/andrea-magni/MARS). Delphi REST Library. Pure REST approach, standard concepts in a familiar Delphi flavor (including a component based client library). Known compatibility: Delphi versions from XE to 10 Seattle. Some functionalities requires FireDAC.
 
-* [LKSL](https://github.com/LaKraven/LKSL). LaKraven Studios Standard Library. Special Common Base Types each containing a Thread-Safe Locking Mechanism. Event Engine - a very powerful system for producing Multi-Threaded, Asynchronous and Event-Driven programs. Generics Collections 	Highly efficient, Thread-Safe Collection Types (lists, trees etc.). Stream Handling Library- makes working with Streams much easier! Handles Deleting, Inserting, Reading and Writing data.
+* [ADAPT](https://github.com/LaKraven/ADAPT). Advanced Developer Async Programming Toolkit, foundation library intended to be used at the heart of your projects for the purpose of providing extremely powerful, multi-threaded (and thread-safe) capabilities. Event Engine - a very powerful system for producing Multi-Threaded, Asynchronous and Event-Driven programs. Generics Collections - highly efficient Collection Types (Lists, Trees, Maps etc.). Math Library - a library for Unit Conversion, special calculation and other useful mathematics routines. Package Engine - extension of the Streamables Engine supporting the packaging of files together (a VFS of sorts). Shared Streams Library - 100% Thread-Safe Stream Classes (Interfaced too) allowing read/write from multiple Threads. Stream Handling Library - makes working with Streams much easier! Handles Deleting, Inserting, Reading and Writing data.
 
 * [Redux Delphi](https://github.com/pierrejean-coudert/ReduxDelphi). Predictable state container for Delphi apps utilizing a unidirectional data flow. Inspired by ReduxJS. Comes with Immutable Generic List.
 
@@ -167,6 +167,9 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [QuickImageFX](https://github.com/exilon/QuickImageFX). Delphi library for simplifying image load/save, conversion and transformation. Load/save png, jpg, gif and bmp. get image from different resources: file, stream, http, imagelist, associated windows icon, executable file icon, etc... Rotate, flip, grayscale and many other transformations.
 
+* [NativeJpg](https://code.google.com/p/simdesign). Fully object-oriented Pascal implementation that allows to read and write Jpeg files. You can use this software to read and write Jpeg images from files or streams. It supports baseline and progressive Jpeg, support for metadata, as well as all conceivable lossless operations.
+
+
 ## Game dev ##
 
 * [RecastNavigation](https://github.com/Kromster80/RecastNavigationDelphi). Navigation mesh construction toolset for games. Recast is accompanied with Detour, path-finding and spatial reasoning toolkit. You can use any navigation mesh with Detour, but of course the data generated with Recast fits perfectly. This is a port of the original RecastNavigation written in C++.
@@ -193,6 +196,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [pasvulkan](https://github.com/BeRo1985/pasvulkan). Vulkan header generator, OOP-style API wrapper, framework and prospective Vulkan-based game engine for Object Pascal.
 
 * [DarkGlass](https://github.com/chapmanworld/DarkGlass). DarkGlass is a general purpose game engine written using Delphi.
+
+* [JEDI-SDL](https://sourceforge.net/projects/jedi-sdl). Pascal headers for SDL from JEDI. Works with Delphi, Kylix, Free Pascal, Gnu Pascal and TMT Pascal.
 
 
 ## Communications ##
@@ -252,6 +257,11 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [STOMP Client](https://github.com/danieleteti/delphistompclient). STOMP client for Embarcadero Delphi and FreePascal. The project can use INDY (Delphi) or Synapse (Delphi or FreePascal).
 
 * [delphiXero](https://github.com/littleearth/delphiXERO). XERO cloud accounting API for Delphi.
+
+* [BesaSoap](https://github.com/besasoftware/besasoap). The BesaSoap library is designed to help programmers develop faster and more native web service client applications. Represents C# or Java like native class support, nullable data types and custom attributes.
+
+* [IndySoap](https://sourceforge.net/projects/indysoap). Open Source Library for implementing Web services using Delphi/CBuilder Compilers. IndySoap isn't tied to Indy for transport services, though Indy based transport services are included.
+
 
 ## Serial port
 
@@ -578,6 +588,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 // *Supports x64, calling original functions, multi hooks, COM/Interfaces/win32api, object methods hooking, fully thread-safe, Delphi 7/2005-2010/XE-XE7 & Lazarus/FPC, 64 bit address is supported.*
 
 * [MemoryModule](https://github.com/Fr0sT-Brutal/Delphi_MemoryModule). With the MemoryModule engine you can store all required DLLs inside your binary to keep it standalone. Additional hook units allow transparent using of MM engine thus allowing switching MM/WinAPI loading as well as enabling 3rd party dynamic-load DLL interfaces that are unaware of MM (tested with Interbase Express components and Firebird client library). MemoryModule is a Pascal port of Joachim Bauch's C MemoryModule.
+
+* [DirectoryWatcher](https://github.com/Wosi/DirectoryWatcher). Watch changes in directories on different platforms (Windows/Linux/Mac OS).
 
 
 ## Template
