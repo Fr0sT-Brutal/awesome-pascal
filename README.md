@@ -118,6 +118,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [PasLibVlc](http://prog.olsztyn.pl/paslibvlc). `[Delphi]` `[FPC]` Interface to VideoLAN libvlc.dll and VCL player component for Delphi / FreePascal based on VideoLAN
 
+* [fevh264](https://github.com/dpethes/fevh264). `[FPC]` Baseline h.264 encoder. Windows and Linux are supported
+
 
 ## Graphic
 
