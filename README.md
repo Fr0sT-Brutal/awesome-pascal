@@ -187,9 +187,9 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [CrystalPathFinding](https://github.com/d-mozulyov/CrystalPathFinding). Simple and effective library with an open source intended for the searching of the shortest paths by algorithms A*/WA* for maps based on tiles with 4 (simple), 8 (diagonal/diagonalex) or 6 (hexagonal) neighbors.
 
-* [Allegro-Pas](https://sourceforge.net/projects/allegro-pas) ([GitHub](https://github.com/niuniomartinez/allegro-pas)). Wrapper to use the Allegro game library with Pascal/Delphi.
+* [Allegro-Pas](https://sourceforge.net/projects/allegro-pas) ([GitHub](https://github.com/niuniomartinez/allegro-pas)). `[Delphi]` `[FPC]` Wrapper to use the Allegro game library with Pascal/Delphi.
 
-* [Castle Engine](https://github.com/castle-engine/castle-engine). Complete Pascal Game Engine. Cross-platform 3D and 2D game engine with a lot of graphic effects and a scene graph based on X3D.
+* [Castle Engine](https://github.com/castle-engine/castle-engine). `[FPC]` Complete Pascal Game Engine. Cross-platform 3D and 2D game engine with a lot of graphic effects and a scene graph based on X3D.
 
 * [TileEngine](http://www.tilengine.org). ([GitHub](https://github.com/turric4n/PascalTileEngine)) OOP Pascal Wrapper and bindings for Tilengine 2D retro graphics engine. Tilengine is a cross-platform 2D graphics engine for creating classic/retro games with tilemaps, sprites and palettes. Its scanline-based rendering algorithm makes raster effects a core feature, a technique used by many games running on real 2D graphics chips.
 
@@ -348,7 +348,9 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [SciDe](https://github.com/da-baranov/SciDe). [Sciter](https://sciter.com) (Embeddable HTML/CSS/script engine) wrapper for Delphi.
 
-* [ATBinHex](https://github.com/Alexey-T/ATViewer). Viewer for files of unlimited size like in Total Commander.
+* [ATBinHex for Delphi](https://github.com/Alexey-T/ATViewer/blob/master/Source/ATBinHex.pas) `[Delphi]`, [ATBinHex for Laz](https://github.com/Alexey-T/ATBinHex-Lazarus). `[FPC]` Viewer for files of unlimited size like in Total Commander.
+
+* [ATImageBox for Delphi](https://github.com/Alexey-T/ATViewer/blob/master/Source/ATImageBox.pas) `[Delphi]`, [ATImageBox for Laz](https://github.com/Alexey-T/ATImageBox-Lazarus). `[FPC]` TScrollBox with embedded TImage. Control can auto position image inside.
 
 
 ## Other GUI
