@@ -266,6 +266,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [IndySoap](https://sourceforge.net/projects/indysoap). Open Source Library for implementing Web services using Delphi/CBuilder Compilers. IndySoap isn't tied to Indy for transport services, though Indy based transport services are included.
 
+* [Fano Framework](https://fanoframework.github.io). Web application framework for modern Pascal programming language. It is written in Free Pascal.
+
 
 ## Serial port
 
