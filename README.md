@@ -853,6 +853,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [madExcept](http://madshi.net/madExceptShop.htm). madExcept was built to help you locate bugs in your software. Whenever there's a crash/exception in your program, madExcept will automatically catch it, analyze it, collect lots of useful information, and give the end user the possibility to send you a full bug report. madExcept is also able to find memory leaks, resource leaks and buffer overruns for you.
 // **Free **without source** for non-commercial usage (only) with some [conditions](http://help.madshi.net/License.htm). Available to download as part of `madCollection` installer (you'll need to install `madExcept` item). Pretty well documented.*
 
+* [delphiunitsizes](https://github.com/VilleKrumlinde/delphiunitsizes). Tool to display the sizes of each unit in a Delphi executable. Shows the size of each unit that is included in a Delphi exe-file. It also shows an approximate size of each symbol (classes, methods, procedures etc) in a unit.
+
 
 ## Setup ##
 
