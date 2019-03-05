@@ -845,18 +845,20 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 ## Code check/review, debug ##
 
-* [GpProfiler2017](https://github.com/ase379/gpprofile2017). Source code instrumenting profiler for Delphi XE and higher. Other forks support older versions.
+* [GpProfiler2017](https://github.com/ase379/gpprofile2017). `[Delphi]` Source code instrumenting profiler for Delphi XE and higher. Other forks support older versions.
 
-* [SamplingProfiler](https://www.delphitools.info/samplingprofiler). Performance profiling tool for Delphi 5 to 32bits Delphi XE4. Its purpose is to help locate bottlenecks, even in final, optimized code running at full-speed.
+* [SamplingProfiler](https://www.delphitools.info/samplingprofiler). `[Delphi]` Performance profiling tool for Delphi 5 to 32bits Delphi XE4. Its purpose is to help locate bottlenecks, even in final, optimized code running at full-speed.
 
-* [Delphi Code Coverage](https://sourceforge.net/projects/delphicodecoverage). Simple Code Coverage tool for Delphi that creates code coverage reports based on detailed MAP files.
+* [Delphi Code Coverage](https://sourceforge.net/projects/delphicodecoverage). `[Delphi]` Simple Code Coverage tool for Delphi that creates code coverage reports based on detailed MAP files.
 
-* [Pascal Analyzer](http://www.peganza.com/products_pal.html) (free Lite version available). Pascal Analyzer, or PAL for short, parses Delphi or Borland Pascal source code. It builds large internal tables of identifiers, and collects other information such as calls between subprograms. When the parsing is completed, extensive reports are produced. These reports contain a great deal of important information about the source code. This information will help you understand your source code better, and assist you in producing code of higher quality and reliability.
+* [Pascal Analyzer](http://www.peganza.com/products_pal.html) (free Lite version available). `[Delphi]` Pascal Analyzer, or PAL for short, parses Delphi or Borland Pascal source code. It builds large internal tables of identifiers, and collects other information such as calls between subprograms. When the parsing is completed, extensive reports are produced. These reports contain a great deal of important information about the source code. This information will help you understand your source code better, and assist you in producing code of higher quality and reliability.
 
-* [madExcept](http://madshi.net/madExceptShop.htm). madExcept was built to help you locate bugs in your software. Whenever there's a crash/exception in your program, madExcept will automatically catch it, analyze it, collect lots of useful information, and give the end user the possibility to send you a full bug report. madExcept is also able to find memory leaks, resource leaks and buffer overruns for you.
+* [madExcept](http://madshi.net/madExceptShop.htm). `[Delphi]` madExcept was built to help you locate bugs in your software. Whenever there's a crash/exception in your program, madExcept will automatically catch it, analyze it, collect lots of useful information, and give the end user the possibility to send you a full bug report. madExcept is also able to find memory leaks, resource leaks and buffer overruns for you.
 // **Free **without source** for non-commercial usage (only) with some [conditions](http://help.madshi.net/License.htm). Available to download as part of `madCollection` installer (you'll need to install `madExcept` item). Pretty well documented.*
 
-* [delphiunitsizes](https://github.com/VilleKrumlinde/delphiunitsizes). Tool to display the sizes of each unit in a Delphi executable. Shows the size of each unit that is included in a Delphi exe-file. It also shows an approximate size of each symbol (classes, methods, procedures etc) in a unit.
+* [delphiunitsizes](https://github.com/VilleKrumlinde/delphiunitsizes). `[Delphi]` Tool to display the sizes of each unit in a Delphi executable. Shows the size of each unit that is included in a Delphi exe-file. It also shows an approximate size of each symbol (classes, methods, procedures etc) in a unit.
+
+* [MapFileStats](https://www.delphitools.info/other-tools/mapfilestats). `[Delphi]` Tool that provides simple binary size statistics from .MAP files (any Delphi version up to at least Delphi XE5).
 
 
 ## Setup ##
