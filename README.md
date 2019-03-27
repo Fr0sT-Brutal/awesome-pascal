@@ -89,6 +89,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [QuickLib](https://github.com/exilon/QuickLib). `[Delphi]` `[FPC]` Delphi/freepascal (Windows/Linux) library for Quick development and crossplatform support (Json Serialize, AutoMapper, Chronometer, Threads, Lists, Config, Console services and more).
 
+* [KOL](https://sourceforge.net/projects/kolmck). `[Delphi]` `[FPC]` ([KOL-CE](https://sourceforge.net/p/kol-ce) port to FPC) KEY OBJECTS LIBRARY for Delphi (and FPC) - to make applications small and power. This library is freeware and open source. MCK is a kit of mirror classes for the VISUAL project development in Delphi environment using KOL library.
+
 
 ## Multimedia ##
 
@@ -268,15 +270,17 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [Fano Framework](https://fanoframework.github.io). `[FPC]` Web application framework for modern Pascal programming language. It is written in Free Pascal.
 
+* [Internet Tools](#xmljsonyaml). XPath/XQuery/JSONiq/CSS/HTML; functions to perform HTTP/S requests on Windows/Linux/MacOSX/Android, an XSLT-inspired webscraping language, and an auto update class.
+
 
 ## Serial port
 
-* [Synaser](http://sourceforge.net/p/synalist/code/HEAD/tree/trunk/synaser.pas). Library for blocking communication on serial ports. It is non-visual class as in Synapse, and programmer interface is very similar to Synapse.
+* [Synaser](http://sourceforge.net/p/synalist/code/HEAD/tree/trunk/synaser.pas). `[Delphi]` `[FPC]` Library for blocking communication on serial ports. It is non-visual class as in Synapse, and programmer interface is very similar to Synapse.
 
-* [Async Professional](http://sourceforge.net/projects/tpapro) ([Newest](https://github.com/TurboPack/AsyncPro) and maintained version for recent compiler version only). Comprehensive communications toolkit for Embarcadero Delphi, C++Builder, & ActiveX environments. It provides direct access to serial ports, TAPI and the Microsoft Speech API (TTS/Speech recognition). It supports faxing, terminal emulation, VOIP, RAS dial & more.
+* [Async Professional](http://sourceforge.net/projects/tpapro) ([Newest](https://github.com/TurboPack/AsyncPro) and maintained version for recent compiler version only). `[Delphi]` Comprehensive communications toolkit for Embarcadero Delphi, C++Builder, & ActiveX environments. It provides direct access to serial ports, TAPI and the Microsoft Speech API (TTS/Speech recognition). It supports faxing, terminal emulation, VOIP, RAS dial & more.
 // *Seems outdated (last update in 2011) but adapted to XE and should be easy to use in newer versions. The project is also very thoroughly documented. Second link points to an adapted version for newest compiler versions.*
 
-* [TComPort](https://sourceforge.net/projects/comport). Delphi/C++ Builder serial communications components. It is generally easy to use for basic Serial Communications purposes.
+* [TComPort](https://sourceforge.net/projects/comport). `[Delphi]` Delphi/C++ Builder serial communications components. It is generally easy to use for basic Serial Communications purposes.
 // *Seems abandoned since 2011*
 
 
@@ -286,69 +290,71 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 ## Control packs
 *Large sets of GUI controls*
 
-* [Cindy components](http://sourceforge.net/projects/tcycomponents). Packages with 71 components: VCL controls (labels, buttons, panels, Edits, TabControls, StaticText) with features like background gradient, colored bevels, wallpaper, shadowText, caption orientation etc...
+* [Cindy components](http://sourceforge.net/projects/tcycomponents). `[Delphi]` Packages with 71 components: VCL controls (labels, buttons, panels, Edits, TabControls, StaticText) with features like background gradient, colored bevels, wallpaper, shadowText, caption orientation etc...
 
-* [Orpheus](http://sourceforge.net/projects/tporpheus) ([Newest](https://github.com/TurboPack/Orpheus) and maintained version for recent compiler version only). Award-winning UI toolkit for Borland Delphi & C++Builder. It contains over 120 components covering everything from data entry to calendars and clocks. Other noteworthy components include an Object Inspector, LookOut bar & report views.
+* [Orpheus](http://sourceforge.net/projects/tporpheus) ([Newest](https://github.com/TurboPack/Orpheus) and maintained version for recent compiler version only). `[Delphi]` Award-winning UI toolkit for Borland Delphi & C++Builder. It contains over 120 components covering everything from data entry to calendars and clocks. Other noteworthy components include an Object Inspector, LookOut bar & report views.
 // *Advanced edits, comboboxes, grids + component (de)serializers. GUI components look rather old-style, theme support might be limited. Package contains many demos but no docs seem available. Second link points to an adapted version for newest compiler versions.*
 
 * [KControls](http://www.tkweb.eu/en/delphicomp/kcontrols.html). `[Delphi]` `[FPC]` Control components. All controls have been written with the aim to become both cross-IDE compatible (Delphi/C++Builder VCL and Lazarus LCL) and cross-platform compatible in Lazarus.
 // *Most useful are TKGrid with its DB-aware heritage TKDBGrid — a very full-featured grid implementation incl. inplace editors. There's also hex editor, print preview, editors, labels, buttons etc.*
 
-* [D.P.F Delphi Android](http://sourceforge.net/projects/dpfdelphiandroid) / [D.P.F Delphi iOS](http://sourceforge.net/projects/dpfdelphiios) native components. D.P.F Delphi Native Components, 100% iOS Performance and styles. Develop iPhone & iPad & iPod Touch applications with fast native performance and native styles. Use native Android controls and services. Fast native performance. Mixed with FM VCL controls. Can be quick updated with latest Android controls & features.
+* [D.P.F Delphi Android](http://sourceforge.net/projects/dpfdelphiandroid) / [D.P.F Delphi iOS](http://sourceforge.net/projects/dpfdelphiios) native components. `[Delphi]` D.P.F Delphi Native Components, 100% iOS Performance and styles. Develop iPhone & iPad & iPod Touch applications with fast native performance and native styles. Use native Android controls and services. Fast native performance. Mixed with FM VCL controls. Can be quick updated with latest Android controls & features.
 
-* [Essentials](https://github.com/TurboPack/Essentials). Contains 13 native VCL controls for Embarcadero Delphi and C++Builder. The controls include drop-down calendars and calculators, roll-up dialogs, 3-D labels, tiled backgrounds, scrolling messages, menu buttons, and more.
+* [Essentials](https://github.com/TurboPack/Essentials). `[Delphi]` Contains 13 native VCL controls for Embarcadero Delphi and C++Builder. The controls include drop-down calendars and calculators, roll-up dialogs, 3-D labels, tiled backgrounds, scrolling messages, menu buttons, and more.
 
-* [FreeEsVCLComponents](https://github.com/errorcalc/FreeEsVCLComponents). Free library of VCL components for Delphi and C++Builder. This new controls and components to improve the appearance applications and to better user experience. Components support visual styles and has modern style. All components has best support transparency, not flicker, and has support Interesting possibility for double buffering for TGraphicControl heirs.
+* [FreeEsVCLComponents](https://github.com/errorcalc/FreeEsVCLComponents). `[Delphi]` Free library of VCL components for Delphi and C++Builder. This new controls and components to improve the appearance applications and to better user experience. Components support visual styles and has modern style. All components has best support transparency, not flicker, and has support interesting possibility for double buffering for TGraphicControl heirs.
 
-* [SpTBXLib](https://github.com/SilverpointDev/sptbxlib). Add on package for Toolbar2000 components, it adds the following features: Skins, Unicode support, Custom painting events and many more.
+* [SpTBXLib](https://github.com/SilverpointDev/sptbxlib). `[Delphi]` Add on package for Toolbar2000 components, it adds the following features: Skins, Unicode support, Custom painting events and many more.
 
 
 ## Single controls
 
-* [EasyListView](http://code.google.com/p/mustangpeakeasylistview) (seems abandoned, active fork on GH [here](https://github.com/TurboPack/MustangpeakEasyListview)). Part of VirtualShellTools for the Listview but can be used for a TListview Replacement that is faster and more customizable.
+* [EasyListView](http://code.google.com/p/mustangpeakeasylistview) (seems abandoned, active fork on GH [here](https://github.com/TurboPack/MustangpeakEasyListview)). `[Delphi]` Part of VirtualShellTools for the Listview but can be used for a TListview Replacement that is faster and more customizable.
 // *Feature-rich Listview implementing virtual (callback-based) MVC paradigm.*
 
-* [VirtualTreeView](https://github.com/Virtual-TreeView/Virtual-TreeView). Treeview control built from ground up. Many years of development made it one of the most flexible and advanced tree controls available today.
+* [VirtualTreeView](https://github.com/Virtual-TreeView/Virtual-TreeView). `[Delphi]` ([VirtualTreeView-Lazarus](https://github.com/blikblum/VirtualTreeView-Lazarus) port to FPC `[FPC]`). Treeview control built from ground up. Many years of development made it one of the most flexible and advanced tree controls available today.
 // *Extremely flexible visual component implementing virtual (callback-based) MVC paradigm. Could be also used as a listview or grid. Used in RAD Studio GUI.*
 
-* [Delphi Chromium Embedded](https://github.com/hgourvest/dcef3/commits/master). Embedding Chromium in Delphi, tested on Delphi 2010, XE, XE2, Delphi 7.
+* [Delphi Chromium Embedded](https://github.com/hgourvest/dcef3). `[Delphi]` Embedding Chromium in Delphi, tested on Delphi 2010, XE, XE2, Delphi 7.
 // *Several Chromium DLLs required*
 
-* [TChromeTabs](https://github.com/norgepaul/tchrometabs). Comprehensive implementation of Google Chrome's tabs for Delphi 6 - Delphi 10.1 Berlin
+* [TChromeTabs](https://github.com/norgepaul/tchrometabs). `[Delphi]` Comprehensive implementation of Google Chrome's tabs for Delphi 6 - Delphi 10.1 Berlin
 
-* [TFrameStand](https://github.com/andrea-magni/TFrameStand). Easily use TFrame(s) in your FireMonkey (FMX) applications to gain visual consistency though the whole user experience and easily add modern looking elements like effects and transitions.
+* [TFrameStand](https://github.com/andrea-magni/TFrameStand). `[Delphi]` Easily use TFrame(s) in your FireMonkey (FMX) applications to gain visual consistency though the whole user experience and easily add modern looking elements like effects and transitions.
 
-* [TPrintPreview](https://github.com/landrix/TPrintPreview-for-Delphi). Print Preview Component for Delphi Vcl Win32/Win64
+* [TPrintPreview](https://github.com/landrix/TPrintPreview-for-Delphi). `[Delphi]` Print Preview Component for Delphi Vcl Win32/Win64
 
-* [VolgaDB](https://sourceforge.net/projects/volgadb). Pretty customizable DBgrid for Delphi. TCustomGrid descendant. CheckBox, ComboBox column styles. Also includes TVolgaDBEdit that replaces TDBEdit, TDBComboBox, TDBLookupCombo, TDBLookupTree andTDBDatePicker in one component. TVolgaDBEdit may be DB-aware and non DB-aware.
+* [VolgaDB](https://sourceforge.net/projects/volgadb). `[Delphi]` Pretty customizable DBgrid for Delphi. TCustomGrid descendant. CheckBox, ComboBox column styles. Also includes TVolgaDBEdit that replaces TDBEdit, TDBComboBox, TDBLookupCombo, TDBLookupTree andTDBDatePicker in one component. TVolgaDBEdit may be DB-aware and non DB-aware.
 // *Seems abandoned since 2013*
 
-* [TTreeListView](http://github.com/benibela/treelistview). This component is a mix between TTreeView and TListView and can paint a tree whose nodes have additional information sorted in columns.
+* [TTreeListView](http://github.com/benibela/treelistview). `[Delphi]` `[FPC]` This component is a mix between TTreeView and TListView and can paint a tree whose nodes have additional information sorted in columns.
 
-* [neTabControl](https://github.com/jkour/neTabControl). FireMonkey control for Delphi. It builds on the native TabControl and adds a number of features.
+* [neTabControl](https://github.com/jkour/neTabControl). `[Delphi]` FireMonkey control for Delphi. It builds on the native TabControl and adds a number of features.
 
 * [ATTabs](https://github.com/Alexey-T/ATTabs). `[Delphi]` `[FPC]` Delphi/Lazarus component for lite tabs. OS independent, fully custom drawn.
 
 
 ## Editors
 
-* [SynEdit](https://sourceforge.net/projects/synedit) ([mirror at GitHub](https://github.com/TurboPack/SynEdit)). Syntax highlighting edit control, not based on the Windows common controls. SynEdit is compatible with both Delphi and Kylix
+* [SynEdit](https://sourceforge.net/projects/synedit) ([mirror at GitHub](https://github.com/TurboPack/SynEdit)). `[Delphi]` Syntax highlighting edit control, not based on the Windows common controls. SynEdit is compatible with both Delphi and Kylix
 
-* [BCEditor](https://github.com/bonecode/BCEditor). Syntax highlighting edit control with code folding, minimap, external JSON highlighter and color scheme files, etc.
-// *Very powerful and feature-rich component. Supports Delphi XE4..XE8, C++ Builder XE7, backport to XE available*
+* [BCEditor](https://github.com/bonecode/BCEditor). `[Delphi]` Syntax highlighting edit control with code folding, minimap, external JSON highlighter and color scheme files, etc.
+// *Seems abandoned. Developer recommends using SynEdit instead*
+
+* [LazEdit](https://svn.code.sf.net/p/lazarus-ccr/svn/applications/lazedit). `[FPC]` General text editor with syntax highlighting and tools to help edit HTML.
 
 
 ## Viewers
 
-* [ATViewer](https://sourceforge.net/projects/atviewer) ([mirror at GitHub](https://github.com/Alexey-T/ATViewer)). Delphi components to view various file types: text, binary, images, multimedia, webpages, etc.
+* [ATViewer](https://sourceforge.net/projects/atviewer) ([mirror at GitHub](https://github.com/Alexey-T/ATViewer)). `[Delphi]` Delphi components to view various file types: text, binary, images, multimedia, webpages, etc.
 // *Used in Universal Viewer software. Could be used to display hex dumps, features fast display of unlimited size files/streams. Supports Total Commander Lister plugins.*
 
-* [ATImageMap](https://sourceforge.net/projects/atviewer/files/ATImageMap) ([mirror at GitHub](https://github.com/Alexey-T/ATViewer)). Component designed to show many images (parts of the whole image) as a single map. For example, you may have array of images, 200 by X, and 100 by Y and control will show them as a single map. Component also allows to draw paths: each path consists of many lines, points, and icons.
+* [ATImageMap](https://sourceforge.net/projects/atviewer/files/ATImageMap) ([mirror at GitHub](https://github.com/Alexey-T/ATViewer)). `[Delphi]` Component designed to show many images (parts of the whole image) as a single map. For example, you may have array of images, 200 by X, and 100 by Y and control will show them as a single map. Component also allows to draw paths: each path consists of many lines, points, and icons.
 
 * [HtmlViewer](https://github.com/BerndGabriel/HtmlViewer). `[Delphi]` `[FPC]` Delphi/Lazarus HtmlViewer/FrameViewer.
 // *Html visualiser supporting majority of tags, inline styles and CSS.*
 
-* [SciDe](https://github.com/da-baranov/SciDe). [Sciter](https://sciter.com) (Embeddable HTML/CSS/script engine) wrapper for Delphi.
+* [SciDe](https://github.com/da-baranov/SciDe). `[Delphi]` `[FPC]` [Sciter](https://sciter.com) (Embeddable HTML/CSS/script engine) wrapper for Delphi.
 
 * [ATBinHex for Delphi](https://github.com/Alexey-T/ATViewer/blob/master/Source/ATBinHex.pas) `[Delphi]`, [ATBinHex for Laz](https://github.com/Alexey-T/ATBinHex-Lazarus). `[FPC]` Viewer for files of unlimited size like in Total Commander.
 
@@ -561,6 +567,12 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [XSuperObject](https://github.com/onryldz/x-superobject). Delphi Cross Platform Rapid JSON
 
+* [Internet Tools](https://github.com/benibela/internettools). `[Delphi]` `[FPC]` Package provides standard conformant XPath 2.0, XQuery 1.0 and XPath/XQuery 3.0 interpreters with extensions for - among others - JSONiq, pattern matching, CSS and HTML; as well as functions to perform HTTP/S requests on Windows/Linux/MacOSX/Android, an XSLT-inspired webscraping language, and an auto update class.
+
+* [Delphi-JsonToDelphiClass](https://github.com/PKGeorgiev/Delphi-JsonToDelphiClass). `[Delphi]` Generates Delphi Classes based on JSON string (Json To Delphi Class Generator / JSON Data Binding Tool). Also includes unit for interaction with GitHub.
+
+* [XML Parser](http://www.destructor.de/xmlparser). `[Delphi]` `[FPC]` Lightweight ObjectPascal XML parser for Delphi and FreePascal. By leaving out syntax checking, well-formedness checks and/or validation, and by choosing a progressive scanning technique, this parser is very fast.
+
 ## Language
 *Tools for Pascal and other languages*
 
@@ -733,6 +745,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [madShell](http://help.madshi.net/madShell.htm). The package implements often needed shell functionality, beginning with Special Folders like the "Windows" folder or the "Program Files" folder, continuing with Shell ID Lists, Shell Objects and Shell Events. Then you'll find functionality around ShortCuts/ShellLinks and finally everything about Display Modes.
 // *Free with source for non-commercial usage (only) with some [conditions](http://help.madshi.net/License.htm). Available to download as part of `madCollection` installer. Pretty well documented. Requires `madBasic` package.*
 
+* [WindowsAutorun](https://github.com/ms301/WindowsAutorun). `[Delphi]`  Helps you manage autoload in Windows OS.
 
 ## Report generating ##
 
@@ -832,6 +845,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [Delphi Library Helper](https://github.com/littleearth/delphi-library-helper) Tool to assist Delphi developers configuring library folders.
 
 * [Mobile Image Creator](https://github.com/littleearth/mobile-image-creator) Creating Icons and Launcher Images for Delphi Mobile Applications (Firemonkey). This is a fork of Mobile Gfx created by [Thomas Grubb of RiverSoftAVG](http://riversoftavg.com/blogs/index.php/2014/02/03/creating-icons-and-launchers-for-delphi-mobile-applications/).
+
+* [Delphi-Adb-WiFi](https://github.com/ms301/Delphi-Adb-WiFi). `[Delphi]`  Plugin for RAD Studio, which allows launching and debugging on an Android device without connecting to a computer via USB. Works over WiFi.
 
 
 ## Documentation ##
