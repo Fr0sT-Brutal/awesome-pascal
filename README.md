@@ -272,6 +272,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [Internet Tools](#xmljsonyaml). XPath/XQuery/JSONiq/CSS/HTML; functions to perform HTTP/S requests on Windows/Linux/MacOSX/Android, an XSLT-inspired webscraping language, and an auto update class.
 
+* [Delphi Cross Socket](https://github.com/winddriver/Delphi-Cross-Socket/). `[Delphi]` Delphi cross platform socket library (Chinese). Uses different IO models for different platforms: IOCP (Windows), KQUEUE (FreeBSD(MacOSX, iOS...)), EPOLL (Linux(Linux, Android...)).
+
 
 ## Serial port
 
@@ -848,6 +850,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [Delphi-Adb-WiFi](https://github.com/ms301/Delphi-Adb-WiFi). `[Delphi]`  Plugin for RAD Studio, which allows launching and debugging on an Android device without connecting to a computer via USB. Works over WiFi.
 
+* [RADSplit](https://github.com/LaKraven/RADSplit). `[Delphi]` Dockable Split-Screen Editors for RAD Studio (Delphi and C++ Builder)
 
 ## Documentation ##
 
@@ -874,6 +877,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [delphiunitsizes](https://github.com/VilleKrumlinde/delphiunitsizes). `[Delphi]` Tool to display the sizes of each unit in a Delphi executable. Shows the size of each unit that is included in a Delphi exe-file. It also shows an approximate size of each symbol (classes, methods, procedures etc) in a unit.
 
 * [MapFileStats](https://www.delphitools.info/other-tools/mapfilestats). `[Delphi]` Tool that provides simple binary size statistics from .MAP files (any Delphi version up to at least Delphi XE5).
+
+* [Spider](https://github.com/yavfast/dbg-spider). `[Delphi]` Real time profiler for Delphi applications
 
 
 ## Setup ##
