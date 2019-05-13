@@ -722,6 +722,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [Marvin.IA](https://github.com/marvinbraga/Marvin.IA). Machine learning collection of object-oriented Pascal primitives (only interfaces and classes).
 
+* [FuzzyWuzzy.pas](https://github.com/DavidMoraisFerreira/FuzzyWuzzy.pas). `[FPC]` Port of the well-known Python fuzzy string matching package that uses the Levenshtein distance to compute differences between string sequences.
 
 ## OS ##
 *Tools that help dealing with OS-specific internals*
