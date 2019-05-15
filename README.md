@@ -45,7 +45,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 	- [Unit Testing](#unit-testing)
 	- [Debugging / error handling](#debugging--error-handling)
 	- [Utilities](#utilities)
-		- [IDE plugins/wizards](#ide-pluginswizards)
+		- [RAD Studio IDE plugins/wizards](#rad-studio-ide-pluginswizards)
+		- [Plugins for other IDE's](#plugins-for-other-ides)
 		- [Documentation](#documentation)
 		- [Code check/review, debug](#code-checkreview-debug)
 		- [Setup](#setup)
@@ -139,15 +140,13 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [Synopse PDF](https://github.com/synopse/SynPDF). `[Delphi]` `[FPC]` Fully featured Open Source PDF document creation library for Delphi, embedded in one unit. Pure Delphi code, Delphi 5 up to Delphi 10.3 Rio (and latest version of FPC), for Win32 and Win64 platforms.
 
-* [PowerPDF](https://github.com/TurboPack/PowerPDF). `[Delphi]` VCL component to create PDF docment visually. Like Forms, you can design PDF document easily on Delphi or C++Builder IDE.
+* [PowerPDF](https://github.com/TurboPack/PowerPDF). `[Delphi]` VCL component to create PDF document visually. Like Forms, you can design PDF document easily on Delphi or C++Builder IDE.
 
 * [IGDI+](https://sourceforge.net/projects/igdiplus). `[Delphi]` The free open source library allows quick and easy implementations of complex GDI+ applications, in a natural Delphi-friendly code.
 
 * [GLScene](https://sourceforge.net/projects/glscene). `[Delphi]` `[FPC]` OpenGL based 3D library for Delphi, C++Builder and Lazarus. It provides visual components and objects allowing description and rendering of 3D scenes in an easy, no-hassle, yet powerful manner. GLScene is not just an OpenGL wrapper or utility library, it has grown to become a set of founding classes for a generic 3D engine with Rapid Application Development in mind. GLScene allows you to quickly design and render 3D scenes without having to learn the intricacies of OpenGL, if you know how to design a TForm, you'll easily master the basic operations of GLScene. The library comes with a large collections of demos showcasing the ease of use, and demonstrating RAD wasn't done at the expense of CPU/GPU horsepower.
 
 * [SynGdiPlus](https://github.com/synopse/mORMot/blob/master/SynGdiPlus.pas). `[Delphi]` `[FPC]` Enables an application to load and save GIF, TIF, PNG and JPG pictures. It also allows anti-aliased drawing from any TMetaFile. That is, you can play a .emf content using GDI+ instead of GDI, for much better rendering result.
-
-* [mORMotReport](https://github.com/synopse/mORMot/blob/master/SQLite3/mORMotReport.pas) ([docs](http://synopse.info/files/html/api-1.18/mORMotReport.html)). `[Delphi]` Fast and efficient code-based reporting component, with preview form and PDF export.
 
 * [Andorra 2D](http://sourceforge.net/projects/andorra). `[Delphi]` `[FPC]` New generation 2D Engine for Delphi and Lazarus. Andorra 2D is capable to use DirectX or OpenGL through graphic plugins. Andorra 2D is built in a very modular way and is yet easy to use.
 
@@ -288,6 +287,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 ## GUI ##
 *Visual components*
+
 
 ## Control packs
 *Large sets of GUI controls*
@@ -575,6 +575,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [XML Parser](http://www.destructor.de/xmlparser). `[Delphi]` `[FPC]` Lightweight ObjectPascal XML parser for Delphi and FreePascal. By leaving out syntax checking, well-formedness checks and/or validation, and by choosing a progressive scanning technique, this parser is very fast.
 
+
 ## Language
 *Tools for Pascal and other languages*
 
@@ -732,78 +733,84 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [FuzzyWuzzy.pas](https://github.com/DavidMoraisFerreira/FuzzyWuzzy.pas). `[FPC]` Port of the well-known Python fuzzy string matching package that uses the Levenshtein distance to compute differences between string sequences.
 
+
 ## OS ##
 *Tools that help dealing with OS-specific internals*
 
-* [GLibWMI](http://sourceforge.net/projects/glibwmi). Component Library for Delphi that encapsulate the classes for access to WMI of Windows in a set of VCL. BiosInfo, PrinterInfo, DiskInfo,... Allow access WMI Classes: WIN32_Bios, WIN32_Printers, WIN32_DiskDrive.
+* [GLibWMI](http://sourceforge.net/projects/glibwmi). `[Delphi]` Component Library for Delphi that encapsulate the classes for access to WMI of Windows in a set of VCL. BiosInfo, PrinterInfo, DiskInfo,... Allow access WMI Classes: WIN32_Bios, WIN32_Printers, WIN32_DiskDrive.
 
-* [MemoryMap](https://github.com/AlexanderBagel/ProcessMemoryMap/tree/master/MemoryMap). Set of classes to get all the info about a memory of a running process.
+* [MemoryMap](https://github.com/AlexanderBagel/ProcessMemoryMap/tree/master/MemoryMap). `[Delphi]` Set of classes to get all the info about a memory of a running process.
 
-* [The new Drag and Drop Component Suite](https://github.com/DelphiPraxis/The-Drag-and-Drop-Component-Suite-for-Delphi). VCL component library that enables your Delphi and C++Builder applications to support COM based drag and drop and integrate with the Windows clipboard.
+* [The new Drag and Drop Component Suite](https://github.com/DelphiPraxis/The-Drag-and-Drop-Component-Suite-for-Delphi). `[Delphi]` VCL component library that enables your Delphi and C++Builder applications to support COM based drag and drop and integrate with the Windows clipboard.
 
 * [TSMBIOS](https://github.com/RRUZ/tsmbios). `[Delphi]` `[FPC]` Allows access the System Management BIOS (SMBIOS) using the Object Pascal language (Delphi or Free Pascal). The SMBIOS (System Management BIOS) is a standard developed by the DMTF. The information stored in the SMBIOS includes devices manufacturer, model name, serial number, BIOS version, asset tag, processors, ports and device memory installed.
 
-* [VersionInfo for Delphi](http://melander.dk/articles/versioninfo). The library makes it very easy to read values from the Version Info resource of Windows executables and DLLs. Optionally extends the TApplication class with a version info property via class helper.
+* [VersionInfo for Delphi](http://melander.dk/articles/versioninfo). `[Delphi]` The library makes it very easy to read values from the Version Info resource of Windows executables and DLLs. Optionally extends the TApplication class with a version info property via class helper.
 
-* [Magenta Systems WMI and SMART Component](http://www.magsys.co.uk/delphi/magwmi.asp). Contains WMI, SMART and SCSI PassThrough functions, of particular use for getting hard disk information and configuring network adaptors, but also for many other general uses. MagWMI provides general view access to any WMI information using SQL like commands, and also a number of dedicated function relating to TCP/IP configuration, such as setting the adaptor IP addresses, the computer name, domain/workgroup, BIOS and disk drive information.
+* [Magenta Systems WMI and SMART Component](http://www.magsys.co.uk/delphi/magwmi.asp). `[Delphi]` Contains WMI, SMART and SCSI PassThrough functions, of particular use for getting hard disk information and configuring network adaptors, but also for many other general uses. MagWMI provides general view access to any WMI information using SQL like commands, and also a number of dedicated function relating to TCP/IP configuration, such as setting the adaptor IP addresses, the computer name, domain/workgroup, BIOS and disk drive information.
 
-* [madKernel](http://help.madshi.net/madKernel.htm). The package is about Kernel Objects for the biggest part. The most important object types are wrapped up in  interfaces, utilizing all the specific kernel32 APIs. Has interface wrappers for: Events, Mutexes, Threads, Processes, Windows, Modules, Tray Icons, shared memory buffers.
+* [madKernel](http://help.madshi.net/madKernel.htm). `[Delphi]` The package is about Kernel Objects for the biggest part. The most important object types are wrapped up in  interfaces, utilizing all the specific kernel32 APIs. Has interface wrappers for: Events, Mutexes, Threads, Processes, Windows, Modules, Tray Icons, shared memory buffers.
 // *Free with source for non-commercial usage (only) with some [conditions](http://help.madshi.net/License.htm). Available to download as part of `madCollection` installer. Pretty well documented. Requires `madBasic` package.*
 
-* [madSecurity](http://help.madshi.net/madSecurity.htm). The package makes it easily possible to handle Shares and other Security Objects like file security or registry security. To be able to do so, this package also features functionality around Accounts and ACEs and ACLs.
+* [madSecurity](http://help.madshi.net/madSecurity.htm). `[Delphi]` The package makes it easily possible to handle Shares and other Security Objects like file security or registry security. To be able to do so, this package also features functionality around Accounts and ACEs and ACLs.
 // *Free with source for non-commercial usage (only) with some [conditions](http://help.madshi.net/License.htm). Available to download as part of `madCollection` installer. Pretty well documented. Requires `madBasic` package.*
 
-* [madShell](http://help.madshi.net/madShell.htm). The package implements often needed shell functionality, beginning with Special Folders like the "Windows" folder or the "Program Files" folder, continuing with Shell ID Lists, Shell Objects and Shell Events. Then you'll find functionality around ShortCuts/ShellLinks and finally everything about Display Modes.
+* [madShell](http://help.madshi.net/madShell.htm). `[Delphi]` The package implements often needed shell functionality, beginning with Special Folders like the "Windows" folder or the "Program Files" folder, continuing with Shell ID Lists, Shell Objects and Shell Events. Then you'll find functionality around ShortCuts/ShellLinks and finally everything about Display Modes.
 // *Free with source for non-commercial usage (only) with some [conditions](http://help.madshi.net/License.htm). Available to download as part of `madCollection` installer. Pretty well documented. Requires `madBasic` package.*
 
-* [WindowsAutorun](https://github.com/ms301/WindowsAutorun). `[Delphi]`  Helps you manage autoload in Windows OS.
+* [WindowsAutorun](https://github.com/ms301/WindowsAutorun). `[Delphi]` Helps you manage autoload in Windows OS.
+
 
 ## Report generating ##
 
-* [Report Manager](http://reportman.sourceforge.net/). Report manager is a reporting application (Report Manager Designer) and a set of libraries and utilities to preview, export or print reports. Include native .Net and Delphi/C++Builder libraries, ActiveX component and also standard dynamic link library for use in any language like GNU C.
+* [Report Manager](http://reportman.sourceforge.net). `[Delphi]` Report manager is a reporting application (Report Manager Designer) and a set of libraries and utilities to preview, export or print reports. Include native .Net and Delphi/C++Builder libraries, ActiveX component and also standard dynamic link library for use in any language like GNU C.
 
-* [FortesReport](https://github.com/fortesinformatica/fortesreport-ce). The FortesReport is a powerful report generator available as a package of components for Delphi.
+* [FortesReport](https://github.com/fortesinformatica/fortesreport-ce). `[Delphi]` The FortesReport is a powerful report generator available as a package of components for Delphi.
+
+* [mORMotReport](https://github.com/synopse/mORMot/blob/master/SQLite3/mORMotReport.pas) ([docs](http://synopse.info/files/html/api-1.18/mORMotReport.html)). `[Delphi]` Fast and efficient code-based reporting component, with preview form and PDF export.
 
 
 ## Unit Testing ##
 
-* [DUnitX](https://github.com/VSoftTechnologies/DUnitX). New test framework, taking ideas from DUnit, NUnit and other test frameworks. It is designed to work with Delphi 2010 or later, it makes use of language/RTL features that are not available in older versions of Delphi.
+* [DUnitX](https://github.com/VSoftTechnologies/DUnitX). `[Delphi]` New test framework, taking ideas from DUnit, NUnit and other test frameworks. It is designed to work with Delphi 2010 or later, it makes use of language/RTL features that are not available in older versions of Delphi.
 
 * [DUnit](http://dunit.sourceforge.net). Unit Testing Framework, that has been the standard testing framework for years, the Delphi IDE now ships with this library.
 // *Included since XE, deprecated since XE8 in favor of DUnitX; seems abandoned.*
 
-* [DUnit2](http://dunit2.sourceforge.net). Fork of the DUnit Project that adds several new features.
+* [DUnit2](http://dunit2.sourceforge.net). `[Delphi]` Fork of the DUnit Project that adds several new features.
 // *Seems abandoned, lacks some features from last DUnit version.*
 
-* [DelphiSpec](https://github.com/RomanYankovsky/DelphiSpec). Library for running automated tests written in plain language. Because they're written in plain language, they can be read by anyone on your team. Because they can be read by anyone, you can use them to help improve communication, collaboration and trust on your team.
+* [DelphiSpec](https://github.com/RomanYankovsky/DelphiSpec). `[Delphi]` Library for running automated tests written in plain language. Because they're written in plain language, they can be read by anyone on your team. Because they can be read by anyone, you can use them to help improve communication, collaboration and trust on your team.
 
-* [Delphi-Mocks](https://github.com/VSoftTechnologies/Delphi-Mocks). Simple mocking framework for Delphi XE2 or later. Allow you to mock both classes and interfaces for testing.
+* [Delphi-Mocks](https://github.com/VSoftTechnologies/Delphi-Mocks). `[Delphi]` Simple mocking framework for Delphi XE2 or later. Allow you to mock both classes and interfaces for testing.
 
-* [DUnit-XML](https://github.com/VSoftTechnologies/DUnit-XML). Test runner that allows DUnit Tests to output NUnit compatible XML.
+* [DUnit-XML](https://github.com/VSoftTechnologies/DUnit-XML). `[Delphi]` Test runner that allows DUnit Tests to output NUnit compatible XML.
 
-* [Smoketest](https://github.com/deltics/delphi.libs/tree/master/smoketest). Framework for writing tests and performance benchmarks using the Delphi language for Microsoft Windows. It has been tested on all versions of Delphi from 7 thru to 2010.
+* [Smoketest](https://github.com/deltics/delphi.libs/tree/master/smoketest). `[Delphi]` Framework for writing tests and performance benchmarks using the Delphi language for Microsoft Windows. It has been tested on all versions of Delphi from 7 thru to 2010.
 
-* [SynTests](https://github.com/synopse/mORMot/blob/master/SynTests.pas). Unit test functions including mocks and stubs.
+* [SynTests](https://github.com/synopse/mORMot/blob/master/SynTests.pas). `[Delphi]` `[FPC]` Unit test functions including mocks and stubs.
 
 * [OpenCTF](http://openctf.sourceforge.net). Test framework add-on for Embarcadero Delphi which performs automatic checks of all components in Forms (or DataModules). It provides an easy way to build automatic quality checks for large projects where many components have to pass repeated tests. OpenCTF is based on the DUnit open source test framework and extends it by specialized test classes and helper functions.
 
-* [DelphiUIAutomation](https://github.com/jhc-systems/DelphiUIAutomation). Delphi classes that wrap the MS UIAutomation library. DelphiUIAutomation is a framework for automating rich client applications based on Win32 (and specifically tested with Delphi XE5). It is written in Delphi XE5 and it requires no use of scripting languages. It provides a consistent object-oriented API, hiding the complexity of Microsoft's UIAutomation library and windows messages.
+* [DelphiUIAutomation](https://github.com/jhc-systems/DelphiUIAutomation). `[Delphi]` Delphi classes that wrap the MS UIAutomation library. DelphiUIAutomation is a framework for automating rich client applications based on Win32 (and specifically tested with Delphi XE5). It is written in Delphi XE5 and it requires no use of scripting languages. It provides a consistent object-oriented API, hiding the complexity of Microsoft's UIAutomation library and windows messages.
+
 
 ## Debugging / error handling ##
 
-* [Delphi LeakCheck](https://bitbucket.org/shadow_cs/delphi-leakcheck/) is a free code library to check the memory leaks in the DUnit and DUnit2 tests. Supports Delphi XE-XE7.
+* [Delphi LeakCheck](https://bitbucket.org/shadow_cs/delphi-leakcheck). `[Delphi]` Free code library to check the memory leaks in the DUnit and DUnit2 tests. Supports Delphi XE-XE7.
 
 * [FastMM](#memory-managers). Provides powerful memory leak/corruption detection instruments.
 
-* [JclDebug (part of Project JEDI)](https://github.com/project-jedi/jcl/blob/master/jcl/source/windows/JclDebug.pas). Tracing, MAP file parser, exception report generation, exception stack traces.
+* [JclDebug (part of Project JEDI)](https://github.com/project-jedi/jcl/blob/master/jcl/source/windows/JclDebug.pas). `[Delphi]` `[FPC]` Tracing, MAP file parser, exception report generation, exception stack traces.
 
 
 ## Utilities ##
 *Free non-opensource products allowed here.*
 
-## IDE plugins/wizards ##
 
-* [Delphi IDE theme editor / Delphi IDE Colorizer](https://github.com/rruz/delphi-ide-theme-editor). `[Delphi]` `[FPC]` Tool to change the IDE color highlighting of several Object Pascal IDE's like Delphi (RAD Studio), Appmethod, Lazarus  and Smart Mobile Studio. DITE supports Delphi 5-7, 2005-2010, XE-XE8, Appmethod 1.13-1.14, Lazarus v1.0.1.3 and Smart Mobile Studio IDE v1.1.2.17. The Delphi IDE Colorizer (DIC) is a plugin which allows to customize the look and feel of the workspace of the RAD Studio IDE and Appmethod.
+## RAD Studio IDE plugins/wizards
+
+* [Delphi IDE theme editor / Delphi IDE Colorizer](https://github.com/rruz/delphi-ide-theme-editor). Tool to change the IDE color highlighting of several Object Pascal IDE's like Delphi (RAD Studio), Appmethod, Lazarus  and Smart Mobile Studio. DITE supports Delphi 5-7, 2005-2010, XE-XE8, Appmethod 1.13-1.14, Lazarus v1.0.1.3 and Smart Mobile Studio IDE v1.1.2.17. The Delphi IDE Colorizer (DIC) is a plugin which allows to customize the look and feel of the workspace of the RAD Studio IDE and Appmethod.
 
 * [DDevExtensions](http://andy.jgknet.de/blog/ide-tools/ddevextensions). Extends the Delphi/C++Builder IDE by adding some new productivity features
 // *Many useful IDE tweaks, must have.*
@@ -857,20 +864,26 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [Mobile Image Creator](https://github.com/littleearth/mobile-image-creator) Creating Icons and Launcher Images for Delphi Mobile Applications (Firemonkey). This is a fork of Mobile Gfx created by [Thomas Grubb of RiverSoftAVG](http://riversoftavg.com/blogs/index.php/2014/02/03/creating-icons-and-launchers-for-delphi-mobile-applications/).
 
-* [Delphi-Adb-WiFi](https://github.com/ms301/Delphi-Adb-WiFi). `[Delphi]`  Plugin for RAD Studio, which allows launching and debugging on an Android device without connecting to a computer via USB. Works over WiFi.
+* [Delphi-Adb-WiFi](https://github.com/ms301/Delphi-Adb-WiFi). Plugin for RAD Studio, which allows launching and debugging on an Android device without connecting to a computer via USB. Works over WiFi.
 
-* [RADSplit](https://github.com/LaKraven/RADSplit). `[Delphi]` Dockable Split-Screen Editors for RAD Studio (Delphi and C++ Builder)
+* [RADSplit](https://github.com/LaKraven/RADSplit). Dockable Split-Screen Editors for RAD Studio (Delphi and C++ Builder)
 
-## Documentation ##
+
+## Plugins for other IDE's
+
+* [Delphi IDE theme editor / Delphi IDE Colorizer](#rad-studio-ide-pluginswizards). Supports Appmethod, Lazarus and Smart Mobile Studio.
+
+
+## Documentation
 
 * [SynProject](https://github.com/synopse/SynProject) ([docs](http://synopse.info/fossil/wiki?name=SynProject)). Tool for code source versioning and automated documentation of Delphi projects.
 
-* [PasDoc](https://sourceforge.net/projects/pasdoc). Documentation tool for ObjectPascal (FreePascal and Delphi) source code. Documentation is generated from comments found in source code. Available output formats are HTML, HtmlHelp, LaTeX, latex2rtf, simplexml. More output formats may be added in the future.
+* [PasDoc](https://sourceforge.net/projects/pasdoc). `[Delphi]` `[FPC]` Documentation tool for ObjectPascal (FreePascal and Delphi) source code. Documentation is generated from comments found in source code. Available output formats are HTML, HtmlHelp, LaTeX, latex2rtf, simplexml. More output formats may be added in the future.
 
-* [DIPasDoc](http://www.yunqa.de/delphi/products/pasdoc/index). Generates HTML documentation from comments in Pascal source code files. It outputs browsable help as standard HTML files or customizable MS HTML Help projects.
+* [DIPasDoc](http://www.yunqa.de/delphi/products/pasdoc/index). `[Delphi]` `[FPC]` Generates HTML documentation from comments in Pascal source code files. It outputs browsable help as standard HTML files or customizable MS HTML Help projects.
 
 
-## Code check/review, debug ##
+## Code check/review, debug
 
 * [GpProfiler2017](https://github.com/ase379/gpprofile2017). `[Delphi]` Source code instrumenting profiler for Delphi XE and higher. Other forks support older versions.
 
@@ -890,7 +903,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [Spider](https://github.com/yavfast/dbg-spider). `[Delphi]` Real time profiler for Delphi applications
 
 
-## Setup ##
+## Setup
 
 * [Lazy Delphi Builder](https://bitbucket.org/tdelphi/lazy-delphi-builder-downloads). Build tool for Delphi. Recompile projects/packages from sources with all dependencies, without need to mess around with configs. Quickly (re-)install components from sources into IDE, with no need to change your Library Path.
 // *Powerful automating tool. Freeware but not open source*
@@ -902,7 +915,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [Silverpoint MultiInstaller](http://www.silverpointdevelopment.com/multiinstaller/index.htm). Multi component package installer for Embarcadero Delphi and C++Builder, it was created to ease the components installation on the IDE.
 
 
-## Other ##
+## Other
 
 * [WMI Delphi Code Creator](https://github.com/RRUZ/wmi-delphi-code-creator). Allows you to generate Object Pascal, Oxygene, C++ and C# code to access the WMI (Windows Management Instrumentation) classes, events and methods. Also includes a set of tools to explorer and Query the content of the WMI.
 
@@ -921,6 +934,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [Chet - C Header Translator for Delphi](https://github.com/neslib/Chet). Chet is a .h-to-.pas translator powered by libclang for Delphi. Uses the Clang compiler to parse header files, resulting in more accurate translations that require fewer manual adjustments.
 
-## License
+
+## License ##
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0)
