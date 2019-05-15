@@ -587,6 +587,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [CrossPascal](https://github.com/BeRo1985/crosspascal). `[Delphi]` Aims to be a Delphi 7 compatible cross-platform source-to-source compiler (together with the new unicode string types from XE3 but where ansistring is still the default string type for to be still Delphi 7 compatible) which generates intermediate C code.
 // *Quite interesting project though seems abandoned*
 
+* [pas2js](https://svn.freepascal.org/svn/projects/pas2js/trunk), [docs](http://wiki.freepascal.org/pas2js). `[Delphi]` `[FPC]` An open source Pascal to JavaScript transpiler. It parses Object Pascal and emits JavaScript. The JavaScript is currently of level ECMAScript 5 and should run in any browser or in Node.js (target "nodejs"). Basically, Delphi 7 syntax is supported. Used in tools like TMS WebCore and Elevate Web Builder.
+
 
 ## Memory managers
 *Libraries that implement dynamic memory allocation*
