@@ -728,6 +728,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [FreePascal Generics.Collections](https://github.com/maciej-izak/generics.collections). `[FPC]` FreePascal Generics.Collections library (TList, TDictionary, THashMap and more...)
 
+* [FuzzyWuzzy.pas](https://github.com/DavidMoraisFerreira/FuzzyWuzzy.pas). `[FPC]` Port of the well-known Python fuzzy string matching package that uses the Levenshtein distance to compute differences between string sequences.
 
 ## OS ##
 *Tools that help dealing with OS-specific internals*
