@@ -104,7 +104,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [Delphi ASIO & VST Project](http://sourceforge.net/projects/delphiasiovst). `[Delphi]` Framework for writing applications using the ASIO interface and VST plugins. It comes with countless DSP algorithms all demonstrated in dozens of examples.
 //*Not very active lately, but the trunk is in a usable state*
 
-* [NewAC - New Audio Components](http://code.google.com/p/newac) (abandoned, list of forks on GH [here](https://github.com/search?l=Pascal&o=desc&q=newac&s=updated&type=Repositories)). `[Delphi]` Designed to help your Delphi programs perform different sound processing tasks. With NewAC you can play audio stored in many formats (wav, Ogg Vorbis, FLAC, Monkey Audio, WavPack, MP3, Windows WMA, DTS, AC-3 (Dobly Surround), VOB (DVD files)).
+* [NewAC - New Audio Components](http://code.google.com/p/newac) (abandoned, list of forks on GH [here](https://github.com/search?l=Pascal&o=desc&q=newac&s=updated&type=Repositories)). `[Delphi]` Designed to help your Delphi programs perform different sound processing tasks. With NewAC you can play audio stored in many formats (wav, Ogg Vorbis, FLAC, Monkey Audio, WavPack, MP3, Windows WMA, DTS, AC-3 (Dolby Surround), VOB (DVD files)).
 // *Playback, recording, tag read/write, some audio editing tasks and conversions*
 
 * [Audorra](https://sourceforge.net/projects/audorra). `[Delphi]` `[FPC]` Digital audio library for Delphi and Freepascal. Using a flexible plugin architecture, it allows you to exchange the audio backend (e.g. WaveOut, OpenAL), add protocol classes (e.g. file, http) and decoders.
@@ -162,7 +162,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [AggPasMod](https://github.com/CWBudde/AggPasMod). `[Delphi]` Modernized Pascal Anti-Grain Geometry. Based on AggPas, which is itself based on the Anti-Grain Geometry, this project offers support for the latest Delphi Versions (XE and above) and contains some helper classes (VCL components and FireMonkey interface). 2D vector graphics library. Basically, you can think of AggPas as of a rendering engine that produces pixel images in memory from some vectorial data. But of course, AGG can do much more than that.
 // *Vector graphic library, renders SVG and much more*
 
-* [delphi-shader](https://github.com/WouterVanNifterick/delphi-shader). `[Delphi]` Hundreds of graphical effects, and a library that provides GLSL functionality in pure Delphi code. This project produces an executable with more than a hundred real-time graphical effects. All that is a 100% pascal implementation, without the use of exernal libraries or hardware acceleration.
+* [delphi-shader](https://github.com/WouterVanNifterick/delphi-shader). `[Delphi]` Hundreds of graphical effects, and a library that provides GLSL functionality in pure Delphi code. This project produces an executable with more than a hundred real-time graphical effects. All that is a 100% pascal implementation, without the use of external libraries or hardware acceleration.
 
 * [dglOpenGL](https://github.com/SaschaWillems/dglOpenGL). `[Delphi]` `[FPC]` Delphi / Pascal OpenGL header translation.
 
@@ -216,7 +216,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [Indy](https://github.com/IndySockets/Indy). `[Delphi]` `[FPC]` Network components for Delphi, C++Builder, Delphi.NET, and FreePascal
 // *All-in-one network library based on blocking sockets and threads. Included in default RAD studio installation since 2006.*
 
-* [Ararat Synapse](https://sourceforge.net/p/synalist). `[Delphi]` `[FPC]` Pascal TCP/IP Library for Dephi, C++Builder, Kylix and FreePascal. Deals with network communication by means of blocking (synchronous) sockets or with limited non-blocking mode. This project not using asynchronous sockets! The Project contains simple low level non-visual objects for easiest programming without problems (no required multithread synchronisation, no need for windows message processing,...) Great for command line utilities, visual projects, NT services,...
+* [Ararat Synapse](https://sourceforge.net/p/synalist). `[Delphi]` `[FPC]` Pascal TCP/IP Library for Delphi, C++Builder, Kylix and FreePascal. Deals with network communication by means of blocking (synchronous) sockets or with limited non-blocking mode. This project not using asynchronous sockets! The Project contains simple low level non-visual objects for easiest programming without problems (no required multithread synchronisation, no need for windows message processing,...) Great for command line utilities, visual projects, NT services,...
 // *TCP, UDP, ICMP, RAW; ICMP, DNS, SMTP, HTTP, SNMP, NTP, FTP, LDAP, NNTP, Telnet;  IPv6; SOCKS proxy; SSL/TLS (via OpenSSL or Windows CryptoApi); PING; character code transcoding; MIME coding and decoding; CRC16, CRC32, MD5 and HMAC-MD5.*
 
 * [Internet Professional](http://sourceforge.net/projects/tpipro2010). `[Delphi]` Set of VCL components providing Internet connectivity for Borland Delphi & C++Builder. iPRO includes POP3, SMTP, NNTP, FTP, HTTP, Instant Messaging, & HTML viewer components, as well as components for low-level socket access.
@@ -368,7 +368,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [GMLib](https://code.google.com/p/gmlibrary) (Google Maps Library) (seems abandoned, active fork on GH [here](https://github.com/bero/GMLibrary) and [here](https://github.com/cadetill/gmlib_v1)). `[Delphi]` Components for Delphi/C++ Builder that encapsulate the GoogleMaps API to administrate a map, markers, polygons, rectangles, polylines,... All objects that you can put into a map.
 
 * [VCL Styles Utils](https://github.com/rruz/vcl-styles-utils). `[Delphi]` Collection of classes and style hooks, which extend, fix QC reports and add new features to the VCL Styles.
-// *Collection of patches/enhancements that promote stock VCL style engine to a new level. Styling for Inno setup and NSIS also available.*
+// *Collection of patches/enhancements that promote stock VCL style engine to a new level. Styling for Inno Setup and NSIS also available.*
 
 * [TaskbarListComponents](https://github.com/chaosben/theunknownones/tree/master/Components/TaskBarList). `[Delphi]` Set of components designed as Delphi wrappers for the Windows 7 Taskbarlist Interfaces (e.g. ITaskbarlist3)
 // *Requires JVCL*
