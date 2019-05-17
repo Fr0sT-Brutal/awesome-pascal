@@ -345,6 +345,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [LazEdit](https://svn.code.sf.net/p/lazarus-ccr/svn/applications/lazedit). `[FPC]` General text editor with syntax highlighting and tools to help edit HTML.
 
+* [Notepas](https://github.com/beNative/lazarus). `[FPC]` Notepas is a fast portable native multiplatform text editor written in Lazarus... Aimed towards developers it is equipped with some functions usually not found in other text editors and introduces a couple of new exclusive features.
 
 ## Viewers
 
