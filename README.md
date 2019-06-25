@@ -523,6 +523,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 ## XML/JSON/YAML
 
+* [dataset-serialize](https://github.com/viniciussanchez/dataset-serialize). `[Delphi]` This component is a JSON serializer for the DataSet component of Delphi. Allows you to convert JSON to DataSet, DataSet to JSON, and export and load the structure of DataSet fields in JSON format. Compatible with VCL projects, FMX and uniGUI (framework).
+
 * [OmniXML](https://github.com/mremec/omnixml). `[Delphi]` XML parser written in Delphi. Full support for Document Object Model (DOM) Level 1 specification; Supports Extensible Markup Language (XML) 1.0 (Second Edition) specification; Has built-in support for different code pages (main 8-bit code pages, UTF-8, UTF-16); Is compatible with MS XML parser; Fast parsing even large and highly structured documents; Includes helper functions to ease processing XML documents; Simplified XPath support.
 
 * [SAX for Pascal](http://sourceforge.net/projects/saxforpascal). `[Delphi]` `[FPC]` Designed to implement the Simple API for XML Parsing in Pascal/Delphi.
