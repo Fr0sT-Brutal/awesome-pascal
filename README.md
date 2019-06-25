@@ -908,6 +908,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [Spider](https://github.com/yavfast/dbg-spider). `[Delphi]` Real time profiler for Delphi applications
 
+* [AsmProfiler](https://github.com/andremussche/asmprofiler). `[Delphi]` Full tracing 32bit profiler (instrumenting and sampling), written in Delphi and some assembly
 
 ## Setup
 
