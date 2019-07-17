@@ -57,6 +57,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 ## General Libraries ##
 *Big general-purpose libraries*
 
+* [Horse](https://github.com/HashLoad/horse). `[Delphi]` Fast and minimalist web framework. Horse allows to create powerful RESTful servers without effort. Focused on microservices.
+
 * [JCL](https://github.com/project-jedi/jcl). `[Delphi]` `[FPC]` Set of thoroughly tested and fully documented utility functions and non-visual classes which can be instantly reused in your Delphi and C++ Builder projects. The library is grouped into several categories such as Strings, Files and I/O, Security, Math and many, many more.
 
 * [JVCL](https://github.com/project-jedi/jvcl). `[Delphi]` Library of over 600 Delphi components developed by "Project JEDI" members.
