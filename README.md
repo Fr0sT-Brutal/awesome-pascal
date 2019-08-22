@@ -275,6 +275,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [ToroKernel](https://github.com/torokernel/torokernel). `[FPC]` This is a library-kernel that allows freepascal applications which are specially ported to run alone in the system. Toro is compiled within the user's application thus resulting in a single binary that can boot on baremetal or as a guest in a modern hypervisor,e.g., hyperv, kvm, qemu, firecraker. ToroKernel addresses the development of microservices by providing a dedicated API.  
 
+* [Horse](https://github.com/HashLoad/horse). `[Delphi]` Fast and minimalist web framework. Horse allows to create powerful RESTful servers without effort. Focused on microservices.
+
 
 ## Serial port
 
@@ -739,6 +741,9 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [FuzzyWuzzy.pas](https://github.com/DavidMoraisFerreira/FuzzyWuzzy.pas). `[FPC]` Port of the well-known Python fuzzy string matching package that uses the Levenshtein distance to compute differences between string sequences.
 
+* [GS.Core](https://github.com/VincentGsell/GS.Core). `[Delphi]` `[FPC]` Core functions shared by several projects.
+// Thread Pool, file operations, Key<>Value database, JSON lib, etc
+
 
 ## OS ##
 *Tools that help dealing with OS-specific internals*
@@ -940,6 +945,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 // *Free **without source** for non-commercial usage (only) with some [conditions](http://help.madshi.net/License.htm). Available to download as part of `madCollection` installer (you'll need to install `madExcept` item). Pretty well documented.*
 
 * [Chet - C Header Translator for Delphi](https://github.com/neslib/Chet). Chet is a .h-to-.pas translator powered by libclang for Delphi. Uses the Clang compiler to parse header files, resulting in more accurate translations that require fewer manual adjustments.
+
+* [Boss](https://github.com/HashLoad/boss). Dependency Manager for Delphi projects.
 
 
 ## License ##
