@@ -273,7 +273,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [Delphi Cross Socket](https://github.com/winddriver/Delphi-Cross-Socket/). `[Delphi]` Delphi cross platform socket library (Chinese). Uses different IO models for different platforms: IOCP (Windows), KQUEUE (FreeBSD(MacOSX, iOS...)), EPOLL (Linux(Linux, Android...)).
 
-* [ToroKernel](https://github.com/torokernel/torokernel). `[FPC]` This is a library-kernel that allows freepascal applications which are specially ported to run alone in the system. Toro is compiled within the user's application thus resulting in a single binary that can boot on baremetal or as a guest in a modern hypervisor,e.g., hyperv, kvm, qemu, firecraker. ToroKernel addresses the development of microservices by providing a dedicated API.  
+* [ToroKernel](https://github.com/torokernel/torokernel). `[FPC]` This is a library-kernel that allows freepascal applications which are specially ported to run alone in the system. Toro is compiled within the user's application thus resulting in a single binary that can boot on baremetal or as a guest in a modern hypervisor,e.g., hyperv, kvm, qemu, firecraker. ToroKernel addresses the development of microservices by providing a dedicated API.
 
 * [Horse](https://github.com/HashLoad/horse). `[Delphi]` Fast and minimalist web framework. Horse allows to create powerful RESTful servers without effort. Focused on microservices.
 
@@ -312,6 +312,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [SpTBXLib](https://github.com/SilverpointDev/sptbxlib). `[Delphi]` Add on package for Toolbar2000 components, it adds the following features: Skins, Unicode support, Custom painting events and many more.
 
+* [Kastri library free](https://github.com/DelphiWorlds/KastriFree). `[Delphi]` Free version of the Kastri library, a cross-platform library which builds upon the existing RTL and FMX libraries in Delphi. Supports a number of newer APIs that you won't find in FMX/RTL, and "backfills" for missing APIs
+
 
 ## Single controls
 
@@ -338,6 +340,10 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [neTabControl](https://github.com/jkour/neTabControl). `[Delphi]` FireMonkey control for Delphi. It builds on the native TabControl and adds a number of features.
 
 * [ATTabs](https://github.com/Alexey-T/ATTabs). `[Delphi]` `[FPC]` Delphi/Lazarus component for lite tabs. OS independent, fully custom drawn.
+
+* [zControls](https://github.com/MahdiSafsafi/zcontrols). `[Delphi]` Contains TzObjectInspector - a powerful object inspector with many features.
+
+* [RiverSoftAVG Charting Component Suite](http://www.riversoftavg.com/charting.htm). `[Delphi]` Free (for non-commercial use) with source charting Suite for adding charts and graphs to your programs. For Delphi 2010-Tokyo (Win32/Win64/OSX/iOS/Android) and Appmethod (Object Pascal).
 
 
 ## Editors
@@ -581,7 +587,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [XML Parser](http://www.destructor.de/xmlparser). `[Delphi]` `[FPC]` Lightweight ObjectPascal XML parser for Delphi and FreePascal. By leaving out syntax checking, well-formedness checks and/or validation, and by choosing a progressive scanning technique, this parser is very fast.
 
-* [HTML parser](https://github.com/ying32/htmlparser). `[Delphi]` HTML parser. Supports Windows, MacOSX, iOS, Android platform. Ñomments in Chinese 
+* [HTML parser](https://github.com/ying32/htmlparser). `[Delphi]` HTML parser. Supports Windows, MacOSX, iOS, Android platform. Comments in Chinese
 
 
 ## Language
