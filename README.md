@@ -286,6 +286,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [Bauglir WebSocket](https://github.com/MFernstrom/Bauglir-WebSocket-2). `[Delphi]` `[FPC]` WebSocket server/client implementation based on Ararat Synapse.
 
+* [Delphi-RabbitMQ](https://github.com/HeZiHang/Delphi-RabbitMQ). `[Delphi]` RabbitMQ driver for Delphi
+
 
 ## Serial port
 
@@ -413,6 +415,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [TLanguages](https://github.com/albertodev01/TLanguages). `[Delphi]` Localization tool for VCL and FMX.
 
 * [Dam](https://github.com/digao-dalpiaz/Dam). `[Delphi]` Delphi Message Dialogs with Formatted Text.
+
+* [BitMapEditor - Delphi] (https://github.com/EverestSoftwareLLC/BitMapEdtior-Delphi). `[Delphi]`  Single-form, simple bitmap editor for Delphi.
 
 
 ## Database ##
