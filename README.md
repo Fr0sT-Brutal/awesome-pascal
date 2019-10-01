@@ -494,6 +494,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [VerySimple.Lua](https://github.com/Dennis1000/verysimplelua). `[Delphi]` Lua Wrapper for Delphi XE5-D10.1 which automatically creates OOP callback functions for Delphi <-> Lua.
 // *LUA DLL required*
 
+* [QuickJS-Engine](https://github.com/Coldzer0/QuickJS-Pascal). `[Delphi]` `[FPC]` Delphi and Free Pascal bindings for Bellard's [QuickJS](https://bellard.org/quickjs) Javascript Engine.
+
 
 ## Non-visual Classes/Utils ##
 
