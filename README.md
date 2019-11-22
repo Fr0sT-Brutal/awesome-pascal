@@ -179,6 +179,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [BGRAbitmap](https://github.com/edivando-fpc/BGRABitmap). `[Delphi]` `[FPC]` Drawing routines with transparency and antialiasing with Lazarus. Offers also various transforms. These routines allow to manipulate 32bit images in BGRA format or RGBA format (depending on the platform).
 
+* [Clipper](http://angusj.com/delphi/clipper.php). `[Delphi]` Library performs line & polygon clipping - intersection, union, difference & exclusive-or, and line & polygon offsetting
+
 
 ## Game dev ##
 
@@ -469,6 +471,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [QuickORM](https://github.com/exilon/QuickORM). `[Delphi]` `[FPC]` QuickORM is a simple RestServer and Restclient based on mORMot framework. Provides a fast implementation of client-server applications in few minutes.
 
+* [iORM](https://github.com/mauriziodm/iORM). `[Delphi]`  Delphi ORM interface based useful to develop desktop and mobile application.
+
 
 ## Scripting ##
 *Using script engine in your applications*
@@ -651,6 +655,10 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [DirectoryWatcher](https://github.com/Wosi/DirectoryWatcher). `[Delphi]` Watch changes in directories on different platforms (Windows/Linux/Mac OS).
 
+* [ezthreads](https://github.com/mr-highball/ezthreads). `[FPC]` simple to use threading library
+
+* [AsyncCalls](https://github.com/ahausladen/AsyncCalls). `[Delphi]` Asynchronous function call framework
+
 
 ## Template
 *Engines to generate text output based on templates*
@@ -776,8 +784,9 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [GS.Core](https://github.com/VincentGsell/GS.Core). `[Delphi]` `[FPC]` Core functions shared by several projects.
 // Thread Pool, file operations, Key<>Value database, JSON lib, etc
-
 * [PascalTZ](https://github.com/dezlov/PascalTZ). `[FPC]` Pascal Time Zone allows you to convert between local times in various time zones and GMT/UTC, taking into account historical changes to time zone rules.
+
+* [Charset Enigma](https://github.com/ms301/charset-enigma). `[Delphi]` Delphi charset detector Community Edition
 
 
 ## OS ##
