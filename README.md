@@ -697,6 +697,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [ALGLIB](http://www.alglib.net/download.php). `[Delphi]` `[FPC]` Cross-platform numerical analysis and data processing library. It supports several operating systems (Windows and POSIX, including Linux). ALGLIB features include: Data analysis (classification/regression, statistics); Optimization and nonlinear solvers; Interpolation and linear/nonlinear least-squares fitting; Linear algebra (direct algorithms, EVD/SVD), direct and iterative linear solvers; Fast Fourier Transform and many other algorithms.
 // Free edition is Delphi wrapper around generic C core licensed for Personal and Academic Use.
 
+* [CAI NEURAL API](https://github.com/joaopauloschuler/neural-api). `[FPC]` `[Delphi]` Cross-platform Neural Network API optimized for AVX, AVX2 and AVX512 instruction sets plus OpenCL capable devices including AMD, Intel and NVIDIA.
+
 
 ## Command-line
 *Libraries for parsing command-line arguments*
