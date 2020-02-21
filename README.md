@@ -292,6 +292,16 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [DelphiGrpc](https://github.com/ultraware/DelphiGrpc). `[Delphi]` Implementation of the realtime and streaming gRPC protocol
 
+* [Google API for Delphi](https://github.com/googleapi/googleapi). `[Delphi]` Google API for Delphi
+
+* [Delphi JOSE and JWT Library](https://github.com/paolo-rossi/delphi-jose-jwt). `[Delphi]` Delphi implementation of JOSE (JSON Object Signing and Encryption) and JWT (JSON Web Token)
+
+* [WiRL](https://github.com/delphi-blocks/WiRL). `[Delphi]` Project was created to simplify RESTful service implementation in Delphi but, more importantly, to enable maximum interoperability with REST clients written in other languages and tools
+
+* [OpenSSL](https://github.com/lminuti/Delphi-OpenSSL). `[Delphi]` Delphi wrapper for OpenSSL
+
+* [Thrift Delphi Software Library](https://github.com/apache/thrift/tree/master/lib/delphi). `[Delphi]` Lightweight, language-independent software stack for point-to-point RPC implementation. Thrift provides clean abstractions and implementations for data transport, data serialization, and application level processing. The code generation system takes a simple definition language as input and generates code across programming languages that uses the abstracted stack to build interoperable RPC clients and servers. Thrift makes it easy for programs written in different programming languages to share data and call remote procedures. With support for 28 programming languages, chances are Thrift supports the languages that you currently use.
+
 
 ## Serial port
 
@@ -390,6 +400,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [ATBinHex for Delphi](https://github.com/Alexey-T/ATViewer/blob/master/Source/ATBinHex.pas) `[Delphi]`, [ATBinHex for Laz](https://github.com/Alexey-T/ATBinHex-Lazarus). `[FPC]` Viewer for files of unlimited size like in Total Commander.
 
 * [ATImageBox for Delphi](https://github.com/Alexey-T/ATViewer/blob/master/Source/ATImageBox.pas) `[Delphi]`, [ATImageBox for Laz](https://github.com/Alexey-T/ATImageBox-Lazarus). `[FPC]` TScrollBox with embedded TImage. Control can auto position image inside.
+
+* [CEF4Delphi](https://github.com/salvadordf/CEF4Delphi). `[Delphi]` `[FPC]` Project to embed Chromium-based browsers in applications made with Delphi or Lazarus/FPC
 
 
 ## Other GUI
@@ -794,6 +806,12 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [Charset Enigma](https://github.com/ms301/charset-enigma). `[Delphi]` Delphi charset detector Community Edition
 
+* [DelphiPatterns](https://github.com/jimmckeeth/DelphiPatterns). `[Delphi]` Complete set of design patterns implemented in Delphi language
+
+* [Markdown Processor for Pascal](https://github.com/grahamegrieve/delphi-markdown). `[Delphi]` `[FPC]` This is a Pascal (Delphi) library that processes to markdown to HTML
+
+* [Coroutine-based multithreading library](https://github.com/Purik/AIO). `[Delphi]` AIO implement procedural oriented programming (POP) style in Delphi. It means developer can combine advantages of OOP and POP, splitting logic to multiple state machines, schedule them to threads, connect them by communication channels like in GoLang
+
 
 ## OS ##
 *Tools that help dealing with OS-specific internals*
@@ -999,6 +1017,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [Chet - C Header Translator for Delphi](https://github.com/neslib/Chet). Chet is a .h-to-.pas translator powered by libclang for Delphi. Uses the Clang compiler to parse header files, resulting in more accurate translations that require fewer manual adjustments.
 
 * [Boss](https://github.com/HashLoad/boss). Dependency Manager for Delphi projects.
+
+* [C-To-Delphi](https://github.com/WouterVanNifterick/C-To-Delphi). `[Delphi]` This tool will convert most of your standard C code.
 
 
 ## License ##
