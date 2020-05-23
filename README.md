@@ -882,6 +882,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [JclDebug (part of Project JEDI)](https://github.com/project-jedi/jcl/blob/master/jcl/source/windows/JclDebug.pas). `[Delphi]` `[FPC]` Tracing, MAP file parser, exception report generation, exception stack traces.
 
+* [Deleaker](https://www.deleaker.com/). `[Delphi]` A profiler that finds memory, GDI and handles leaks. Supports Delphi 7-RAD Studio 10.4.
+
 
 ## Utilities ##
 *Free non-opensource products allowed here.*
