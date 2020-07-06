@@ -183,6 +183,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [Clipper](http://angusj.com/delphi/clipper.php). `[Delphi]` Library performs line & polygon clipping - intersection, union, difference & exclusive-or, and line & polygon offsetting
 
+* [dexif](https://github.com/cutec-chris/dexif). `[Delphi]` `[FPC]` Lazarus port of Delphi EXIF Library to extract Exif Information from Images
+
 
 ## Game dev ##
 
@@ -212,6 +214,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [DarkGlass](https://github.com/chapmanworld/DarkGlass). `[Delphi]` DarkGlass is a general purpose game engine written using Delphi.
 
 * [JEDI-SDL](https://sourceforge.net/projects/jedi-sdl). `[Delphi]` `[FPC]` Pascal headers for SDL from JEDI. Works with Delphi, Kylix, Free Pascal, Gnu Pascal and TMT Pascal.
+
+* [Apus Game Engine](https://github.com/Cooler2/ApusGameEngine). `[Delphi]` `[FPC]` Cross-platform library for making mostly 2D games, GUI applications and web services. Supports UI, text rendering, on-fly localization, particles, basic scripting and many lower level subsystems. Uses OpenGL/GLES and DirectX.
 
 
 ## Communications ##
@@ -304,6 +308,15 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [Thrift Delphi Software Library](https://github.com/apache/thrift/tree/master/lib/delphi). `[Delphi]` Lightweight, language-independent software stack for point-to-point RPC implementation. Thrift provides clean abstractions and implementations for data transport, data serialization, and application level processing. The code generation system takes a simple definition language as input and generates code across programming languages that uses the abstracted stack to build interoperable RPC clients and servers. Thrift makes it easy for programs written in different programming languages to share data and call remote procedures. With support for 28 programming languages, chances are Thrift supports the languages that you currently use.
 
+* [Delphi Modbus](https://github.com/coassoftwaresystems/delphi-modbus). `[Delphi]` `[FPC]` Implementation of a ModbusTCP protocol master and slave over TCP/IP.
+
+* [RESTRequest4Delphi](https://github.com/viniciussanchez/RESTRequest4Delphi). `[Delphi]` RESTRequest4Delphi is a API to consume REST services written in any programming language.
+Designed to facilitate development, in a simple and minimalist way.
+
+* [LazWebsockets](https://github.com/Warfley/LazWebsockets). `[FPC]` This provides a small Websocket server and client implementation written for the FPC and Lazarus. It is fully based upon the fcl ssockets unit and therefore independent from any additional dependencies except from the FCL.
+
+* [NetCom7](https://github.com/DelphiBuilder/NetCom7). `[Delphi]` This set of components is the fastest possible implementation of socket communications, in any language; this is an extremely optimised code on TCP/IP sockets.
+
 
 ## Serial port
 
@@ -375,6 +388,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [DzHTMLText](https://github.com/digao-dalpiaz/DzHTMLText). `[Delphi]` `[FPC]` Visual component that allows you to specify a formatted text in a label, using almost the same syntax used in HTML code.
 
 * [SMDBGrid component](http://www.scalabium.com/smdbgrid.htm). `[Delphi]` The successor of TDBGrid with the extended features. Is able to display multiline wordwrap column titles, checkboxs for boolean fields, a convenient select of records from the keyboard and mouse via checkboxs, extanded Indicator column, fixing of columns, an opportunity to exclude insert and delete of records in the DBGrid, own standard PopupMenu, save/restore of a column states, processing of additional events etc. Multilanguage resources.
+
+* [decTreeView](https://github.com/DenisAnisimov/decTreeView). `[Delphi]` The decTreeView library is an alternative implementation of the TreeView (SysTreeView32) control
 
 
 ## Editors
@@ -812,6 +827,10 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [Markdown Processor for Pascal](https://github.com/grahamegrieve/delphi-markdown). `[Delphi]` `[FPC]` This is a Pascal (Delphi) library that processes to markdown to HTML
 
 * [Coroutine-based multithreading library](https://github.com/Purik/AIO). `[Delphi]` AIO implement procedural oriented programming (POP) style in Delphi. It means developer can combine advantages of OOP and POP, splitting logic to multiple state machines, schedule them to threads, connect them by communication channels like in GoLang
+
+* [Rapid.Generics](https://github.com/d-mozulyov/Rapid.Generics). `[Delphi]` Rapid generics/defaults equivalent classes for Delphi (XE8+)
+
+* [Keras4Delphi](https://github.com/Pigrecos/Keras4Delphi). `[Delphi]` Keras4Delphi is a high-level neural networks API, written in Pascal with Python Binding
 
 
 ## OS ##
