@@ -217,7 +217,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [pasvulkan](https://github.com/BeRo1985/pasvulkan). `[Delphi]` `[FPC]` Vulkan header generator, OOP-style API wrapper, framework and prospective Vulkan-based game engine for Object Pascal.
 
-* [DarkGlass](https://github.com/chapmanworld/DarkGlass). `[Delphi]` DarkGlass is a general purpose game engine written using Delphi.
+* [DarkGlass](https://github.com/kenjones007/DarkGlass). `[Delphi]` DarkGlass is a general purpose game engine written using Delphi.
 
 * [JEDI-SDL](https://sourceforge.net/projects/jedi-sdl). `[Delphi]` `[FPC]` Pascal headers for SDL from JEDI. Works with Delphi, Kylix, Free Pascal, Gnu Pascal and TMT Pascal.
 
