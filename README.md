@@ -551,7 +551,7 @@ Designed to facilitate development, in a simple and minimalist way.
 ## Machine Learning ##
 *Machine learning and nearal networks*
 
-*[noe](https://github.com/ariaghora/noe). `[FPC]` Framework to build neural networks in pure object pascal.
+* [noe](https://github.com/ariaghora/noe). `[FPC]` Framework to build neural networks in pure object pascal.
 
 ## Non-visual Classes/Utils ##
 
