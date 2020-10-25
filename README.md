@@ -594,6 +594,8 @@ Designed to facilitate development, in a simple and minimalist way.
 
 * [bcrypt](https://github.com/viniciussanchez/bcrypt). `[Delphi]` A library to help you hash passwords.
 
+* [MurMur-Delphi](https://github.com/thibmo/murmur-delphi). `[Delphi]` MurMur1/2/3 fast seeded hashing algorithms port in pure-pascal.
+
 
 ## XML/JSON/YAML
 
