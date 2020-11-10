@@ -712,6 +712,7 @@ Designed to facilitate development, in a simple and minimalist way.
 
 * [MustaPAS](https://github.com/leledumbo/mustapas). `[Delphi]` `[FPC]` Mustache implementation in simple procedural Pascal.
 
+* [Sempare Template Engine](https://github.com/sempare/sempare-delphi-template-engine). `[Delphi]`  The template engine allows for flexible text manipulation. It can be used for generating email, html, source code, xml, configuration, etc. It is very easy to use, flexible and extensible, where templates are readable and maintainable. It supports: conditions, looping, custom functions and referencing data via RTTI. XE4, XE8+
 
 ## Logging
 
