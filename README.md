@@ -29,6 +29,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 		- [Other GUI](#other-gui)
 	- [Database](#database)
 	- [Scripting](#scripting)
+	- [Machine Learning](#machine-learning)
 	- [Non-visual Classes/Utils](#non-visual-classesutils)
 		- [Compression](#compression)
 		- [Encryption](#encryption)
@@ -547,6 +548,10 @@ Designed to facilitate development, in a simple and minimalist way.
 
 * [QuickJS-Engine](https://github.com/Coldzer0/QuickJS-Pascal). `[Delphi]` `[FPC]` Delphi and Free Pascal bindings for Bellard's [QuickJS](https://bellard.org/quickjs) Javascript Engine.
 
+## Machine Learning ##
+*Machine learning and nearal networks*
+
+* [noe](https://github.com/ariaghora/noe). `[FPC]` Framework to build neural networks in pure object pascal.
 
 ## Non-visual Classes/Utils ##
 
