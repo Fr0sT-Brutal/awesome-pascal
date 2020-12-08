@@ -361,6 +361,8 @@ Designed to facilitate development, in a simple and minimalist way.
 
 * [Kastri library free](https://github.com/DelphiWorlds/KastriFree). `[Delphi]` Free version of the Kastri library, a cross-platform library which builds upon the existing RTL and FMX libraries in Delphi. Supports a number of newer APIs that you won't find in FMX/RTL, and "backfills" for missing APIs
 
+* [DelphiUCL](https://github.com/VuioVuio/DelphiUCL). `[Delphi]` UWP controls for Delphi VCL.
+
 
 ## Single controls
 
@@ -549,7 +551,7 @@ Designed to facilitate development, in a simple and minimalist way.
 * [QuickJS-Engine](https://github.com/Coldzer0/QuickJS-Pascal). `[Delphi]` `[FPC]` Delphi and Free Pascal bindings for Bellard's [QuickJS](https://bellard.org/quickjs) Javascript Engine.
 
 ## Machine Learning ##
-*Machine learning and nearal networks*
+*Machine learning and neural networks*
 
 * [noe](https://github.com/ariaghora/noe). `[FPC]` Framework to build neural networks in pure object pascal.
 
@@ -656,11 +658,15 @@ Designed to facilitate development, in a simple and minimalist way.
 
 * [Internet Tools](https://github.com/benibela/internettools). `[Delphi]` `[FPC]` Package provides standard conformant XPath 2.0, XQuery 1.0 and XPath/XQuery 3.0 interpreters with extensions for - among others - JSONiq, pattern matching, CSS and HTML; as well as functions to perform HTTP/S requests on Windows/Linux/MacOSX/Android, an XSLT-inspired webscraping language, and an auto update class.
 
-* [Delphi-JsonToDelphiClass](https://github.com/PKGeorgiev/Delphi-JsonToDelphiClass). `[Delphi]` Generates Delphi Classes based on JSON string (Json To Delphi Class Generator / JSON Data Binding Tool). Also includes unit for interaction with GitHub.
+* [Delphi-JsonToDelphiClass](https://github.com/PKGeorgiev/Delphi-JsonToDelphiClass) ([Newer fork](https://github.com/JensBorrisholt/Delphi-JsonToDelphiClass). `[Delphi]` Generates Delphi Classes based on JSON string (Json To Delphi Class Generator / JSON Data Binding Tool). Also includes unit for interaction with GitHub.
 
 * [XML Parser](http://www.destructor.de/xmlparser). `[Delphi]` `[FPC]` Lightweight ObjectPascal XML parser for Delphi and FreePascal. By leaving out syntax checking, well-formedness checks and/or validation, and by choosing a progressive scanning technique, this parser is very fast.
 
 * [HTML parser](https://github.com/ying32/htmlparser). `[Delphi]` HTML parser. Supports Windows, MacOSX, iOS, Android platform. Comments in Chinese
+
+* [Neslib](https://github.com/neslib/Neslib.Xml). `[Delphi]` Ultra light-weight and cross-platform XML library for Delphi.
+
+* [DJSON](https://github.com/mauriziodm/DJSON). `[Delphi]` Delphi JSON object mapper
 
 
 ## Language
@@ -846,7 +852,9 @@ Designed to facilitate development, in a simple and minimalist way.
 
 * [Rapid.Generics](https://github.com/d-mozulyov/Rapid.Generics). `[Delphi]` Rapid generics/defaults equivalent classes for Delphi (XE8+)
 
-* [Keras4Delphi](https://github.com/Pigrecos/Keras4Delphi). `[Delphi]` Keras4Delphi is a high-level neural networks API, written in Pascal with Python Binding
+* [Keras4Delphi](https://github.com/Pigrecos/Keras4Delphi). `[Delphi]` High-level neural networks API, written in Pascal with Python Binding
+
+* [TZDB](https://github.com/pavkam/tzdb). `[Delphi]` `[FPC]` IANA Time Zone Database for Delphi/FreePascal
 
 
 ## OS ##
@@ -989,6 +997,8 @@ Designed to facilitate development, in a simple and minimalist way.
 ## Plugins for other IDE's
 
 * [Delphi IDE theme editor / Delphi IDE Colorizer](#rad-studio-ide-pluginswizards). Supports Appmethod, Lazarus and Smart Mobile Studio.
+
+* [Pascal](https://github.com/alefragnani/vscode-language-pascal) and [Pascal Formatter](https://github.com/alefragnani/vscode-pascal-formatter). Open source extensions created for Visual Studio Code that add Pascal support.
 
 
 ## Documentation
