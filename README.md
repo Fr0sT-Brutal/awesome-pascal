@@ -601,10 +601,6 @@ Designed to facilitate development, in a simple and minimalist way.
 
 * [HashLib4Pascal](https://github.com/Xor-el/HashLib4Pascal). `[Delphi]` `[FPC]` Delphi/FreePascal compatible library that provides an easy to use interface for computing hashes and checksums of strings (with a specified encoding), files, streams, byte arrays and untyped data to mention but a few. It also supports Incremental Hashing.
 
-* [CRC/Hash](http://www.wolfgang-ehrhardt.de/crchash_en.html). `[Delphi]` `[FPC]` Pascal / Delphi source and binary files related to CRC, hash, and HMAC calculations. CRC, Adler, BJ lookup, MD5, SHA, Whirlpool, Blake
-
-* [Crypto](http://www.wolfgang-ehrhardt.de/crypt_en.html). `[Delphi]` `[FPC]` Several cipher algorithms: the 128-bit block ciphers AES and Twofish, the 64-bit block cipher Blowfish, and the stream ciphers Salsa20/XSalsa20/ChaCha and Sosemanuk.
-
 * [bcrypt](https://github.com/viniciussanchez/bcrypt). `[Delphi]` A library to help you hash passwords.
 
 * [MurMur-Delphi](https://github.com/thibmo/murmur-delphi). `[Delphi]` MurMur1/2/3 fast seeded hashing algorithms port in pure-pascal.
@@ -708,6 +704,8 @@ Designed to facilitate development, in a simple and minimalist way.
 // *Advanced memory allocation functions for faster aligned operations.*
 
 * [FastMM4-AVX](https://github.com/maximmasiutin/FastMM4-AVX). `[Delphi]` `[FPC]` FastMM4 fork with AVX support and multi-threaded enhancements (faster locking)
+
+* [FastMM5](https://github.com/pleriche/FastMM5). `[Delphi]` Fast replacement memory manager for Embarcadero Delphi applications that scales well across multiple threads and CPU cores, is not prone to memory fragmentation, and supports shared memory without the use of external .DLL files. Version 5 is a complete rewrite of FastMM.
 
 
 ## System
@@ -867,6 +865,10 @@ Designed to facilitate development, in a simple and minimalist way.
 * [Keras4Delphi](https://github.com/Pigrecos/Keras4Delphi). `[Delphi]` High-level neural networks API, written in Pascal with Python Binding
 
 * [TZDB](https://github.com/pavkam/tzdb). `[Delphi]` `[FPC]` IANA Time Zone Database for Delphi/FreePascal
+
+* [PascalUtils](https://github.com/isemenkov/pascalutils). `[Delphi]` `[FPC]` Delphi and object pascal library of utils data structures
+
+* [libPasC-Algorithms](https://github.com/isemenkov/libpasc-algorithms). `[Delphi]` `[FPC]` Delphi and object pascal library of common data structures and algorithms. Library rewritten from c-algorithms repository and other sources.
 
 
 ## OS ##
