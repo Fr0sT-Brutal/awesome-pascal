@@ -327,6 +327,8 @@ Designed to facilitate development, in a simple and minimalist way.
 
 * [NetCom7](https://github.com/DelphiBuilder/NetCom7). `[Delphi]` This set of components is the fastest possible implementation of socket communications, in any language; this is an extremely optimised code on TCP/IP sockets.
 
+* [VK API](https://github.com/HemulGM/VK_API). `[Delphi]` Library for working with Vkontakte API in Delphi. Full API (with Bot samples).
+
 
 ## Serial port
 
