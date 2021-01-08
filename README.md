@@ -268,6 +268,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [Fano Framework](https://fanoframework.github.io). `[FPC]` Web application framework for modern Pascal programming language. It is written in Free Pascal.
 
+* [VK API](https://github.com/HemulGM/VK_API). `[Delphi]` Library for working with Vkontakte API in Delphi. Full API (with Bot samples).
+
 
 ## Serial port
 
