@@ -195,6 +195,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [Mundus](https://github.com/Memnarch/Mundus). `[Delphi]` Software renderer written in Delphi. Currently supports only Win32 as it makes use of some inline assembler.
 
+* [Image32](https://sourceforge.net/projects/image32). `[Delphi]` `[FPC]` ([Website](http://www.angusj.com/delphi/image32/Docs/_Body.htm)) 2D graphics library written in Delphi Pascal. It provides an extensive range of image manipulation functions and includes a line and polygon renderer supporting a wide range of brush filling options.
+
 ## Game dev ##
 *There are also some drawing engines suitable for game dev in [Graphic](#graphic) section*
 
