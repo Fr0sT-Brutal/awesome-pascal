@@ -773,10 +773,9 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [Sempare Template Engine](https://github.com/sempare/sempare-delphi-template-engine). `[Delphi]` The template engine allows for flexible text manipulation. It can be used for generating email, html, source code, xml, configuration, etc. It is very easy to use, flexible and extensible, where templates are readable and maintainable. It supports: conditions, looping, custom functions and referencing data via RTTI. XE4, XE8+
 
-* [DVD Chief Template Engine](http://dvdchief.com/delphi). `[Delphi]` Template engine for Delphi XE/XE2/XE3. It used in our DVD Chief product to create a html data layout and for html export.
-// *Abandoned since 2013 but still functional*
+* [DVD Chief Template Engine](https://github.com/Fr0sT-Brutal/TemplateEngine). `[Delphi]` `[FPC]` Fork of abandoned implementation of PHP Smarty template engine for Delphi by [DVD Chief](http://dvdchief.com/delphi).
 
-* [liquid-delphi](https://github.com/arimateia/liquid-delphi). `[Delphi]` Delphi port of the popular (Ruby Liquid templating language)[https://shopify.github.io/liquid] and dotLiquid implementation. It is a separate project that aims to retain the same template syntax as the original, while using delphi coding conventions where possible.
+* [liquid-delphi](https://github.com/arimateia/liquid-delphi). `[Delphi]` Delphi port of the popular [Ruby Liquid templating language](https://shopify.github.io/liquid) and dotLiquid implementation. It is a separate project that aims to retain the same template syntax as the original, while using delphi coding conventions where possible.
 
 
 ## Logging
@@ -1083,7 +1082,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [SamplingProfiler](https://www.delphitools.info/samplingprofiler). `[Delphi]` Performance profiling tool for Delphi 5 to 32bits Delphi XE4. Its purpose is to help locate bottlenecks, even in final, optimized code running at full-speed.
 
-* [Delphi Code Coverage](https://sourceforge.net/projects/delphicodecoverage). `[Delphi]` Simple Code Coverage tool for Delphi that creates code coverage reports based on detailed MAP files.
+* [Delphi Code Coverage](https://github.com/DelphiCodeCoverage/DelphiCodeCoverage). `[Delphi]` Simple Code Coverage tool for Delphi that creates code coverage reports based on detailed MAP files.
 
 * [Pascal Analyzer](http://www.peganza.com/products_pal.html) (free Lite version available). `[Delphi]` Pascal Analyzer, or PAL for short, parses Delphi or Borland Pascal source code. It builds large internal tables of identifiers, and collects other information such as calls between subprograms. When the parsing is completed, extensive reports are produced. These reports contain a great deal of important information about the source code. This information will help you understand your source code better, and assist you in producing code of higher quality and reliability.
 
