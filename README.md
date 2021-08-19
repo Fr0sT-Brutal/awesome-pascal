@@ -142,7 +142,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [CCR-EXIF](https://code.google.com/p/ccr-exif) (seems abandoned, list of forks on GH [here](https://github.com/search?l=Pascal&o=desc&q=ccr-exif&s=updated&type=Repositories)). `[Delphi]` Library to read and write Exif, IPTC and XMP metadata from JPEG, TIFF and PSD images.
 
-* [KIcon](http://www.tkweb.eu/en/delphicomp/kicon.html). `[Delphi]` `[FPC]` This component makes sense if a more complex manipulation with icons (or better icon files *.ico) than just viewing is needed. Full PNG icon image support, correct rendering, icons with alpha channel.
+* [KIcon](https://github.com/ThomasJaeger/KControls). `[Delphi]` `[FPC]` This component makes sense if a more complex manipulation with icons (or better icon files *.ico) than just viewing is needed. Full PNG icon image support, correct rendering, icons with alpha channel.
 
 * [Delphi Twain](http://www.kluug.net/delphitwain.php). `[Delphi]` `[FPC]` The library allows you to easily access scanning functions from Delphi and Lazarus.
 
@@ -294,8 +294,6 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [GrijjyFoundation](#general-libraries). IOCP/EPOLL sockets, socket pools, HTTP, HTTP/2, OpenSSL, ProtocolBuffers.
 
-* [Rest-Dataware-Componentes](https://github.com/Rest-Dataware/RDW-Componente). `[Delphi]` `[FPC]` Was created to facilitate the creation of CRUDs in the same model that we created applications for Client / Server Database. With REST DW, you no longer have to worry about creating SQL Insertion, Deletion, Read and Execution methods via Webservice; Simply add a RESTDataBase connection component and add a RESTClientSQL component that will already have your SQL solution fully functional as it did back in the day and with all the power of modern REST / JSON technology with data compression and everything the language can offer.
-
 * [STOMP Client](https://github.com/danieleteti/delphistompclient). `[Delphi]` `[FPC]` STOMP client for Embarcadero Delphi and FreePascal. The project can use INDY (Delphi) or Synapse (Delphi or FreePascal).
 
 * [delphiXero](https://github.com/littleearth/delphiXERO). `[Delphi]` XERO cloud accounting API for Delphi.
@@ -372,7 +370,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [Orpheus](http://sourceforge.net/projects/tporpheus) ([Newest](https://github.com/TurboPack/Orpheus) and maintained version for recent compiler version only). `[Delphi]` Award-winning UI toolkit for Borland Delphi & C++Builder. It contains over 120 components covering everything from data entry to calendars and clocks. Other noteworthy components include an Object Inspector, LookOut bar & report views.
 // *Advanced edits, comboboxes, grids + component (de)serializers. GUI components look rather old-style, theme support might be limited. Package contains many demos but no docs seem available. Second link points to an adapted version for newest compiler versions.*
 
-* [KControls](http://www.tkweb.eu/en/delphicomp/kcontrols.html). `[Delphi]` `[FPC]` Control components. All controls have been written with the aim to become both cross-IDE compatible (Delphi/C++Builder VCL and Lazarus LCL) and cross-platform compatible in Lazarus.
+* [KControls](https://github.com/ThomasJaeger/KControls). `[Delphi]` `[FPC]` Control components. All controls have been written with the aim to become both cross-IDE compatible (Delphi/C++Builder VCL and Lazarus LCL) and cross-platform compatible in Lazarus.
 // *Most useful are TKGrid with its DB-aware heritage TKDBGrid — a very full-featured grid implementation incl. inplace editors. There's also hex editor, print preview, editors, labels, buttons etc.*
 
 * [D.P.F Delphi Android](http://sourceforge.net/projects/dpfdelphiandroid) / [D.P.F Delphi iOS](http://sourceforge.net/projects/dpfdelphiios) native components. `[Delphi]` D.P.F Delphi Native Components, 100% iOS Performance and styles. Develop iPhone & iPad & iPod Touch applications with fast native performance and native styles. Use native Android controls and services. Fast native performance. Mixed with FM VCL controls. Can be quick updated with latest Android controls & features.
@@ -416,7 +414,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [neTabControl](https://github.com/jkour/neTabControl). `[Delphi]` FireMonkey control for Delphi. It builds on the native TabControl and adds a number of features.
 
-* [ATTabs](https://github.com/Alexey-T/ATTabs). `[Delphi]` `[FPC]` Delphi/Lazarus component for lite tabs. OS independent, fully custom drawn.
+* [ATTabs](https://github.com/Alexey-T/ATFlatControls). `[Delphi]` `[FPC]` Delphi/Lazarus component for lite tabs. OS independent, fully custom drawn.
 
 * [zControls](https://github.com/MahdiSafsafi/zcontrols). `[Delphi]` Contains TzObjectInspector - a powerful object inspector with many features.
 
@@ -432,9 +430,6 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 ## Editors
 
 * [SynEdit](https://sourceforge.net/projects/synedit) ([mirror at GitHub](https://github.com/TurboPack/SynEdit)). `[Delphi]` Syntax highlighting edit control, not based on the Windows common controls. SynEdit is compatible with both Delphi and Kylix
-
-* [BCEditor](https://github.com/bonecode/BCEditor). `[Delphi]` Syntax highlighting edit control with code folding, minimap, external JSON highlighter and color scheme files, etc.
-// *Seems abandoned. Developer recommends using SynEdit instead*
 
 * [LazEdit](https://svn.code.sf.net/p/lazarus-ccr/svn/applications/lazedit). `[FPC]` General text editor with syntax highlighting and tools to help edit HTML.
 
@@ -717,7 +712,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [CrossPascal](https://github.com/BeRo1985/crosspascal). `[Delphi]` Aims to be a Delphi 7 compatible cross-platform source-to-source compiler (together with the new unicode string types from XE3 but where ansistring is still the default string type for to be still Delphi 7 compatible) which generates intermediate C code.
 // *Quite interesting project though seems abandoned*
 
-* [pas2js](https://svn.freepascal.org/svn/projects/pas2js/trunk), [docs](http://wiki.freepascal.org/pas2js). `[Delphi]` `[FPC]` An open source Pascal to JavaScript transpiler. It parses Object Pascal and emits JavaScript. The JavaScript is currently of level ECMAScript 5 and should run in any browser or in Node.js (target "nodejs"). Basically, Delphi 7 syntax is supported. Used in tools like TMS WebCore and Elevate Web Builder.
+* [pas2js](https://gitlab.com/freepascal.org/fpc/pas2js), [docs](http://wiki.freepascal.org/pas2js). `[Delphi]` `[FPC]` An open source Pascal to JavaScript transpiler. It parses Object Pascal and emits JavaScript. The JavaScript is currently of level ECMAScript 5 and should run in any browser or in Node.js (target "nodejs"). Basically, Delphi 7 syntax is supported. Used in tools like TMS WebCore and Elevate Web Builder.
 
 
 ## Memory managers
@@ -1001,10 +996,10 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [DDevExtensions](https://github.com/ahausladen/DDevExtensions). Extends the Delphi/C++Builder IDE by adding some new productivity features.
 // *Many useful IDE tweaks, must have.*
 
-* [VCL Fix Pack](http://andy.jgknet.de/blog/bugfix-units/vclfixpack-10). Delphi unit that fixes VCL and RTL bugs at runtime by patching the original functions. If you want all IDE Fix Pack fixes in your application this unit is what you are looking for. Adding the unit to your project (Delphi and C++Builder) automatically installs the patches that are available for your Delphi/C++Builder version.
+* [VCL Fix Pack](https://www.idefixpack.de/blog/bugfix-units/vclfixpack-10/). Delphi unit that fixes VCL and RTL bugs at runtime by patching the original functions. If you want all IDE Fix Pack fixes in your application this unit is what you are looking for. Adding the unit to your project (Delphi and C++Builder) automatically installs the patches that are available for your Delphi/C++Builder version.
 // *Actual for Delphi/C++ 6..2009*
 
-* [IDE Fix Pack](http://andy.jgknet.de/blog/ide-tools/ide-fix-pack). Collection of unofficial bug fixes and performance optimizations for the RAD Studio IDE, Win32/Win64 compiler and Win32 debugger. IDE Fix Pack is an IDE plugin for RAD Studio 2009-XE6 that fixes IDE bugs at runtime. All changes are done in memory. No files on disk are modified. None of your projects are modified or benefit from the IDE Fix Pack other than being compiled faster. Only the IDE gets the fixes and optimizations.
+* [IDE Fix Pack](https://www.idefixpack.de/blog/ide-tools/ide-fix-pack/). Collection of unofficial bug fixes and performance optimizations for the RAD Studio IDE, Win32/Win64 compiler and Win32 debugger. IDE Fix Pack is an IDE plugin for RAD Studio 2009-XE6 that fixes IDE bugs at runtime. All changes are done in memory. No files on disk are modified. None of your projects are modified or benefit from the IDE Fix Pack other than being compiled faster. Only the IDE gets the fixes and optimizations.
 // *Supports all RAD Studio versions since 2007. Removes lots of annoying bugs that EMBT haven't fixed for years. Yay!*
 
 * [GExperts](https://sourceforge.net/projects/gexperts). Free set of tools built to increase the productivity of Delphi and C++Builder programmers by adding several features to the IDE. GExperts is developed as Open Source software and we encourage user contributions to the project. Grep search and replace supporting unicode files, DFMs, etc; Automatically rename components, insert text macros, open recent files; Easily backup your projects, with custom additional file lists; Keep nested lists of favorite files for quick access; Track dependencies between units in your project; Quickly jump to any procedure in the current unit; And much, much more.
