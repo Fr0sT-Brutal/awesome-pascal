@@ -96,6 +96,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [cwRuntime](https://chapmanworld.com/cwRuntime/). `[Delphi]` `[FPC]` Compiler agnostic and cross platform collection of utility libraries for Delphi and FreePascal. It is heavily interface based, offering ARC based memory management features and flexible implementation abstraction, with the goal of forming a source bridge for developers familiar with the two supported compilers. Unit testing, collections/containers, multiplatform interface for loading dynamic libraries, Unicode utils, interfaces for working with streams and buffers, logging, threading, high-precision timers, sockets.
 
+* [minilib](https://github.com/parmaja/minilib). `[Delphi]` `[FPC]` cross platform library, Socket wrapper (include SSL and TLS), and Database connection (SQLite, PostgeeSQL, FirebirdSQL, MariaDB), XML reader and writer, ComPort (COM1, COM2 etc).
+
 
 ## Multimedia ##
 
