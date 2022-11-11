@@ -982,6 +982,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [DelphiUIAutomation](https://github.com/jhc-systems/DelphiUIAutomation). `[Delphi]` Delphi classes that wrap the MS UIAutomation library. DelphiUIAutomation is a framework for automating rich client applications based on Win32 (and specifically tested with Delphi XE5). It is written in Delphi XE5 and it requires no use of scripting languages. It provides a consistent object-oriented API, hiding the complexity of Microsoft's UIAutomation library and windows messages.
 
+* [DelphiCodeCoverageWizardPlus](https://github.com/MHumm/delphi-code-coverage-wizard-plus). `[Delphi]` GUI wizard for creating a batch file to call the commandline code coverage tool. Includes a project format for easier change of settings later on. Includes binaries of the code coverage tool itssel.
+
 
 ## Debugging / error handling ##
 
