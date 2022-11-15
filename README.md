@@ -136,11 +136,6 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 *Image files, free drawing, barcodes etc. There are also some drawing engines in [Game dev](#game-dev) section*
 
-* [ImageQuality](https://github.com/GodModeUser/ImageQuality). `[Delphi]` `[FPC]` A library for objectively measuring image/video quality.
-It implements many popular algorithms, such as MS-SSIM, MS-SSIM*, SIMM, MSE, and PSNR.
-It is designed to be fast, accurate, and reliable. It can be compiled directly and requires no additional libraries.  
-
-
 * [Graphics32](https://github.com/graphics32/graphics32). `[Delphi]` `[FPC]` Designed for fast 32-bit graphics handling on Delphi, Kylix and Lazarus. Optimized for 32-bit pixel formats, it provides fast operations with pixels and graphic primitives, and in most cases Graphics32 outperforms the standard TCanvas classes. It is almost a hundred times faster in per-pixel access and about 2-5 times faster in drawing lines.
 
 * [GraphicEx](https://github.com/mike-lischke/GraphicEx). `[Delphi]` Addendum to Delphi's Graphics.pas to enable your application to load many common image formats. This library is primarily designed to load images as background (buttons, forms, toolbars) and textures (DirectX, OpenGL) or for image browsing and editing purposes as long as you don't need to save images.
@@ -215,6 +210,10 @@ It is designed to be fast, accurate, and reliable. It can be compiled directly a
 
 * [llPDFLib](https://github.com/SybrexSys/llPDFLib). `[Delphi]` Pure Object Pascal library to create PDF documents. This library doesn’t use any DLL or external third-party software to generate PDF files. Library includes TPDFDocument component with properties and methods like Delphi’s TPrinter but is designed to generate a PDF file.
 
+* [ImageQuality](https://github.com/GodModeUser/ImageQuality). `[Delphi]` `[FPC]` A library for objectively measuring image/video quality. It implements many popular algorithms, such as MS-SSIM, MS-SSIM*, SIMM, MSE, and PSNR. It is designed to be fast, accurate, and reliable. It can be compiled directly and requires no additional libraries.
+
+* [DelphiX](http://www.micrel.cz/Dx/) `[Delphi]` `[FPC]` A good wrapper to DirectX. It can be used to create games or any kind of graphical interface.
+
 
 ## Game dev ##
 
@@ -251,7 +250,7 @@ It is designed to be fast, accurate, and reliable. It can be compiled directly a
 
 * [Delphi3D Engine](https://github.com/BrokenGamesUG/delphi3d-engine). `[Delphi]` A 3D-graphic and game engine for Delphi and Windows
 
-* [Ray4Laz](https://github.com/GuvaCode/Ray4Laz). `[FPC]` A complete header translation (binding) of [raylib 4.0](https://www.raylib.com/) to Pascal.
+* [Ray4Laz](https://github.com/GuvaCode/Ray4Laz). `[FPC]` A complete header translation (binding) of [raylib](https://www.raylib.com/) to Pascal.
 
 
 ## Communications ##
@@ -391,7 +390,7 @@ It is designed to be fast, accurate, and reliable. It can be compiled directly a
 * [TComPort](https://sourceforge.net/projects/comport). `[Delphi]` Delphi/C++ Builder serial communications components. It is generally easy to use for basic Serial Communications purposes.
 // *Seems abandoned since 2011*
 
-* [ComPortDriver] (https://github.com/MHumm/ComPortDriver). '[Delphi]' Delphi/C++ Builder serial communications component. Tested up to 921600 baud. Supports sending break as well. Works asynchronously by polling via timer (interval configurable). Demo included. 
+* [ComPortDriver] (https://github.com/MHumm/ComPortDriver). '[Delphi]' Delphi/C++ Builder serial communications component. Tested up to 921600 baud. Supports sending break as well. Works asynchronously by polling via timer (interval configurable). Demo included.
 
 
 ## GUI ##
@@ -506,9 +505,6 @@ It is designed to be fast, accurate, and reliable. It can be compiled directly a
 
 ## Other GUI
 
-* [GUI AutoSave](https://github.com/GodModeUser/Dephi-LightSaber-GUI_AutoSave) 
-Save the state of all GUI controls on application shutdown and then restore them loaded on application startup: It can load/save: form's position, checkboxes, radiobuttons, etc, etc
-
 * [GMLib](https://code.google.com/p/gmlibrary) (Google Maps Library) (seems abandoned, active fork on GH [here](https://github.com/bero/GMLibrary) and [here](https://github.com/cadetill/gmlib_v1)). `[Delphi]` Components for Delphi/C++ Builder that encapsulate the GoogleMaps API to administrate a map, markers, polygons, rectangles, polylines, etc. All objects that you can put into a map.
 
 * [VCL Styles Utils](https://github.com/rruz/vcl-styles-utils). `[Delphi]` Collection of classes and style hooks, which extend, fix QC reports and add new features to the VCL Styles.
@@ -543,6 +539,8 @@ Save the state of all GUI controls on application shutdown and then restore them
 * [Dam](https://github.com/digao-dalpiaz/Dam). `[Delphi]` `[FPC]` Delphi and Lazarus Message Dialogs with Formatted Text.
 
 * [Windows 7 Taskbar Components](https://delphi.fsprolabs.com/). `[Delphi]` One of the most notable feature in Windows 7 is a new Windows taskbar. It offers a new way of controlling your desktop, managing your windows, and launching applications.
+
+* [GUI AutoSave](https://github.com/GodModeUser/Dephi-LightSaber-GUI_AutoSave) Save the state of all GUI controls on application shutdown and then restore them loaded on application startup: It can load/save: form's position, checkboxes, radiobuttons, etc, etc
 
 
 ## Database ##
@@ -598,6 +596,8 @@ Save the state of all GUI controls on application shutdown and then restore them
 * [iORM](https://github.com/mauriziodm/iORM). `[Delphi]`  Delphi ORM interface based useful to develop desktop and mobile application.
 
 * [d-ORModel](https://github.com/ultraware/d-ORModel). `[Delphi]` ORM for Delphi, based on models and object fields. LINQ support, fully typed and compile time checks.
+
+* [Trysil](https://github.com/davidlastrucci/Trysil) [Delphi] ORM (Object-Relational Mapping) for Delphi. Supports for SQLServer, FirebirdSQL and SQLite.
 
 
 ## Scripting ##
@@ -829,8 +829,6 @@ Save the state of all GUI controls on application shutdown and then restore them
 
 ## Logging
 
-* [LogLib](https://github.com/GodModeUser/Delphi-LightSaber-LogLib). `[Delphi]` A simple but effective visual log control/library. The programmer can send messages to a log window from anywhere in his code. The Log window can be set to automatically pop up when an error message is sent to it. Depending on the chosen verbosity level of the log (see the Verbosity property) low-level messages (like verbose/debug messages) are shown or not. Contains: Non-visual log (TRamLog) Visual log (TRichLog)
-
 * [Log4d](https://github.com/landrix/Log4d-for-Delphi). `[Delphi]` `[FPC]` Implementation of logging system for Delphi, based on Log4j.
 
 * [TraceTool](http://tracetool.sourceforge.net/). `[Delphi]` C#, C++, Delphi, ActiveX and Java trace framework and a trace viewer.
@@ -846,6 +844,9 @@ Save the state of all GUI controls on application shutdown and then restore them
 * [QuickLogger](https://github.com/exilon/QuickLogger). `[Delphi]` `[FPC]` Delphi/freepascal/.NET (Windows/Linux) library for logging on files, console, memory, email, rest, telegram, slack, eventlog, redis, ide debug messages and throw events..
 
 * [jachLog](https://github.com/jachguate/jachLogMgr). `[Delphi]` pure pascal, flexible, extensible and lightweight library to add logging capabilities to your Delphi applications. Multiple log destinations supported. The library supports multithreaded applications and is itself multithreaded to minimize the impact writing the log may have on the performance on mission critical applications.
+
+* [LogLib](https://github.com/GodModeUser/Delphi-LightSaber-LogLib). `[Delphi]` A simple but effective visual log control/library. The programmer can send messages to a log window from anywhere in his code. The Log window can be set to automatically pop up when an error message is sent to it. Depending on the chosen verbosity level of the log (see the Verbosity property) low-level messages (like verbose/debug messages) are shown or not. Contains: Non-visual log (TRamLog) Visual log (TRichLog)
+
 
 ## Math
 
@@ -977,12 +978,9 @@ Save the state of all GUI controls on application shutdown and then restore them
 * [Delphi LightSaber-CoreLib](https://github.com/GodModeUser/Delphi-LightSaber-CoreLib). `[Delphi]` Lightweight alternative to Jedi library.
 Simple, crystal clear, non-obfuscated, fully commented code. No external dependencies. Hundreds of super useful functions for file/folder/disk manipulation, fast (buffered) binary file access, string conversions, OS version detection, etc.
 
-* [Delphi LightSaber-LogLib](https://github.com/GodModeUser/Delphi-LightSaber-LogLib). `[Delphi]` A simple but effective visual log control/library.
-The programmer can send messages to the log that will be shown or not, depending on the chousen verbosity level of the log (see Verbosity property). Each verbosity level has a predefined color.
-
-* [Delphi LightSaber-GUI AutoSave](https://github.com/GodModeUser/GUI-AutoSave). `[Delphi]` Save the state of all GUI controls (checkboxes, etc) on application shutdown and then restore them loaded on application startup. All these with just two function: SaveForm() and LoadForm().
-
 * [LAMW](https://github.com/jmpessoa/lazandroidmodulewizard). `[FPC]` Lazarus Android Module Wizard to create JNI Android loadable module (.so) and Android Apk using Lazarus/Free Pascal.
+
+* [DCContainers](https://github.com/dsapolska/dccontainers). `[Delphi]` Containers library with maps and sets based on red-black tree
 
 
 ## OS ##
