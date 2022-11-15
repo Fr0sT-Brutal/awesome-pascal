@@ -386,6 +386,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [TComPort](https://sourceforge.net/projects/comport). `[Delphi]` Delphi/C++ Builder serial communications components. It is generally easy to use for basic Serial Communications purposes.
 // *Seems abandoned since 2011*
 
+* [ComPortDriver] (https://github.com/MHumm/ComPortDriver). '[Delphi]' Delphi/C++ Builder serial communications component. Tested up to 921600 baud. Supports sending break as well. Works asynchronously by polling via timer (interval configurable). Demo included. 
+
 
 ## GUI ##
 
