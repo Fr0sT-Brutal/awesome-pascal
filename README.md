@@ -379,6 +379,14 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [delphizmq](https://github.com/bvarga/delphizmq). `[Delphi]` `[FPC]` This is a binding for ZeroMQ. Should work with Delphi7+ versions and with FPC 2.6.0. The package contains a wrapper (zmq.pas), and a higher level api (zmqapi.pas). It should work with ZMQ 2.2.x, and with 3.2.x. For version 2.2.x undefine zmq3, in zmq.inc. The dll's are not part of this repo, you can download the appropriate from the official distro, and rename it to libzmq.dll.
 
+* [xxm](https://github.com/stijnsanders/xxm) `[Delphi]` xxm enables you to create dynamic websites in Delphi, combining both Delphi and HTML in the source files. The project is compiled into a module, ready for use by a pluggable protocol handler in Internet Explorer, an ISAPI Extension, an Apache module, with HTTPAPI, with CGI or SCGI, or a stand-alone HTTP server.
+
+* [WebSocket Component for Delphi](https://bitbucket.org/freeonterminate/websocket/src/master/) `[Delphi]` WebSocket Component for Delphi, platforms: Windows / macOS / Linux (Maybe iOS, Android)
+
+* [Bird Socket Server](https://github.com/mateusvicente100/bird-socket-server) `[Delphi]` This is a websocket server for Delphi.
+
+* [RealThinClient SDK](https://github.com/teppicom/RealThinClient-SDK/). `[Delphi]` RealThinClient SDK is a flexible and modular framework for building reliable and scalable cross-platform Applications with Delphi, designed for the Web by utilizing HTTP/S with full IPv4 & IPv6 support and built-in multi-threading, extensively stress-tested to ensure the highest stability
+
 
 ## Serial port
 
@@ -426,6 +434,9 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [DDuce](https://github.com/beNative/dduce). `[Delphi]` Components, modules, extensions and primitives using Delphi new language features like operator overloading, attributes, generics, anonymous methods and extended RTTI providing some new powerful tools to extend the developer's creativity.
 // *Property editors, grids, XML Tree, etc*
+
+* [liblcl](https://github.com/ying32/liblcl). `[FPC]` A common cross-platform GUI library, the core uses Lazarus LCL.
+// *Pascal-based lib with GUI bindings for use in languages like C++, Go, Rust.*
 
 
 ## Single controls
@@ -757,6 +768,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [THTMLWriter](https://github.com/NickHodges/delphihtmlwriter). `[Delphi]` Class library that enables the developer to create HTML and HTML documents. It uses the fluent interface to make creating HTML text easy and natural.
 
+* [Neon](https://github.com/paolo-rossi/delphi-neon) `[Delphi]` Serialization library for Delphi that helps you to convert (back and forth) objects and other values to JSON. It supports simple Delphi types but also complex class and records. Neon has been designed with REST in mind, to exchange pure data between applications with no "metadata" or added fields
+
 
 ## Language
 
@@ -808,6 +821,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [ezthreads](https://github.com/mr-highball/ezthreads). `[FPC]` simple to use threading library
 
 * [AsyncCalls](https://github.com/ahausladen/AsyncCalls). `[Delphi]` Asynchronous function call framework
+
+* [Storage Access Framework SAF](https://github.com/emozgun/delphi-android-SAF) `[Delphi]` Android Scoped Storage : Storage Access Framework SAF API
 
 
 ## Template
@@ -949,6 +964,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [GS.Core](https://github.com/VincentGsell/GS.Core). `[Delphi]` `[FPC]` Core functions shared by several projects.
 // *Thread Pool, file operations, Key<>Value database, JSON lib, etc*
+
 * [PascalTZ](https://github.com/dezlov/PascalTZ). `[FPC]` Pascal Time Zone allows you to convert between local times in various time zones and GMT/UTC, taking into account historical changes to time zone rules.
 
 * [Charset Enigma](https://github.com/ms301/charset-enigma). `[Delphi]` Delphi charset detector Community Edition
@@ -975,12 +991,13 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [CocinAsync](https://bitbucket.org/sivv/cocinasync). `[Delphi]` High performance library for Delphi to simplify coding and improve performance of asynchronous and multithreaded applications.
 
-* [Delphi LightSaber-CoreLib](https://github.com/GodModeUser/Delphi-LightSaber-CoreLib). `[Delphi]` Lightweight alternative to Jedi library.
-Simple, crystal clear, non-obfuscated, fully commented code. No external dependencies. Hundreds of super useful functions for file/folder/disk manipulation, fast (buffered) binary file access, string conversions, OS version detection, etc.
+* [Delphi LightSaber-CoreLib](https://github.com/GodModeUser/Delphi-LightSaber-CoreLib). `[Delphi]` Lightweight alternative to Jedi library. Simple, crystal clear, non-obfuscated, fully commented code. No external dependencies. Hundreds of super useful functions for file/folder/disk manipulation, fast (buffered) binary file access, string conversions, OS version detection, etc.
 
 * [LAMW](https://github.com/jmpessoa/lazandroidmodulewizard). `[FPC]` Lazarus Android Module Wizard to create JNI Android loadable module (.so) and Android Apk using Lazarus/Free Pascal.
 
 * [DCContainers](https://github.com/dsapolska/dccontainers). `[Delphi]` Containers library with maps and sets based on red-black tree
+
+* [DOSCommand](https://github.com/TurboPack/DOSCommand). `[Delphi]` Component lets you execute a dos program (exe, com or batch file) and catch the ouput in order to put it in a memo or in a listbox, ... You can also send inputs.
 
 
 ## OS ##
@@ -1133,6 +1150,8 @@ Simple, crystal clear, non-obfuscated, fully commented code. No external depende
 * [Delphi IDE theme editor / Delphi IDE Colorizer](#rad-studio-ide-pluginswizards). Supports Appmethod, Lazarus and Smart Mobile Studio.
 
 * [Pascal](https://github.com/alefragnani/vscode-language-pascal) and [Pascal Formatter](https://github.com/alefragnani/vscode-pascal-formatter). Open source extensions created for Visual Studio Code that add Pascal support.
+
+* [Intellij IDEA Object Pascal plugin](https://github.com/casteng/i-pascal) `[Delphi]` `[FPC]` A free Object Pascal language plugin for IntelliJ IDEA
 
 
 ## Documentation
