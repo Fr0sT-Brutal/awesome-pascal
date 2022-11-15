@@ -962,8 +962,13 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [CocinAsync](https://bitbucket.org/sivv/cocinasync). `[Delphi]` High performance library for Delphi to simplify coding and improve performance of asynchronous and multithreaded applications.
 
-* [Delphi LightSaber](https://github.com/GodModeUser/Delphi-LightSaber). `[Delphi]` Lightweight alternative to Jedi library.
-Simple, crystal clear, non-obfuscated, fully commented code. No external dependencies.  Hundreds of super useful functions for file/folder/disk manipulation, fast (buffered) binary file access, string conversions, OS version detection, etc.
+* [Delphi LightSaber-CoreLib](https://github.com/GodModeUser/Delphi-LightSaber-CoreLib). `[Delphi]` Lightweight alternative to Jedi library.
+Simple, crystal clear, non-obfuscated, fully commented code. No external dependencies. Hundreds of super useful functions for file/folder/disk manipulation, fast (buffered) binary file access, string conversions, OS version detection, etc.
+
+* [Delphi LightSaber-LogLib](https://github.com/GodModeUser/Delphi-LightSaber-LogLib). `[Delphi]` A simple but effective visual log control/library.
+The programmer can send messages to the log that will be shown or not, depending on the chousen verbosity level of the log (see Verbosity property). Each verbosity level has a predefined color.
+
+* [Delphi LightSaber-GUI AutoSave](https://github.com/GodModeUser/GUI-AutoSave). `[Delphi]` Save the state of all GUI controls (checkboxes, etc) on application shutdown and then restore them loaded on application startup. All these with just two function: SaveForm() and LoadForm().
 
 * [LAMW](https://github.com/jmpessoa/lazandroidmodulewizard). `[FPC]` Lazarus Android Module Wizard to create JNI Android loadable module (.so) and Android Apk using Lazarus/Free Pascal.
 
