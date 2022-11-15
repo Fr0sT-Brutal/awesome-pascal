@@ -136,6 +136,11 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 *Image files, free drawing, barcodes etc. There are also some drawing engines in [Game dev](#game-dev) section*
 
+* [ImageQuality](https://github.com/GodModeUser/ImageQuality). `[Delphi]` `[FPC]` A library for objectively measuring image/video quality.
+It implements many popular algorithms, such as MS-SSIM, MS-SSIM*, SIMM, MSE, and PSNR.
+It is designed to be fast, accurate, and reliable. It can be compiled directly and requires no additional libraries.  
+
+
 * [Graphics32](https://github.com/graphics32/graphics32). `[Delphi]` `[FPC]` Designed for fast 32-bit graphics handling on Delphi, Kylix and Lazarus. Optimized for 32-bit pixel formats, it provides fast operations with pixels and graphic primitives, and in most cases Graphics32 outperforms the standard TCanvas classes. It is almost a hundred times faster in per-pixel access and about 2-5 times faster in drawing lines.
 
 * [GraphicEx](https://github.com/mike-lischke/GraphicEx). `[Delphi]` Addendum to Delphi's Graphics.pas to enable your application to load many common image formats. This library is primarily designed to load images as background (buttons, forms, toolbars) and textures (DirectX, OpenGL) or for image browsing and editing purposes as long as you don't need to save images.
@@ -499,6 +504,9 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 ## Other GUI
 
+* [GUI AutoSave](https://github.com/GodModeUser/Dephi-LightSaber-GUI_AutoSave) 
+Save the state of all GUI controls on application shutdown and then restore them loaded on application startup: It can load/save: form's position, checkboxes, radiobuttons, etc, etc
+
 * [GMLib](https://code.google.com/p/gmlibrary) (Google Maps Library) (seems abandoned, active fork on GH [here](https://github.com/bero/GMLibrary) and [here](https://github.com/cadetill/gmlib_v1)). `[Delphi]` Components for Delphi/C++ Builder that encapsulate the GoogleMaps API to administrate a map, markers, polygons, rectangles, polylines, etc. All objects that you can put into a map.
 
 * [VCL Styles Utils](https://github.com/rruz/vcl-styles-utils). `[Delphi]` Collection of classes and style hooks, which extend, fix QC reports and add new features to the VCL Styles.
@@ -818,6 +826,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 
 ## Logging
+
+* [LogLib](https://github.com/GodModeUser/Delphi-LightSaber-LogLib). `[Delphi]` A simple but effective visual log control/library. The programmer can send messages to a log window from anywhere in his code. The Log window can be set to automatically pop up when an error message is sent to it. Depending on the chosen verbosity level of the log (see the Verbosity property) low-level messages (like verbose/debug messages) are shown or not. Contains: Non-visual log (TRamLog) Visual log (TRichLog)
 
 * [Log4d](https://github.com/landrix/Log4d-for-Delphi). `[Delphi]` `[FPC]` Implementation of logging system for Delphi, based on Log4j.
 
