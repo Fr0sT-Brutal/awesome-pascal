@@ -649,6 +649,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 *Machine learning and neural networks*
 
 * [noe](https://github.com/ariaghora/noe). `[FPC]` Framework to build neural networks in pure object pascal.
+* [CAI Neural API](https://github.com/joaopauloschuler/neural-api). `[FPC]` Pascal-based deep learning neural network API optimized for AVX, AVX2 and AVX512 instruction sets plus OpenCL capable devices including AMD, Intel and NVIDIA. This API has been tested under Windows and Linux.
 
 
 ## Non-visual Classes/Utils ##
