@@ -301,7 +301,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [Hprose for Delphi/Lazarus](https://github.com/hprose/hprose-delphi). `[Delphi]` `[FPC]` High Performance Remote Object Service Engine. It is a modern, lightweight, cross-language, cross-platform, object-oriented, high performance, remote dynamic communication middleware. It is not only easy to use, but powerful. This project is the implementation of Hprose for Delphi/Lazarus.
 
-* [TelegAPI](https://github.com/ms301/TelegAPI). `[Delphi]` Library for working with Telegram messenger Bot API in Delphi.
+* [TelegaPi](https://github.com/rareMaxim/TelegaPi). `[Delphi]` Library for working with Telegram messenger Bot API in Delphi.
 
 * [fp-telegram](https://github.com/Al-Muhandis/fp-telegram). `[FPC]` Library for working with Telegram bots API in FreePascal/Lazarus.
 
