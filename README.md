@@ -216,6 +216,10 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [DelphiX](http://www.micrel.cz/Dx/) `[Delphi]` `[FPC]` A good wrapper to DirectX. It can be used to create games or any kind of graphical interface.
 
+* [Blen2d4Delphi](https://github.com/fatihtsp/Blen2d4Delphi). `[Delphi]` Blend2D is a high performance 2D vector graphics engine written in C++ and released under the Zlib license. The engine utilizes a built-in JIT compiler to generate optimized pipelines at runtime and is capable of using multiple threads to boost the performance beyond the possibilities of single-threaded rendering.
+
+* [Delphi wrapper for libdmtx](https://github.com/JanOosting/delphidmtx). `[Delphi]` Libdmtx is a software library that enables programs to read and write Data Matrix barcodes of the modern ECC200 variety. The library runs natively on several platforms and can be accessed by multiple languages using the libdmtx language wrappers
+
 
 ## Game dev ##
 
@@ -289,7 +293,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [delphi-slackbot](https://github.com/monde-sistemas/delphi-slackbot). `[Delphi]` Delphi library to send messages on [Slack](https://slack.com) using slackbot.
 
-* [Kitto](https://github.com/EtheaDev/kitto). `[Delphi]` Allows to create Rich Internet Applications based on a data model that can be mapped onto any database. The client-side part uses ExtJS (through the ExtPascal library) to create a fully AJAX application, allowing you to build standard and advanced data-manipulating forms in a fraction of the time. Kitto is aimed at Delphi developers that need to create web application without delving into the intricacies of HTML, CSS, JavaScript or learning to use a particular library such as ExtJS, yet it allows access to the bare metal if required.
+* [Kitto](https://github.com/EtheaDev/kitto). `[Delphi]` Allows to create Rich Internet Applications based on a data model that can be mapped onto any database. The client-side part uses ExtJS (through the ExtPascal library) to create a fully AJAX application, allowing you to build standard and advanced data-manipulating forms in a fraction of the time. Kitto is aimed at Delphi developers that need to create web application without delving into the intricacies of HTML, CSS, JavaScript or learning to use a particular library such as ExtJS, yet it allows access to the bare metal if required. Also newer versions [Kitto 2](https://github.com/EtheaDev/kitto2) and [Kitto 3](https://github.com/EtheaDev/kitto3) are available.
 
 * [Daraja Framework](https://github.com/michaelJustin/daraja-framework). `[Delphi]` `[FPC]` Lightweight HTTP server framework for Object Pascal (Delphi 2009+ / Free Pascal 3.0). Implementing RESTful services is supported via the [daraja-restful](https://github.com/michaelJustin/daraja-restful) extension.
 
@@ -400,6 +404,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [JabberClient](https://github.com/HemulGM/HGMJabberClient). `[Delphi]` Jabber Client. XMPP protocol
 
+* [libssh2 Delphi](https://github.com/pult/libssh2_delphi). `[Delphi]` `[FPC]` Delphi/Pascal Wrapper around the library libssh2, ssh and sftp protocols
 
 
 ## Serial port
@@ -413,6 +418,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 // *Seems abandoned since 2011*
 
 * [ComPortDriver] (https://github.com/MHumm/ComPortDriver). '[Delphi]' Delphi/C++ Builder serial communications component. Tested up to 921600 baud. Supports sending break as well. Works asynchronously by polling via timer (interval configurable). Demo included.
+
+* [ComPort Library](https://github.com/CWBudde/ComPort-Library). `[Delphi]` COM Port Library for Delphi (fork from SourceForge) . The ComPort Library contains code to access COM Ports. Originally, the COM port was the name of the serial port interface of IBM-PC compatible computers. While nowadays COM ports get less important for communication in favor for USB access, it is still in use as virtual ports, especially as simple communication protocol for maker boards.
 
 
 ## GUI ##
@@ -626,6 +633,9 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [Trysil](https://github.com/davidlastrucci/Trysil) [Delphi] ORM (Object-Relational Mapping) for Delphi. Supports for SQLServer, FirebirdSQL and SQLite.
 
+* [SQLite for Delphi and FreePascal/Lazarus](https://github.com/plashenkov/SQLite3-Delphi-FPC). `[Delphi]` `[FPC]` Complete SQLite3 API translation for Delphi and FreePascal/Lazarus, as well as a simple Unicode-enabled object wrapper to simplify the use of this database engine.
+
+
 
 ## Scripting ##
 
@@ -722,6 +732,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [CryptoLib4Pascal](https://github.com/Xor-el/CryptoLib4Pascal). `[Delphi]` `[FPC]` Object Pascal cryptographic library released under the permissive MIT License. Ciphers: AES (128, 192, and 256), Rijndael, Blowfish, Speck, ChaCha, (X)Salsa20, DSA, (DET)ECDSA (supported curves: NIST, X9.62, SEC2, Brainpool), ECNR, ECSchnorr, EdDSA (Ed25519, Ed25519Blake2B)
 
+* [Pascal wrapper for RHash](https://github.com/jackdp/LibRHash4P). `[Delphi]` `[FPC]` RHash is a console application for calculating various check- and hashsums, including CRC32, CRC32C, MD4, MD5, SHA1, SHA256, SHA512, SHA3, AICH, ED2K, DC++ TTH, BitTorrent BTIH, Tiger, GOST R 34.11-94, GOST R 34.11-2012, RIPEMD-160, HAS-160, EDON-R, and Whirlpool. RHash is written in C and is really very fast. LibRHash is a library that "drives" the RHash and can be compiled into a separate DLL or SO library file.
 
 ## XML/JSON/YAML/HTML
 
@@ -1022,6 +1033,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [TDiff](https://github.com/rickard67/TextDiff). `[Delphi]` `[FPC]` Text compare component for Delphi and Free Pascal. Dramatically simplify programming tasks that require calculations of 'shortest path' or 'longest common sequence' as typically required in file compare utilities.
 
+* [iPub Messaging](https://github.com/viniciusfbb/ipub-messaging). `[Delphi]` Thread safe, asynchronous and simplistic messaging system for communication between classes / layers in delphi created by the iPub team.
 
 ## OS ##
 
@@ -1052,6 +1064,10 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [ActiveDirectory4Delphi](https://github.com/EdZava/VCL-ActiveDirectory4Delphi). `[Delphi]` Delphi basic library for validation and authentication of LDAP users in Active Directory.
 
+* [SVGShellExtensions](https://github.com/EtheaDev/SVGShellExtensions). `[Delphi]` Shell extensions for SVG files (Preview Panel, Thumbnail Icon, SVG Editor)
+
+* [MarkdownShellExtensions](https://github.com/EtheaDev/MarkdownShellExtensions). `[Delphi]` Markdown file Shell Extensions for Windows Explorer plus a Markdown file editor with instant preview
+
 
 ## Report generating ##
 
@@ -1060,6 +1076,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [FortesReport](https://github.com/fortesinformatica/fortesreport-ce). `[Delphi]` The FortesReport is a powerful report generator available as a package of components for Delphi.
 
 * [mORMotReport](https://github.com/synopse/mORMot/blob/master/SQLite3/mORMotReport.pas) ([docs](http://synopse.info/files/html/api-1.18/mORMotReport.html)). `[Delphi]` Fast and efficient code-based reporting component, with preview form and PDF export.
+
+* [Kryvich's Delphi Reporter](https://github.com/Kryuski/kryvich-delphi-reporter). `[Delphi]` Simple but powerful reporting tool for Embarcadero's (CodeGear, Borland) Delphi. It generates reports in TXT, RTF, HTML and XML formats based on custom templates and information from any TDataSet compatible data sets.
 
 
 ## Unit Testing ##
