@@ -117,6 +117,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [Delphi-BASS](https://github.com/TDDung/Delphi-BASS). `[Delphi]` Delphi's FMX and VCL header/wrapper units for [BASS](https://www.un4seen.com) audio library plus add-ons.
 
+* [FMXAudio](https://github.com/HemulGM/FMXAudio). `[Delphi]` Audio player component based [BASS](https://www.un4seen.com) for FMX (Windows, Android)
+
 
 ## Video
 
@@ -378,15 +380,26 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [NamedPipeExchange](https://github.com/kami-soft/NamedPipeExchange). `[Delphi]` Server and client classes for communication via named pipes. Based on
 [FWIOCompletionPipes](http://rouse.drkb.ru/network.php#fwiocompletionpipe) unit.
 
-* [delphizmq](https://github.com/bvarga/delphizmq). `[Delphi]` `[FPC]` This is a binding for ZeroMQ. Should work with Delphi7+ versions and with FPC 2.6.0. The package contains a wrapper (zmq.pas), and a higher level api (zmqapi.pas). It should work with ZMQ 2.2.x, and with 3.2.x. For version 2.2.x undefine zmq3, in zmq.inc. The dll's are not part of this repo, you can download the appropriate from the official distro, and rename it to libzmq.dll.
+* [delphizmq](https://github.com/bvarga/delphizmq). `[Delphi]` `[FPC]` Binding for ZeroMQ. Should work with Delphi7+ versions and with FPC 2.6.0. The package contains a wrapper (zmq.pas), and a higher level api (zmqapi.pas). It should work with ZMQ 2.2.x, and with 3.2.x. For version 2.2.x undefine zmq3, in zmq.inc. The dll's are not part of this repo, you can download the appropriate from the official distro, and rename it to libzmq.dll.
 
-* [xxm](https://github.com/stijnsanders/xxm) `[Delphi]` xxm enables you to create dynamic websites in Delphi, combining both Delphi and HTML in the source files. The project is compiled into a module, ready for use by a pluggable protocol handler in Internet Explorer, an ISAPI Extension, an Apache module, with HTTPAPI, with CGI or SCGI, or a stand-alone HTTP server.
+* [xxm](https://github.com/stijnsanders/xxm) `[Delphi]` Library enables you to create dynamic websites in Delphi, combining both Delphi and HTML in the source files. The project is compiled into a module, ready for use by a pluggable protocol handler in Internet Explorer, an ISAPI Extension, an Apache module, with HTTPAPI, with CGI or SCGI, or a stand-alone HTTP server.
 
 * [WebSocket Component for Delphi](https://bitbucket.org/freeonterminate/websocket/src/master/) `[Delphi]` WebSocket Component for Delphi, platforms: Windows / macOS / Linux (Maybe iOS, Android)
 
-* [Bird Socket Server](https://github.com/mateusvicente100/bird-socket-server) `[Delphi]` This is a websocket server for Delphi.
+* [Bird Socket Server](https://github.com/mateusvicente100/bird-socket-server) `[Delphi]` Websocket server for Delphi.
 
-* [RealThinClient SDK](https://github.com/teppicom/RealThinClient-SDK/). `[Delphi]` RealThinClient SDK is a flexible and modular framework for building reliable and scalable cross-platform Applications with Delphi, designed for the Web by utilizing HTTP/S with full IPv4 & IPv6 support and built-in multi-threading, extensively stress-tested to ensure the highest stability
+* [RealThinClient SDK](https://github.com/teppicom/RealThinClient-SDK/). `[Delphi]` Flexible and modular framework for building reliable and scalable cross-platform Applications with Delphi, designed for the Web by utilizing HTTP/S with full IPv4 & IPv6 support and built-in multi-threading, extensively stress-tested to ensure the highest stability
+
+* [Ntfy for Delphi](https://github.com/hazzelnuts/ntfy-for-delphi). `[Delphi]` Friendly library to push instant notifications using ntfy.sh servers in Delphi
+
+* [DelphiOpenAI](https://github.com/HemulGM/DelphiOpenAI). `[Delphi]` OpenAI GPT-3 API for Delphi
+
+* [IPInfo API](https://github.com/HemulGM/IPInfo_API). `[Delphi]` Wrapper for IP Info API service
+
+* [TGBot Mini API](https://github.com/HemulGM/TGBotMini). `[Delphi]` Fast and simple API for creating a Telegram bot
+
+* [JabberClient](https://github.com/HemulGM/HGMJabberClient). `[Delphi]` Jabber Client. XMPP protocol
+
 
 
 ## Serial port
@@ -554,6 +567,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [GUI AutoSave](https://github.com/GodModeUser/Dephi-LightSaber-GUI_AutoSave) Save the state of all GUI controls on application shutdown and then restore them loaded on application startup: It can load/save: form's position, checkboxes, radiobuttons, etc, etc
 
+* [FMXTrayIcon](https://github.com/HemulGM/FMXTrayIcon). `[Delphi]` TrayIcon for FMX Windows
+
 
 ## Database ##
 
@@ -651,7 +666,12 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 *Machine learning and neural networks*
 
 * [noe](https://github.com/ariaghora/noe). `[FPC]` Framework to build neural networks in pure object pascal.
+
+* [Keras4Delphi](https://github.com/Pigrecos/Keras4Delphi). `[Delphi]` High-level neural networks API, written in Pascal with Python Binding
+
 * [CAI Neural API](https://github.com/joaopauloschuler/neural-api). `[FPC]` Pascal-based deep learning neural network API optimized for AVX, AVX2 and AVX512 instruction sets plus OpenCL capable devices including AMD, Intel and NVIDIA. This API has been tested under Windows and Linux.
+
+* [TensorFlow.Delphi](https://github.com/Pigrecos/TensorFlow.Delphi). `[Delphi]` [TensorFlow](https://tensorflow.org) library binding for Delphi. It aims to implement the complete Tensorflow API in Delphi which allows Pascal developers to develop, train and deploy Machine Learning models with the Pascal Delphi
 
 
 ## Non-visual Classes/Utils ##
@@ -681,7 +701,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [SynCrypto](https://github.com/synopse/mORMot/blob/master/SynCrypto.pas). `[Delphi]` `[FPC]` Fast cryptographic routines (hashing and cypher), implementing AES, XOR, RC4, ADLER32, MD5, SHA1, SHA256 algorithms, optimized for speed (tuned assembler and VIA PADLOCK optional support).
 
-* [TForge](https://github.com/sergworks/tforge). `[Delphi]` `[FPC]` Open-source crypto library written in Delphi, compatible with Free Pascal Compiler. MD5, SHA1, SHA256, CRC32, Jenkins-One-At-Time, HMAC, PBKDF1, PBKDF2, AES, DES, RC4, RC5, Salsa20.
+* [TForge](https://github.com/sergworks/tforge) (Seems abandoned, [Newer fork](https://github.com/ElminsterAU/tforge)). `[Delphi]` `[FPC]` Open-source crypto library written in Delphi, compatible with Free Pascal Compiler. MD5, SHA1, SHA256, CRC32, Jenkins-One-At-Time, HMAC, PBKDF1, PBKDF2, AES, DES, RC4, RC5, Salsa20.
 // *Code is in `porting` branch*
 
 * [Spring4D](#general-libraries). CRC, DES, MD5, SHA
@@ -938,8 +958,6 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [CachedTexts](https://github.com/d-mozulyov/CachedTexts). `[Delphi]` `[FPC]` Powerful and compact cross-platform library aimed at parsing and generating of text data with the maximum possible performance. Depends on the two other libraries: CachedBuffers and UniConv.
 
-* [TDiff](https://github.com/rickard67/TextDiff). `[Delphi]` `[FPC]` Text compare component for Delphi and Free Pascal. Dramatically simplify programming tasks that require calculations of 'shortest path' or 'longest common sequence' as typically required in file compare utilities.
-
 * [ZEXMLSS](https://github.com/Avemey/zexmlss). `[Delphi]` `[FPC]` Lazarus/Delphi component for read/write ods, excel xml, xlsx.
 
 * [PasMP](https://github.com/BeRo1985/pasmp). `[Delphi]` `[FPC]` Parallel-processing/multi-processing library for Object Pascal.
@@ -982,8 +1000,6 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [Rapid.Generics](https://github.com/d-mozulyov/Rapid.Generics). `[Delphi]` Rapid generics/defaults equivalent classes for Delphi (XE8+)
 
-* [Keras4Delphi](https://github.com/Pigrecos/Keras4Delphi). `[Delphi]` High-level neural networks API, written in Pascal with Python Binding
-
 * [TZDB](https://github.com/pavkam/tzdb). `[Delphi]` `[FPC]` IANA Time Zone Database for Delphi/FreePascal
 
 * [PascalUtils](https://github.com/isemenkov/pascalutils). `[Delphi]` `[FPC]` Delphi and object pascal library of utils data structures
@@ -1003,6 +1019,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [DCContainers](https://github.com/dsapolska/dccontainers). `[Delphi]` Containers library with maps and sets based on red-black tree
 
 * [DOSCommand](https://github.com/TurboPack/DOSCommand). `[Delphi]` Component lets you execute a dos program (exe, com or batch file) and catch the ouput in order to put it in a memo or in a listbox, ... You can also send inputs.
+
+* [TDiff](https://github.com/rickard67/TextDiff). `[Delphi]` `[FPC]` Text compare component for Delphi and Free Pascal. Dramatically simplify programming tasks that require calculations of 'shortest path' or 'longest common sequence' as typically required in file compare utilities.
 
 
 ## OS ##
@@ -1082,6 +1100,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [DebugEngine](https://github.com/MahdiSafsafi/DebugEngine). `[Delphi]` Collection of utilities related to debug stuff (stack trace, CPU registers snapshot, debug info, etc). Accessing Delphi debug info, Getting address of symbol from its name, Delphi map parsing and map converter to binary format, Smart stack trace, Delphi exception stack trace hook, etc.
 
 * [ObjectDebugger](https://github.com/marcocantu/ObjectDebugger). `[Delphi]` Run-time Object Inspector for Delphi VCL applications.
+
+* [Capstone4Delphi](https://github.com/Pigrecos/Capstone4Delphi). `[Delphi]` [Capstone Disassembler Library](http://www.capstone-engine.org/) Binding for Delphi
 
 
 ## Utilities ##
