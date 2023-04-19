@@ -20,6 +20,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 - [Communications](#communications)
 	- [Network](#network)
 	- [Serial port](#serial-port)
+	- [Event bus](#event-bus)
 - [GUI](#gui)
 	- [Control packs](#control-packs)
 	- [Single controls](#single-controls)
@@ -258,7 +259,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [Ray4Laz](https://github.com/GuvaCode/Ray4Laz). `[FPC]` A complete header translation (binding) of [raylib](https://www.raylib.com/) to Pascal.
 
 * [TurboRaylib](https://github.com/turborium/TurboRaylib). `[Delphi]` `[FPC]` TurboRaylib is a cool and clean [raylib](https://www.raylib.com/) bindings for Object Pascal. Support Windows, Linux, OSX. TurboRaylib have many examples that work in Delphi and Lazarus.
-  
+
 
 ## Communications ##
 
@@ -417,9 +418,24 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [TComPort](https://sourceforge.net/projects/comport). `[Delphi]` Delphi/C++ Builder serial communications components. It is generally easy to use for basic Serial Communications purposes.
 // *Seems abandoned since 2011*
 
-* [ComPortDriver] (https://github.com/MHumm/ComPortDriver). '[Delphi]' Delphi/C++ Builder serial communications component. Tested up to 921600 baud. Supports sending break as well. Works asynchronously by polling via timer (interval configurable). Demo included.
+* [ComPortDriver](https://github.com/MHumm/ComPortDriver). '[Delphi]' Delphi/C++ Builder serial communications component. Tested up to 921600 baud. Supports sending break as well. Works asynchronously by polling via timer (interval configurable). Demo included.
 
 * [ComPort Library](https://github.com/CWBudde/ComPort-Library). `[Delphi]` COM Port Library for Delphi (fork from SourceForge) . The ComPort Library contains code to access COM Ports. Originally, the COM port was the name of the serial port interface of IBM-PC compatible computers. While nowadays COM ports get less important for communication in favor for USB access, it is still in use as virtual ports, especially as simple communication protocol for maker boards.
+
+
+## Event bus
+
+*Communication inside project*
+
+* [PubSub Chimera](https://code.google.com/p/pubsubchimera). `[Delphi]` Open Source (MIT License) library for Delphi which provides a fast and cross platform PubSub and Message Queue implementation under a license that doesn't suck.
+
+* [Delphi Event Bus](https://github.com/spinettaro/delphi-event-bus) (for short DEB). `[Delphi]` Event Bus framework for Delphi.
+
+* [DelphiEventBus](https://github.com/BitecSPB/DelphiEventBus). `[Delphi]` Yet another Event Bus framework for Delphi, with annotations and rich event filtering.
+
+* [VSoft.Messaging](https://github.com/VSoftTechnologies/VSoft.Messaging). `[Delphi]` Libary that provides an internal synchronous/asynchronous publish/subscribe messaging system for Delphi applications.
+
+* [iPub Messaging](https://github.com/viniciusfbb/ipub-messaging). `[Delphi]` Thread safe, asynchronous and simplistic messaging system for communication between classes / layers in delphi created by the iPub team.
 
 
 ## GUI ##
@@ -679,6 +695,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [Keras4Delphi](https://github.com/Pigrecos/Keras4Delphi). `[Delphi]` High-level neural networks API, written in Pascal with Python Binding
 
+* [Marvin.IA](https://github.com/marvinbraga/Marvin.IA). `[Delphi]` Machine learning collection of object-oriented Pascal primitives (only interfaces and classes).
+
 * [CAI Neural API](https://github.com/joaopauloschuler/neural-api). `[FPC]` Pascal-based deep learning neural network API optimized for AVX, AVX2 and AVX512 instruction sets plus OpenCL capable devices including AMD, Intel and NVIDIA. This API has been tested under Windows and Linux.
 
 * [TensorFlow.Delphi](https://github.com/Pigrecos/TensorFlow.Delphi). `[Delphi]` [TensorFlow](https://tensorflow.org) library binding for Delphi. It aims to implement the complete Tensorflow API in Delphi which allows Pascal developers to develop, train and deploy Machine Learning models with the Pascal Delphi
@@ -837,6 +855,9 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [FastMM5](https://github.com/pleriche/FastMM5). `[Delphi]` Fast replacement memory manager for Embarcadero Delphi applications that scales well across multiple threads and CPU cores, is not prone to memory fragmentation, and supports shared memory without the use of external .DLL files. Version 5 is a complete rewrite of FastMM.
 
+* [Delphi64RTL](https://github.com/RDP1974/Delphi64RTL). `[Delphi]` Object Pascal wrappers from Intel Integrated Performance Primitives and Intel Threading Building Blocks royalty-free packages. Includes lock-free scalable allocator, simd enabled rtl subset routines (memory fill, copy, compare) and accelerated zlib compression
+// *Uses Intel DLLs for accelerated low-level memory manipulations*
+
 
 ## System
 
@@ -946,8 +967,6 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [StringSimilarity](https://github.com/chaosben/theunknownones). `[Delphi]` Package designed for some fuzzy and phonetic string comparison algorithms. So far implemented are the following algorithms: DamerauLevenshtein, Koelner Phonetik, SoundEx, Metaphone, DoubleMetaphone, NGram, Dice, JaroWinkler, NeedlemanWunch, SmithWatermanGotoh, MongeElkan.
 
-* [PubSub Chimera](https://code.google.com/p/pubsubchimera). `[Delphi]` Open Source (MIT License) library for Delphi which provides a fast and cross platform PubSub and Message Queue implementation under a license that doesn't suck.
-
 * [DuckDuckDelphi](https://code.google.com/p/duckduckdelphi). `[Delphi]` Adds simple duck typing to Delphi Objects and provides an RTTI helper class to simplify many common RTTI tasks.
 
 * [byterage](https://github.com/quartexNOR/byterage). `[Delphi]` Object pascal class library designed to remove some of the limitations of streams. The framework is very simple to use, with only one common ancestor class (TBRBuffer) which defines a set of storage agnostic mechanisms for allocating, scaling, inserting, deleting and otherwise manipulating a segment of raw binary data.
@@ -955,10 +974,6 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [stateless](https://github.com/SirRufo/stateless). `[Delphi]` Simple library for creating state machines in Delphi code.
 
 * [GenericTree](https://github.com/davidberneda/GenericTree). `[Delphi]` Delphi implementation of a generic Tree structure.
-
-* [Delphi Event Bus](https://github.com/spinettaro/delphi-event-bus) (for short DEB). `[Delphi]` Event Bus framework for Delphi.
-
-* [DelphiEventBus](https://github.com/BitecSPB/DelphiEventBus). `[Delphi]` Yet another Event Bus framework for Delphi, with annotations and rich event filtering.
 
 * [DHibernate](https://github.com/thecocce/delphi-hibernate). `[Delphi]` Object Persistent Framework based on Hibernate and NHibernate for Delphi.
 // *Abandoned since 2012*
@@ -990,8 +1005,6 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [HTMLBuilder](https://github.com/guitorres/htmlbuilder). `[Delphi]` Build simplified html with pascal code.
 
-* [Marvin.IA](https://github.com/marvinbraga/Marvin.IA). `[Delphi]` Machine learning collection of object-oriented Pascal primitives (only interfaces and classes).
-
 * [FreePascal Generics.Collections](https://github.com/maciej-izak/generics.collections). `[FPC]` FreePascal Generics.Collections library (TList, TDictionary, THashMap and more)
 
 * [FuzzyWuzzy.pas](https://github.com/DavidMoraisFerreira/FuzzyWuzzy.pas). `[FPC]` Port of the well-known Python fuzzy string matching package that uses the Levenshtein distance to compute differences between string sequences.
@@ -1017,8 +1030,6 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [libPasC-Algorithms](https://github.com/isemenkov/libpasc-algorithms). `[Delphi]` `[FPC]` Delphi and object pascal library of common data structures and algorithms. Library rewritten from c-algorithms repository and other sources.
 
-* [VSoft.Messaging](https://github.com/VSoftTechnologies/VSoft.Messaging). `[Delphi]` Libary that provides an internal synchronous/asynchronous publish/subscribe messaging system for Delphi applications.
-
 * [Delphi-Hunspell](https://github.com/darianmiller/Delphi-Hunspell). `[Delphi]` Simple [Hunspell](http://hunspell.github.io) spell checking engine wrapper for Delphi.
 
 * [CocinAsync](https://bitbucket.org/sivv/cocinasync). `[Delphi]` High performance library for Delphi to simplify coding and improve performance of asynchronous and multithreaded applications.
@@ -1032,8 +1043,6 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [DOSCommand](https://github.com/TurboPack/DOSCommand). `[Delphi]` Component lets you execute a dos program (exe, com or batch file) and catch the ouput in order to put it in a memo or in a listbox, ... You can also send inputs.
 
 * [TDiff](https://github.com/rickard67/TextDiff). `[Delphi]` `[FPC]` Text compare component for Delphi and Free Pascal. Dramatically simplify programming tasks that require calculations of 'shortest path' or 'longest common sequence' as typically required in file compare utilities.
-
-* [iPub Messaging](https://github.com/viniciusfbb/ipub-messaging). `[Delphi]` Thread safe, asynchronous and simplistic messaging system for communication between classes / layers in delphi created by the iPub team.
 
 ## OS ##
 
