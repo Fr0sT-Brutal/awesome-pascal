@@ -833,6 +833,7 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 * [Neon](https://github.com/paolo-rossi/delphi-neon) `[Delphi]` Serialization library for Delphi that helps you to convert (back and forth) objects and other values to JSON. It supports simple Delphi types but also complex class and records. Neon has been designed with REST in mind, to exchange pure data between applications with no "metadata" or added fields
 
+* [DynamicDataObjects](https://github.com/SeanSolberg/DynamicDataObjects). `[Delphi]` Class library that lets you model structured data and serialze to/from a variety of data serialization formats such as: CBOR, JSON, MessagePack, ION, UBJSON, BSON, Smile, DataObj, CSV, ICS, BinaryJData, etc.
 
 ## Language
 
