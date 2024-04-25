@@ -665,7 +665,7 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 ## Cloud Services ##
 
-* [Firebase/Firestore/Cloud Storage/VisionML](https://github.com/SchneiderInfosystems/FB4D) `[Delphi]` Free cross-platform library for Firebase Services (Google).
+* [Firebase Services for Delphi](https://github.com/SchneiderInfosystems/FB4D) `[Delphi]` Free cross-platform library for the following Firebase Services (Google): Firebase RT-DB, Firestore DB, Cloud Storage, VisionML, Firebase Authorization, Firebase Functions.
 
 ## Scripting ##
 
