@@ -29,6 +29,7 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 	- [Viewers](#viewers)
 	- [Other GUI](#other-gui)
 - [Database](#database)
+- [Cloud Services](#cloud-services)
 - [Scripting](#scripting)
 - [Machine Learning](#machine-learning)
 - [Non-visual Classes/Utils](#non-visual-classesutils)
@@ -658,11 +659,13 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 * [d-ORModel](https://github.com/ultraware/d-ORModel). `[Delphi]` ORM for Delphi, based on models and object fields. LINQ support, fully typed and compile time checks.
 
-* [Trysil](https://github.com/davidlastrucci/Trysil) [Delphi] ORM (Object-Relational Mapping) for Delphi. Supports for SQLServer, FirebirdSQL and SQLite.
+* [Trysil](https://github.com/davidlastrucci/Trysil) `[Delphi]` ORM (Object-Relational Mapping) for Delphi. Supports for SQLServer, FirebirdSQL and SQLite.
 
 * [SQLite for Delphi and FreePascal/Lazarus](https://github.com/plashenkov/SQLite3-Delphi-FPC). `[Delphi]` `[FPC]` Complete SQLite3 API translation for Delphi and FreePascal/Lazarus, as well as a simple Unicode-enabled object wrapper to simplify the use of this database engine.
 
+## Cloud Services ##
 
+* [Firebase/Firestore/Cloud Storage/VisionML](https://github.com/SchneiderInfosystems/FB4D) `[Delphi]` Free cross-platform library for Firebase Services (Google).
 
 ## Scripting ##
 
