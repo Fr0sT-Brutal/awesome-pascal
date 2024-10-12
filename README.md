@@ -394,6 +394,10 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 * [WebSocket Component for Delphi](https://bitbucket.org/freeonterminate/websocket/src/master/) `[Delphi]` WebSocket Component for Delphi, platforms: Windows / macOS / Linux (Maybe iOS, Android)
 
+* [WebSocket.pas](https://github.com/biot2/WebSocket.pas) `[Delphi]` `[FPC]` WebSocket Client & Server Library with pure Object Pascal source code
+
+* [nats.pas](https://github.com/biot2/nats.pas) `[Delphi]` `[FPC]` An Object Pascal Client for NATS based on libnats-c
+
 * [Bird Socket Server](https://github.com/mateusvicente100/bird-socket-server) `[Delphi]` Websocket server for Delphi.
 
 * [RealThinClient SDK](https://github.com/teppicom/RealThinClient-SDK/). `[Delphi]` Flexible and modular framework for building reliable and scalable cross-platform Applications with Delphi, designed for the Web by utilizing HTTP/S with full IPv4 & IPv6 support and built-in multi-threading, extensively stress-tested to ensure the highest stability
@@ -832,6 +836,8 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 * [THTMLWriter](https://github.com/NickHodges/delphihtmlwriter). `[Delphi]` Class library that enables the developer to create HTML and HTML documents. It uses the fluent interface to make creating HTML text easy and natural.
 
 * [Neon](https://github.com/paolo-rossi/delphi-neon) `[Delphi]` Serialization library for Delphi that helps you to convert (back and forth) objects and other values to JSON. It supports simple Delphi types but also complex class and records. Neon has been designed with REST in mind, to exchange pure data between applications with no "metadata" or added fields
+
+* [YAML/JSON ParserTools](https://github.com/biot2/ParserTools). `[Delphi]` `[FPC]` YAML and JSON parser, serializer and deserializer with YAML to JSON and vice versa conversion tools containing pure Object Pascal source code for both Delphi and Lazarus
 
 
 ## Language
