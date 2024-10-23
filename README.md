@@ -837,7 +837,7 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 * [Neon](https://github.com/paolo-rossi/delphi-neon) `[Delphi]` Serialization library for Delphi that helps you to convert (back and forth) objects and other values to JSON. It supports simple Delphi types but also complex class and records. Neon has been designed with REST in mind, to exchange pure data between applications with no "metadata" or added fields
 
-* [YAML/JSON ParserTools](https://github.com/biot2/ParserTools). `[Delphi]` `[FPC]` YAML and JSON parser, serializer and deserializer with YAML to JSON and vice versa conversion tools containing pure Object Pascal source code for both Delphi and Lazarus
+* [YAML/JSON ParserTools](https://github.com/biot2/Yaml.Json.Parser). `[Delphi]` `[FPC]` YAML and JSON parser, serializer and deserializer with YAML to JSON and vice versa conversion tools containing pure Object Pascal source code for both Delphi and Lazarus
 
 
 ## Language
