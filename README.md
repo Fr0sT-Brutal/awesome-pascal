@@ -907,6 +907,7 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 * [liquid-delphi](https://github.com/arimateia/liquid-delphi). `[Delphi]` Delphi port of the popular [Ruby Liquid templating language](https://shopify.github.io/liquid) and dotLiquid implementation. It is a separate project that aims to retain the same template syntax as the original, while using delphi coding conventions where possible.
 
+* [Simple Template Engine for Free Pascal](https://github.com/sash-rc/ste). `[FPC]` Fast engine to generate text (html, xml, or any markup) with tags/variables in Object/Free Pascal (probably delphi compatible). IF/ELSE blocks. FOR blocks (dataset iteration). Per-tag callbacks. Nested blocks.
 
 ## Logging
 
