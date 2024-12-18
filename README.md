@@ -54,7 +54,8 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 	- [Code check/review, debug](#code-checkreview-debug)
 	- [Setup](#setup)
 	- [Other](#other)
-
+- [BigData](#bigdata)
+  
 ---
 
 ## General Libraries ##
@@ -81,6 +82,8 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 * [mORMot](https://github.com/synopse/mORMot). `[Delphi]` `[FPC]` Client-Server ORM/ODM SOA MVC framework for Delphi 6 and higher, or FPC 2.7. Direct SQL/NoSQL database access, ORM/ODM over objects, RESTful ORM and SOA services via interfaces over high performance HTTP server, MVC/MVVM web sites, testing including mocks and stubs, logging, cryptography, compression, command line parser, threading, service/daemon support; huge documentation.
 
+* [Delphi LightSaber](https://github.com/GabrielOnDelphi/Delphi-LightSaber) `[Delphi]` A group of general-purpose Delphi libraries, that make your life easier. The library also wants to be a lightweight replacement for the mammoth Delphi Jedi library. Simple, crystal clear, non-obfuscated, fully commented and curated code. No (direct) external dependencies. More than 15 years of development have been put in this library.
+
 * [MARS - Curiosity](https://github.com/andrea-magni/MARS). `[Delphi]` Delphi REST Library. Pure REST approach, standard concepts in a familiar Delphi flavor (including a component based client library). Known compatibility: Delphi versions from XE to 10 Seattle. Some functionalities requires FireDAC.
 
 * [ADAPT](https://github.com/LaKraven/ADAPT). `[Delphi]` Advanced Developer Async Programming Toolkit, foundation library intended to be used at the heart of your projects for the purpose of providing extremely powerful, multi-threaded (and thread-safe) capabilities. Event Engine - a very powerful system for producing Multi-Threaded, Asynchronous and Event-Driven programs. Generics Collections - highly efficient Collection Types (Lists, Trees, Maps etc.). Math Library - a library for Unit Conversion, special calculation and other useful mathematics routines. Package Engine - extension of the Streamables Engine supporting the packaging of files together (a VFS of sorts). Shared Streams Library - 100% Thread-Safe Stream Classes (Interfaced too) allowing read/write from multiple Threads. Stream Handling Library - makes working with Streams much easier! Handles Deleting, Inserting, Reading and Writing data.
@@ -100,8 +103,11 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 * [minilib](https://github.com/parmaja/minilib). `[Delphi]` `[FPC]` cross platform library, Socket wrapper (include SSL and TLS), and Database connection (SQLite, PostgreSQL, FirebirdSQL, MariaDB), XML reader and writer, ComPort (COM1, COM2 etc).
 
-* [Fido Library](https://github.com/mirko-bianco/FidoLib). `[Delphi]` The Fido library has been created to make the life of a Delphi developer easier by following the "describe behavior instead of coding it, whenever is possible" design principle. Below is a list of the most important core features: Mappers, JSON marshalling and unmarshalling, Virtual database features, Virtual Api clients, Virtual Api servers, Websockets, Consul and Fabio support, Boxes, Events driven architecture, Functional programming, Currying, Caching, Channels
+* [Fido Library](https://github.com/mirko-bianco/FidoLib). `[Delphi]` Simplify programmer's life by following the "describe behavior instead of coding it, whenever is possible" design principle. Below is a list of the most important core features: Mappers, JSON marshalling and unmarshalling, Virtual database features, Virtual Api clients, Virtual Api servers, Websockets, Consul and Fabio support, Boxes, Events driven architecture, Functional programming, Currying, Caching, Channels
 
+* [Fix SetFocus](https://github.com/GabrielOnDelphi/Delphi_Fix_SetFocus). `[Delphi]` SetFocus is broken in Delphi. Try to set focus on a visual control that is disabled or is invisible or simply is not focusable, and the program will crash. This tool does a batch replace to replace Delphi’s SetFocus with a safer alternative.
+
+* [Mouse-Digger](https://github.com/GabrielOnDelphi/Mouse-Digger). `[Delphi]` A tool that shows the class name of the component under mouse. Useful when you debug a laaaaarge program that has thousands of components, especially ones created dynamically. 
 
 ## Multimedia ##
 
@@ -157,6 +163,8 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 * [Synopse PDF](https://github.com/synopse/SynPDF). `[Delphi]` `[FPC]` Fully featured Open Source PDF document creation library for Delphi, embedded in one unit. Pure Delphi code, Delphi 5 up to Delphi 10.3 Rio (and latest version of FPC), for Win32 and Win64 platforms.
 
 * [PowerPDF](https://github.com/TurboPack/PowerPDF). `[Delphi]` VCL component to create PDF document visually. Like Forms, you can design PDF document easily on Delphi or C++Builder IDE.
+
+* [Bitmap resamplers](https://github.com/GabrielOnDelphi/ImageResamplerTest) `[Delphi]` A program that put under test no less than 13 Delphi image resampling algorithms. The following results are shows for each test: image quality, time, memory requirements.
 
 * [IGDI+](https://sourceforge.net/projects/igdiplus). `[Delphi]` The free open source library allows quick and easy implementations of complex GDI+ applications, in a natural Delphi-friendly code.
 
@@ -224,6 +232,7 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 * [Delphi wrapper for libdmtx](https://github.com/JanOosting/delphidmtx). `[Delphi]` Libdmtx is a software library that enables programs to read and write Data Matrix barcodes of the modern ECC200 variety. The library runs natively on several platforms and can be accessed by multiple languages using the libdmtx language wrappers
 
+* [Delphi-SSIM-ImageQuality](https://github.com/GabrielOnDelphi/Delphi-SSIM-ImageQuality). `[Delphi]` A library for objectively measuring image/video quality. It implements many popular algorithms, such as MS-SSIM, MS-SSIM*, SIMM, MSE, and PSNR. It is designed to be fast, accurate, and reliable.
 
 ## Game dev ##
 
@@ -603,6 +612,7 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 * [Form Designer component for Delphi (VCL)](https://github.com/havlicekp/form-designer). `[Delphi]` Form Designer (TFormDesigner) can be used to design and modify Delphi (VCL) forms at runtime. The behavior and appearance is similar to that of Delphi IDE.
 
+* [LightSaber AutoTranslator](RTTI-based automatic language translator engine.) `[Delphi]` RTTI-based automatic language translator engine. This class (single file library) will translate all GUI strings (for example TLabel.Caption, TLabel.Hint, TMenuItem.Caption) for all live forms in your application. The text is stored in an INI file which can be sent to DeepL or GoogleTranslate for translation. 
 
 ## Database ##
 
@@ -1273,6 +1283,8 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 ## Other
 
+* [LightSaber Delphi Utilities](https://github.com/GabrielOnDelphi/DUT-My-Delphi-Utilities) `[Delphi]` A set of tools that help you with your Delphi code: Upgrade code from 32 to 64 bit (invalid pointer casts, etc). Format your code. Detect English spelling issues in DFM files. Fix the CanFocus/SetFocus at batch. Fix swallowed exceptions. Find all classes that implement an interface. Color picker. Fix the broken CRLF. Convert PAS files from ANSI to UTF8 and back. etc. All tools can be applied at batch to all files in the specified folder (and subfolders). When something wrong (invalid typecast, for example) is detected in a PAS file, you can double-click that file, and the tool will send that file to the IDE.
+
 * [WMI Delphi Code Creator](https://github.com/RRUZ/wmi-delphi-code-creator). Allows you to generate Object Pascal, Oxygene, C++ and C# code to access the WMI (Windows Management Instrumentation) classes, events and methods. Also includes a set of tools to explorer and Query the content of the WMI.
 
 * [Delphi Preview Handler](https://github.com/RRUZ/delphi-preview-handler). Preview handler for Windows Vista, 7 and 8 which allow you read your object pascal, C++ and Assembly code with Syntax highlighting without open in a editor
@@ -1301,3 +1313,11 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 * [DFMJSON](https://github.com/masonwheeler/DFMJSON). `[Delphi]` Library to convert between Delphi's .DFM (or .FMX) format and JSON. It can be used to parse a DFM file into an Abstract Syntax Tree in JSON, which can then be edited and the results turned back to DFM format.
 
 * [James - The Delphi Project Manager](https://github.com/alefragnani/delphi-james). `[Delphi]` It makes your life easier while switching from one project to another. If you see yourself manually installing components and updating Delphi settings every time you have to switch from one project to another, James may help you.
+
+* [Keep-It-Alive](https://github.com/GabrielOnDelphi/Keep-It-Alive/blob/main/README.md). Checks if a program is running, and re-starts it when it crashes.
+* 
+
+## BigData ##
+
+[BioInf](https://github.com/GabrielOnDelphi/BioInf). `[Delphi]` Library for reading/writing molecular biology DNA files (ABI, AB, AB1, SCF, FASTA, SEQ, etc).
+Has support for: SNP (Single Nucleotide Polymorphism), QV (base Quality Value), Integrated trimming engine (automatic bad-end trimming). Recalling of bad (N) peaks using proprietary algorithm, Automatic sequence direction (F/R), Reading and displaying the chromatogram data, etc. The import functionality is accessible with a call to a single function: TCubeImport.Import(FileName)
