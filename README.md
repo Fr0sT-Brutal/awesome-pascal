@@ -81,6 +81,8 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 * [mORMot](https://github.com/synopse/mORMot). `[Delphi]` `[FPC]` Client-Server ORM/ODM SOA MVC framework for Delphi 6 and higher, or FPC 2.7. Direct SQL/NoSQL database access, ORM/ODM over objects, RESTful ORM and SOA services via interfaces over high performance HTTP server, MVC/MVVM web sites, testing including mocks and stubs, logging, cryptography, compression, command line parser, threading, service/daemon support; huge documentation.
 
+* [Delphi LightSaber](https://github.com/GabrielOnDelphi/Delphi-LightSaber) `[Delphi]` A group of general-purpose Delphi libraries, that make your life easier. The library also wants to be a lightweight replacement for the mammoth Delphi Jedi library. Simple, crystal clear, non-obfuscated, fully commented and curated code. No (direct) external dependencies. More than 15 years of development have been put in this library.
+
 * [MARS - Curiosity](https://github.com/andrea-magni/MARS). `[Delphi]` Delphi REST Library. Pure REST approach, standard concepts in a familiar Delphi flavor (including a component based client library). Known compatibility: Delphi versions from XE to 10 Seattle. Some functionalities requires FireDAC.
 
 * [ADAPT](https://github.com/LaKraven/ADAPT). `[Delphi]` Advanced Developer Async Programming Toolkit, foundation library intended to be used at the heart of your projects for the purpose of providing extremely powerful, multi-threaded (and thread-safe) capabilities. Event Engine - a very powerful system for producing Multi-Threaded, Asynchronous and Event-Driven programs. Generics Collections - highly efficient Collection Types (Lists, Trees, Maps etc.). Math Library - a library for Unit Conversion, special calculation and other useful mathematics routines. Package Engine - extension of the Streamables Engine supporting the packaging of files together (a VFS of sorts). Shared Streams Library - 100% Thread-Safe Stream Classes (Interfaced too) allowing read/write from multiple Threads. Stream Handling Library - makes working with Streams much easier! Handles Deleting, Inserting, Reading and Writing data.
@@ -157,6 +159,8 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 * [Synopse PDF](https://github.com/synopse/SynPDF). `[Delphi]` `[FPC]` Fully featured Open Source PDF document creation library for Delphi, embedded in one unit. Pure Delphi code, Delphi 5 up to Delphi 10.3 Rio (and latest version of FPC), for Win32 and Win64 platforms.
 
 * [PowerPDF](https://github.com/TurboPack/PowerPDF). `[Delphi]` VCL component to create PDF document visually. Like Forms, you can design PDF document easily on Delphi or C++Builder IDE.
+
+* [Bitmap resamplers](https://github.com/GabrielOnDelphi/ImageResamplerTest) `[Delphi]` A program that put under test no less than 13 Delphi image resampling algorithms. The following results are shows for each test: image quality, time, memory requirements.
 
 * [IGDI+](https://sourceforge.net/projects/igdiplus). `[Delphi]` The free open source library allows quick and easy implementations of complex GDI+ applications, in a natural Delphi-friendly code.
 
@@ -1272,6 +1276,8 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 
 ## Other
+
+* [LightSaber Delphi Utilities](https://github.com/GabrielOnDelphi/DUT-My-Delphi-Utilities) `[Delphi]` A set of tools that help you with your Delphi code: Upgrade code from 32 to 64 bit (invalid pointer casts, etc). Format your code. Detect English spelling issues in DFM files. Fix the CanFocus/SetFocus at batch. Fix swallowed exceptions. Find all classes that implement an interface. Color picker. Fix the broken CRLF. Convert PAS files from ANSI to UTF8 and back. etc. All tools can be applied at batch to all files in the specified folder (and subfolders). When something wrong (invalid typecast, for example) is detected in a PAS file, you can double-click that file, and the tool will send that file to the IDE.
 
 * [WMI Delphi Code Creator](https://github.com/RRUZ/wmi-delphi-code-creator). Allows you to generate Object Pascal, Oxygene, C++ and C# code to access the WMI (Windows Management Instrumentation) classes, events and methods. Also includes a set of tools to explorer and Query the content of the WMI.
 
