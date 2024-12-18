@@ -103,8 +103,11 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 * [minilib](https://github.com/parmaja/minilib). `[Delphi]` `[FPC]` cross platform library, Socket wrapper (include SSL and TLS), and Database connection (SQLite, PostgreSQL, FirebirdSQL, MariaDB), XML reader and writer, ComPort (COM1, COM2 etc).
 
-* [Fido Library](https://github.com/mirko-bianco/FidoLib). `[Delphi]` The Fido library has been created to make the life of a Delphi developer easier by following the "describe behavior instead of coding it, whenever is possible" design principle. Below is a list of the most important core features: Mappers, JSON marshalling and unmarshalling, Virtual database features, Virtual Api clients, Virtual Api servers, Websockets, Consul and Fabio support, Boxes, Events driven architecture, Functional programming, Currying, Caching, Channels
+* [Fido Library](https://github.com/mirko-bianco/FidoLib). `[Delphi]` Simplify programmer's life by following the "describe behavior instead of coding it, whenever is possible" design principle. Below is a list of the most important core features: Mappers, JSON marshalling and unmarshalling, Virtual database features, Virtual Api clients, Virtual Api servers, Websockets, Consul and Fabio support, Boxes, Events driven architecture, Functional programming, Currying, Caching, Channels
 
+* [Fix SetFocus](https://github.com/GabrielOnDelphi/Delphi_Fix_SetFocus). `[Delphi]` SetFocus is broken in Delphi. Try to set focus on a visual control that is disabled or is invisible or simply is not focusable, and the program will crash. This tool does a batch replace to replace Delphi’s SetFocus with a safer alternative.
+
+* [Mouse-Digger](https://github.com/GabrielOnDelphi/Mouse-Digger). `[Delphi]` A tool that shows the class name of the component under mouse. Useful when you debug a laaaaarge program that has thousands of components, especially ones created dynamically. 
 
 ## Multimedia ##
 
@@ -1310,6 +1313,9 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 * [DFMJSON](https://github.com/masonwheeler/DFMJSON). `[Delphi]` Library to convert between Delphi's .DFM (or .FMX) format and JSON. It can be used to parse a DFM file into an Abstract Syntax Tree in JSON, which can then be edited and the results turned back to DFM format.
 
 * [James - The Delphi Project Manager](https://github.com/alefragnani/delphi-james). `[Delphi]` It makes your life easier while switching from one project to another. If you see yourself manually installing components and updating Delphi settings every time you have to switch from one project to another, James may help you.
+
+* [Keep-It-Alive](https://github.com/GabrielOnDelphi/Keep-It-Alive/blob/main/README.md). Checks if a program is running, and re-starts it when it crashes.
+* 
 
 ## BigData ##
 
