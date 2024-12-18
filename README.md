@@ -54,7 +54,8 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 	- [Code check/review, debug](#code-checkreview-debug)
 	- [Setup](#setup)
 	- [Other](#other)
-
+- [BigData](#bigdata)
+  
 ---
 
 ## General Libraries ##
@@ -228,6 +229,7 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 * [Delphi wrapper for libdmtx](https://github.com/JanOosting/delphidmtx). `[Delphi]` Libdmtx is a software library that enables programs to read and write Data Matrix barcodes of the modern ECC200 variety. The library runs natively on several platforms and can be accessed by multiple languages using the libdmtx language wrappers
 
+* [Delphi-SSIM-ImageQuality](https://github.com/GabrielOnDelphi/Delphi-SSIM-ImageQuality). `[Delphi]` A library for objectively measuring image/video quality. It implements many popular algorithms, such as MS-SSIM, MS-SSIM*, SIMM, MSE, and PSNR. It is designed to be fast, accurate, and reliable.
 
 ## Game dev ##
 
@@ -607,6 +609,7 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 * [Form Designer component for Delphi (VCL)](https://github.com/havlicekp/form-designer). `[Delphi]` Form Designer (TFormDesigner) can be used to design and modify Delphi (VCL) forms at runtime. The behavior and appearance is similar to that of Delphi IDE.
 
+* [LightSaber AutoTranslator](RTTI-based automatic language translator engine.) `[Delphi]` RTTI-based automatic language translator engine. This class (single file library) will translate all GUI strings (for example TLabel.Caption, TLabel.Hint, TMenuItem.Caption) for all live forms in your application. The text is stored in an INI file which can be sent to DeepL or GoogleTranslate for translation. 
 
 ## Database ##
 
@@ -1307,3 +1310,8 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 * [DFMJSON](https://github.com/masonwheeler/DFMJSON). `[Delphi]` Library to convert between Delphi's .DFM (or .FMX) format and JSON. It can be used to parse a DFM file into an Abstract Syntax Tree in JSON, which can then be edited and the results turned back to DFM format.
 
 * [James - The Delphi Project Manager](https://github.com/alefragnani/delphi-james). `[Delphi]` It makes your life easier while switching from one project to another. If you see yourself manually installing components and updating Delphi settings every time you have to switch from one project to another, James may help you.
+
+## BigData ##
+
+[BioInf](https://github.com/GabrielOnDelphi/BioInf). `[Delphi]` Library for reading/writing molecular biology DNA files (ABI, AB, AB1, SCF, FASTA, SEQ, etc).
+Has support for: SNP (Single Nucleotide Polymorphism), QV (base Quality Value), Integrated trimming engine (automatic bad-end trimming). Recalling of bad (N) peaks using proprietary algorithm, Automatic sequence direction (F/R), Reading and displaying the chromatogram data, etc. The import functionality is accessible with a call to a single function: TCubeImport.Import(FileName)
