@@ -1294,7 +1294,7 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 * [C-To-Delphi](https://github.com/WouterVanNifterick/C-To-Delphi). `[Delphi]` This tool will convert most of your standard C code.
 
-* [Better Translation Manager](https://bitbucket.org/anders_melander/better-translation-manager). `[Delphi]` Translation Manager
+* [Better Translation Manager](https://github.com/andersmelander/better-translation-manager). `[Delphi]` Translation Manager.
 
 * [dzBdsLauncher](https://osdn.net/projects/dzbdslauncher/). `[Delphi]` Launcher for the Delphi IDE that decides which of multiple IDEs to launch based on the suffix of the dproj file passed to it.
 
