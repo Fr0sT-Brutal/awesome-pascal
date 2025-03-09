@@ -142,7 +142,7 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 *Image files, free drawing, barcodes etc. There are also some drawing engines in [Game dev](#game-dev) section*
 
-* [Graphics32](https://github.com/graphics32/graphics32). `[Delphi]` `[FPC]` Designed for fast 32-bit graphics handling on Delphi, Kylix and Lazarus. Optimized for 32-bit pixel formats, it provides fast operations with pixels and graphic primitives, and in most cases Graphics32 outperforms the standard TCanvas classes. It is almost a hundred times faster in per-pixel access and about 2-5 times faster in drawing lines.
+* [Graphics32](https://github.com/graphics32/graphics32). `[Delphi]` `[FPC]` Designed for fast 32-bit graphics handling on Delphi and Lazarus. Optimized for 32-bit pixel formats, it provides fast anti-aliased and alpha blended operations with pixel, vector, and polygon graphic primitives, and significantly outperforms GDI, GDI+, and the standard TCanvas classes. It is almost a hundred times faster in per-pixel access and about 80-100 times faster in drawing lines.
 
 * [GraphicEx](https://github.com/mike-lischke/GraphicEx). `[Delphi]` Addendum to Delphi's Graphics.pas to enable your application to load many common image formats. This library is primarily designed to load images as background (buttons, forms, toolbars) and textures (DirectX, OpenGL) or for image browsing and editing purposes as long as you don't need to save images.
 
