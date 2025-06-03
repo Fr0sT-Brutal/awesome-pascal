@@ -102,6 +102,7 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 * [Fido Library](https://github.com/mirko-bianco/FidoLib). `[Delphi]` The Fido library has been created to make the life of a Delphi developer easier by following the "describe behavior instead of coding it, whenever is possible" design principle. Below is a list of the most important core features: Mappers, JSON marshalling and unmarshalling, Virtual database features, Virtual Api clients, Virtual Api servers, Websockets, Consul and Fabio support, Boxes, Events driven architecture, Functional programming, Currying, Caching, Channels
 
+* [TeeBI](https://github.com/Steema/TeeBI) `[Delphi]` `[FPC]` Datamining, Visualization, Multidimensional Queries, Pivot Tables and Big data component library. For VCL and Firemonkey.
 
 ## Multimedia ##
 
