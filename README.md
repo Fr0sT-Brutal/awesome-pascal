@@ -96,8 +96,6 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 * [KOL](https://sourceforge.net/projects/kolmck). `[Delphi]` `[FPC]` ([KOL-CE](https://sourceforge.net/p/kol-ce) port to FPC) KEY OBJECTS LIBRARY for Delphi (and FPC) - to make applications small and power. This library is freeware and open source. MCK is a kit of mirror classes for the VISUAL project development in Delphi environment using KOL library.
 
-* [cwRuntime](https://chapmanworld.com/cwRuntime/). `[Delphi]` `[FPC]` Compiler agnostic and cross platform collection of utility libraries for Delphi and FreePascal. It is heavily interface based, offering ARC based memory management features and flexible implementation abstraction, with the goal of forming a source bridge for developers familiar with the two supported compilers. Unit testing, collections/containers, multiplatform interface for loading dynamic libraries, Unicode utils, interfaces for working with streams and buffers, logging, threading, high-precision timers, sockets.
-
 * [minilib](https://github.com/parmaja/minilib). `[Delphi]` `[FPC]` cross platform library, Socket wrapper (include SSL and TLS), and Database connection (SQLite, PostgreSQL, FirebirdSQL, MariaDB), XML reader and writer, ComPort (COM1, COM2 etc).
 
 * [Fido Library](https://github.com/mirko-bianco/FidoLib). `[Delphi]` The Fido library has been created to make the life of a Delphi developer easier by following the "describe behavior instead of coding it, whenever is possible" design principle. Below is a list of the most important core features: Mappers, JSON marshalling and unmarshalling, Virtual database features, Virtual Api clients, Virtual Api servers, Websockets, Consul and Fabio support, Boxes, Events driven architecture, Functional programming, Currying, Caching, Channels
@@ -1303,3 +1301,4 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 * [DFMJSON](https://github.com/masonwheeler/DFMJSON). `[Delphi]` Library to convert between Delphi's .DFM (or .FMX) format and JSON. It can be used to parse a DFM file into an Abstract Syntax Tree in JSON, which can then be edited and the results turned back to DFM format.
 
 * [James - The Delphi Project Manager](https://github.com/alefragnani/delphi-james). `[Delphi]` It makes your life easier while switching from one project to another. If you see yourself manually installing components and updating Delphi settings every time you have to switch from one project to another, James may help you.
+
