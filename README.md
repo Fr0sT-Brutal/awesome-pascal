@@ -413,6 +413,9 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 * [Brook framework](https://github.com/risoflora/brookframework). `[Delphi]` `[FPC]` Microframework which helps to develop web Pascal applications.
 // *Based on external [libsagui](https://risoflora.github.io/libsagui/)*
 
+* [Delphi-Cross-Socket](https://github.com/winddriver/Delphi-Cross-Socket). `[Delphi]` `[FPC]` High-performance cross-platform socket library using IOCP/KQUEUE/EPOLL. Supports TCP, HTTP/HTTPS, WebSocket with SSL/TLS.
+// *Zero-copy stream architecture for maximum throughput. 10K+ concurrent connections. [English comments fork](https://github.com/bero/Delphi-Cross-Socket)*
+
 ## Serial port
 
 * [Synaser](http://sourceforge.net/p/synalist/code/HEAD/tree/trunk/synaser.pas). `[Delphi]` `[FPC]` Library for blocking communication on serial ports. It is non-visual class as in Synapse, and programmer interface is very similar to Synapse.
