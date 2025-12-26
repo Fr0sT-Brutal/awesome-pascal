@@ -414,6 +414,10 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 * [Brook framework](https://github.com/risoflora/brookframework). `[Delphi]` `[FPC]` Microframework which helps to develop web Pascal applications.
 // *Based on external [libsagui](https://risoflora.github.io/libsagui/)*
 
+* [WebSocket.pas](https://github.com/biot2/WebSocket.pas) `[Delphi]` `[FPC]` WebSocket Client & Server Library with pure Object Pascal source code
+
+* [nats.pas](https://github.com/biot2/nats.pas) `[Delphi]` `[FPC]` An Object Pascal Client for NATS based on libnats-c
+
 ## Serial port
 
 * [Synaser](https://github.com/geby/synapse/blob/master/synaser.pas). `[Delphi]` `[FPC]` Library for blocking communication on serial ports. It is non-visual class as in Synapse, and programmer interface is very similar to Synapse.
@@ -835,6 +839,8 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 * [THTMLWriter](https://github.com/NickHodges/delphihtmlwriter). `[Delphi]` Class library that enables the developer to create HTML and HTML documents. It uses the fluent interface to make creating HTML text easy and natural.
 
 * [Neon](https://github.com/paolo-rossi/delphi-neon) `[Delphi]` Serialization library for Delphi that helps you to convert (back and forth) objects and other values to JSON. It supports simple Delphi types but also complex class and records. Neon has been designed with REST in mind, to exchange pure data between applications with no "metadata" or added fields
+
+* [YAML/JSON ParserTools](https://github.com/biot2/Yaml.Json.Parser). `[Delphi]` `[FPC]` YAML and JSON parser, serializer and deserializer with YAML to JSON and vice versa conversion tools containing pure Object Pascal source code for both Delphi and Lazarus
 
 * [DynamicDataObjects](https://github.com/SeanSolberg/DynamicDataObjects). `[Delphi]` Class library that lets you model structured data and serialze to/from a variety of data serialization formats such as: CBOR, JSON, MessagePack, ION, UBJSON, BSON, Smile, DataObj, CSV, ICS, BinaryJData, etc.
 
