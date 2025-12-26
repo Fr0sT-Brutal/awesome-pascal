@@ -921,9 +921,6 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 ## Logging
 
-* [MultiLog4D](https://github.com/adrianosantostreina/MultiLog4D). `[Delphi]` MultiLog4D is a library designed to facilitate and speed up the sending of logs to Android, iOS, Windows, macOS and Linux. With just one line of code, it is possible to send a message that will be seen and monitored on the corresponding platform, such as adb logcat on Android or
-syslog on Linux, for example..
-
 * [Log4d](https://github.com/landrix/Log4d-for-Delphi). `[Delphi]` `[FPC]` Implementation of logging system for Delphi, based on Log4j.
 
 * [TraceTool](http://tracetool.sourceforge.net/). `[Delphi]` C#, C++, Delphi, ActiveX and Java trace framework and a trace viewer.
@@ -943,6 +940,8 @@ syslog on Linux, for example..
 * [LogLib](https://github.com/GabrielOnDelphi/Delphi-LightSaber-LogLib). `[Delphi]` A simple but effective visual log control/library. The programmer can send messages to a log window from anywhere in his code. The Log window can be set to automatically pop up when an error message is sent to it. Depending on the chosen verbosity level of the log (see the Verbosity property) low-level messages (like verbose/debug messages) are shown or not. Contains: Non-visual log (TRamLog) Visual log (TRichLog)
 
 * [simple-logger](https://github.com/paweld/simple-logger). `[FPC]` Simple, thread-safe logger for FPC/Lazarus. Logs saved to file, support for log archiving and compression.
+
+* [MultiLog4D](https://github.com/adrianosantostreina/MultiLog4D). `[Delphi]` MultiLog4D is a library designed to facilitate and speed up the sending of logs to Android, iOS, Windows, macOS and Linux. With just one line of code, it is possible to send a message that will be seen and monitored on the corresponding platform, such as adb logcat on Android or syslog on Linux, for example.
 
 ## Math
 
@@ -1287,7 +1286,7 @@ syslog on Linux, for example..
 
 * [Grijjy Deployment Manager](https://github.com/grijjy/GrijjyDeployMan). Tool to simplify the deployment of files and folders for iOS and Android apps written in Delphi. It is especially useful if you need to deploy a lot of files, such as 3rd party SDKs.
 
-* [AutoGetIt](https://github.com/corneliusdavid/AutoGetIt). `[Delphi]` Open-source tool to automate the installation of selected GetIt packages by calling the GetIt command-line tool. Works with Delphi 10.4, 11, and 12. Both source and pre-built executable available. Requires [DosCommand](https://github.com/TurboPack/DOSCommand) to compile the source. 
+* [AutoGetIt](https://github.com/corneliusdavid/AutoGetIt). `[Delphi]` Open-source tool to automate the installation of selected GetIt packages by calling the GetIt command-line tool. Works with Delphi 10.4, 11, and 12. Both source and pre-built executable available. Requires [DosCommand](https://github.com/TurboPack/DOSCommand) to compile the source.
 
 
 ## Other
