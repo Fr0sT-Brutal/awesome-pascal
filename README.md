@@ -332,7 +332,8 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 * [Internet Tools](#xmljsonyaml). XPath/XQuery/JSONiq/CSS/HTML; functions to perform HTTP/S requests on Windows/Linux/macOS/Android, an XSLT-inspired webscraping language, and an auto update class.
 
-* [Delphi Cross Socket](https://github.com/winddriver/Delphi-Cross-Socket/). `[Delphi]` Delphi cross platform socket library (Chinese). Uses different IO models for different platforms: IOCP (Windows), KQUEUE (FreeBSD(macOS, iOS, etc)), EPOLL (Linux(Linux, Android)).
+* [Delphi Cross Socket](https://github.com/winddriver/Delphi-Cross-Socket/). `[Delphi]` Delphi cross platform socket library (Chinese). Uses different IO models for different platforms: IOCP (Windows), KQUEUE (FreeBSD(macOS, iOS, etc)), EPOLL (Linux(Linux, Android)). Supports TCP, HTTP/HTTPS, WebSocket with SSL/TLS.
+// *Zero-copy stream architecture for maximum throughput. 10K+ concurrent connections. [English comments fork](https://github.com/bero/Delphi-Cross-Socket)*
 
 * [ToroKernel](https://github.com/torokernel/torokernel). `[FPC]` This is a library-kernel that allows freepascal applications which are specially ported to run alone in the system. Toro is compiled within the user's application thus resulting in a single binary that can boot on baremetal or as a guest in a modern hypervisor,e.g., hyperv, kvm, qemu, firecraker. ToroKernel addresses the development of microservices by providing a dedicated API.
 
@@ -666,6 +667,8 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 * [Trysil](https://github.com/davidlastrucci/Trysil) `[Delphi]` ORM (Object-Relational Mapping) for Delphi. Supports for SQLServer, FirebirdSQL and SQLite.
 
 * [SQLite for Delphi and FreePascal/Lazarus](https://github.com/plashenkov/SQLite3-Delphi-FPC). `[Delphi]` `[FPC]` Complete SQLite3 API translation for Delphi and FreePascal/Lazarus, as well as a simple Unicode-enabled object wrapper to simplify the use of this database engine.
+
+* [Bold for Delphi](https://github.com/bero/BoldForDelphi). `[Delphi]` Model-Driven Architecture (MDA) framework and ORM. Design your domain model in UML and generate Delphi classes and database schemas. Features OCL (Object Constraint Language) for queries and derived attributes, automatic UI synchronization, built-in undo/redo, optimistic locking, and object subscriptions. Persistence via FireDAC, UniDAC or XML, supporting most modern databases. This fork adds Unicode and modern Delphi support. [Official Embarcadero repo](https://github.com/Embarcadero/BoldForDelphi) is for Delphi 7.
 
 ## Cloud Services ##
 
