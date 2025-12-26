@@ -915,6 +915,9 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 ## Logging
 
+* [MultiLog4D](https://github.com/adrianosantostreina/MultiLog4D). `[Delphi]` MultiLog4D is a library designed to facilitate and speed up the sending of logs to Android, iOS, Windows, macOS and Linux. With just one line of code, it is possible to send a message that will be seen and monitored on the corresponding platform, such as adb logcat on Android or
+syslog on Linux, for example..
+
 * [Log4d](https://github.com/landrix/Log4d-for-Delphi). `[Delphi]` `[FPC]` Implementation of logging system for Delphi, based on Log4j.
 
 * [TraceTool](http://tracetool.sourceforge.net/). `[Delphi]` C#, C++, Delphi, ActiveX and Java trace framework and a trace viewer.
