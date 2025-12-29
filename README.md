@@ -263,6 +263,8 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 * [TurboRaylib](https://github.com/turborium/TurboRaylib). `[Delphi]` `[FPC]` TurboRaylib is a cool and clean [raylib](https://www.raylib.com/) bindings for Object Pascal. Support Windows, Linux, OSX. TurboRaylib have many examples that work in Delphi and Lazarus.
 
+* [ImGui-Pascal](https://github.com/Coldzer0/ImGui-Pascal). `[Delphi]` `[FPC]` ImGui-Pascal is [ImGui](https://github.com/ocornut/imgui) binding (crossplatform GUI lib) with the latest version & docking. Support Windows, Linux, OSX.
+
 * [abmaze](https://github.com/DosWorld/abmaze). `[FPC]` `[TP]`Aldous-Broder algorithm implementation in Pascal for maze generation. Contains few optimizations.
 
 ## Communications ##
