@@ -719,6 +719,8 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 * [Thorium](https://github.com/horazont/thorium). `[Delphi]` `[FPC]` Powerful embedded scripting language written in FreePascal. It features a pluggable compiler and typing system, and ships with easy and fast import of host classes using RTTI. It also allows to call host methods and functions without the need for wrapper functions, thus saving the developer (that is you) the time to write these.
 
+* [JvInterpreter (part of Project JEDI VCL)](https://github.com/project-jedi/jvcl). `[Delphi]` `[FPC]` Pascal script interpreter
+
 
 ## Machine Learning ##
 
@@ -735,6 +737,9 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 * [TensorFlow.Delphi](https://github.com/Pigrecos/TensorFlow.Delphi). `[Delphi]` [TensorFlow](https://tensorflow.org) library binding for Delphi. It aims to implement the complete Tensorflow API in Delphi which allows Pascal developers to develop, train and deploy Machine Learning models with the Pascal Delphi
 
 * [Ascension](https://github.com/inversed-ru/Ascension). `[Delphi]` `[FPC]` A research programme aimed at the development of a general-purpose global optimization framework. Its core components are intelligent algorithms called metaheuristics, which are applicable to a wide variety of optimization problems.
+
+* [sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx). `[Delphi]` `[FPC]` Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, RK NPU, Ascend NPU, x86_64 servers, websocket server/client, support 12 programming languages
+
 
 ## Non-visual Classes/Utils ##
 
