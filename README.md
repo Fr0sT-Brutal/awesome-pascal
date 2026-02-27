@@ -12,27 +12,29 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 ## Contents ##
 
-- [General Libraries](#general-libraries)
-- [Multimedia](#multimedia)
+- [Awesome Pascal ](#awesome-pascal-)
+	- [Contents](#contents)
+	- [General Libraries](#general-libraries)
+	- [Multimedia](#multimedia)
 	- [Audio](#audio)
 	- [Video](#video)
 	- [Graphic](#graphic)
-- [Game dev](#game-dev)
-- [Communications](#communications)
+	- [Game dev](#game-dev)
+	- [Communications](#communications)
 	- [Network](#network)
-	- [Cloud & remote services](#cloud-remote-services)
+	- [Cloud \& remote services](#cloud--remote-services)
 	- [Serial port](#serial-port)
 	- [Event bus](#event-bus)
-- [GUI](#gui)
+	- [GUI](#gui)
 	- [Control packs](#control-packs)
 	- [Single controls](#single-controls)
 	- [Editors](#editors)
 	- [Viewers](#viewers)
 	- [Other GUI](#other-gui)
-- [Database](#database)
-- [Scripting](#scripting)
-- [Machine Learning](#machine-learning)
-- [Non-visual Classes/Utils](#non-visual-classesutils)
+	- [Database](#database)
+	- [Scripting](#scripting)
+	- [Machine Learning](#machine-learning)
+	- [Non-visual Classes/Utils](#non-visual-classesutils)
 	- [Compression](#compression)
 	- [Encryption](#encryption)
 	- [XML/JSON/YAML/HTML](#xmljsonyamlhtml)
@@ -44,13 +46,14 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 	- [Math](#math)
 	- [Command-line](#command-line)
 	- [Other non-visual](#other-non-visual)
-- [OS](#os)
-- [Report generating](#report-generating)
-- [Unit Testing](#unit-testing)
-- [Debugging / error handling](#debugging--error-handling)
-- [Utilities](#utilities)
+	- [OS](#os)
+	- [Report generating](#report-generating)
+	- [Unit Testing](#unit-testing)
+	- [Debugging / error handling](#debugging--error-handling)
+	- [Utilities](#utilities)
 	- [RAD Studio IDE plugins/wizards](#rad-studio-ide-pluginswizards)
 	- [Plugins for other IDE's](#plugins-for-other-ides)
+	- [Pascal Color Utilities](#pascal-color-utilities)
 	- [Documentation](#documentation)
 	- [Code check/review, debug](#code-checkreview-debug)
 	- [Setup](#setup)
@@ -1270,6 +1273,11 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 * [Intellij IDEA Object Pascal plugin](https://github.com/casteng/i-pascal). `[Delphi]` `[FPC]` A free Object Pascal language plugin for IntelliJ IDEA
 
 
+## Pascal Color Utilities
+
+* [Pascal Color Utilities](https://github.com/QuantumPixelator/PascalUtilities). `[Delphi]` `[FPC]` Lightweight unit for cross-platform ANSI terminal styling and Windows 10+ virtual terminal support.
+
+
 ## Documentation
 
 * [SynProject](https://github.com/synopse/SynProject) ([docs](http://synopse.info/fossil/wiki?name=SynProject)). Tool for code source versioning and automated documentation of Delphi projects.
@@ -1354,3 +1362,4 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 * [OpenAPI Client Generator](https://github.com/landgraf-dev/openapi-delphi-generator). `[Delphi]` Generate Delphi client SDKs for any REST API defined with the OpenAPI specification. This generator can read an OpenAPI document (from local file or URL) of a REST API and generate Delphi classes that you can use to invoke such REST API endpoints in a friendly way.
 // *Open source but requires commercial TMS BIZ library for build (trial version will do as well). Binaries are available*
+
