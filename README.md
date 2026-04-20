@@ -1346,7 +1346,7 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 * [Better Translation Manager](https://github.com/andersmelander/better-translation-manager). `[Delphi]` Translation Manager.
 
-* [dzBdsLauncher](https://osdn.net/projects/dzbdslauncher/). `[Delphi]` Launcher for the Delphi IDE that decides which of multiple IDEs to launch based on the suffix of the dproj file passed to it.
+* [dzBdsLauncher](https://blog.dummzeuch.de/dzbdslauncher/). `[Delphi]` Launcher for the Delphi IDE that decides which of multiple IDEs to launch based on the suffix of the dproj file passed to it.
 
 * [DFMJSON](https://github.com/masonwheeler/DFMJSON). `[Delphi]` Library to convert between Delphi's .DFM (or .FMX) format and JSON. It can be used to parse a DFM file into an Abstract Syntax Tree in JSON, which can then be edited and the results turned back to DFM format.
 
