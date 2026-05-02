@@ -434,6 +434,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [BESEN](https://github.com/BeRo1985/besen). Complete ECMAScript Fifth Edition Implemention in Object Pascal, which is compilable with Delphi >=7 and Free Pascal >= 2.5.1 (maybe also 2.4.1).
 
+* [Plan9Basic](https://plan9basic.com/) - a small and simple programming language inspired by classic BASIC, designed for creating small applications. It combines the simplicity and accessibility of traditional BASIC with modern structured programming features and a cross-platform graphical interface built with Delphi/FireMonkey for cross-platform applet development (Windows, macOS, Linux, Android, iOS). The source code for the core engine and some of the libraries is provided and can be embedded into Delphi FMX applications.
+
 * [Python for Delphi (P4D)](https://github.com/pyscripter/python4delphi). Set of free components that wrap up the Python dll into Delphi and Lazarus (FPC). They let you easily execute Python scripts, create new Python modules and new Python types. You can create Python extensions as dlls and much more
 
 * [CrystalLUA](https://github.com/d-mozulyov/CrystalLUA). Lua binding (Delphi6-2007).
