@@ -20,7 +20,7 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 - [Game dev](#game-dev)
 - [Communications](#communications)
 	- [Network](#network)
-	- [Cloud & remote services](#cloud-remote-services)
+	- [Cloud & remote services](#cloud--remote-services)
 	- [Serial port](#serial-port)
 	- [Event bus](#event-bus)
 - [GUI](#gui)
@@ -294,6 +294,8 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 * [DMVCFramework](https://github.com/danieleteti/delphimvcframework). `[Delphi]` Popular and powerful framework for web solution in Delphi.
 
+* [D2Bridge](https://github.com/d2bridge/d2bridgeframework). `[Delphi]` `Lazarus` is an open-source framework that enables **Delphi** and **Lazarus** applications to be compiled directly for the Web without rewriting code. It transforms the visual layer (VCL/LCL) into **responsive HTML compatible with Bootstrap 5**, while preserving the original logic and components. 🔹 Key Features - Fast migration from desktop to web applications.  - Exports Delphi/Lazarus controls as dynamic HTML elements.  - Works synchronously: `MessageDlg`, `ShowModal`, `Timer` behave the same on the Web.  - Includes **integrated servers** (Console, Compact, Full) ready for intranet or SaaS deployment.  - Compatible with Delphi (10 Seattle → 13 Athens/Florence) and Lazarus (3.4 → 4.4).  - Supports third-party components and customizable web templates.  - Entirely programmed in Delphi/Lazarus — no need to learn JavaScript.
+
 * [Delphi IOCP](https://github.com/ymofen/diocp-v5). `[Delphi]` Implements several network classes based on Windows IOCP technology. Socket, HTTP, Ntrip servers and clients.
 // *Quite well documented and good styled code but Chinese only.*
 
@@ -398,7 +400,6 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 * [Firebase Services for Delphi](https://github.com/SchneiderInfosystems/FB4D). `[Delphi]` Cross-platform (FMX/VCL/Console) library for the following Firebase Services (Google): Firebase RT-DB, Firestore DB, Cloud Storage, VisionML, Firebase Authorization, and Firebase Functions. The library supports all platforms (Windows, Mac, iOS, Android, and Linux).
 
 * [Dext Framework](https://github.com/cesarliws/dext). `[Delphi]` Modern Full-Stack ecosystem for modern Delphi development. It brings the productivity and architectural patterns of frameworks like ASP.NET Core and Spring Boot to the native performance of Object Pascal.
-
 
 ## Cloud & remote services
 
