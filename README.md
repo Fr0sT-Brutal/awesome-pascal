@@ -399,7 +399,7 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 * [Dext Framework](https://github.com/cesarliws/dext). `[Delphi]` Modern Full-Stack ecosystem for modern Delphi development. It brings the productivity and architectural patterns of frameworks like ASP.NET Core and Spring Boot to the native performance of Object Pascal.
 
-* [PascalRAL](https://github.com/OpenSourceCommunityBrasil/PascalRAL). `[Delphi]``[FPC]` The fastest, most resourceful REST/RPC framework for pascal. Focuses on stability, ease of use and performance.
+* [PascalRAL](https://github.com/OpenSourceCommunityBrasil/PascalRAL). `[Delphi]``[FPC]``[FPC-unleashed]` The fastest, most resourceful API framework for pascal. Focuses on stability, ease of use and performance.
 
 ## Cloud & remote services
 
@@ -1102,7 +1102,7 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 * [ACBr (Commercial Automation Brazil)](https://sourceforge.net/projects/acbr/) ([GitHub mirror](https://github.com/ProjetoACBr/ACBr), [Organization page in GitHub](https://github.com/Projeto-ACBr-Oficial). `[Delphi]` `[FPC]` Set of components and libraries for Delphi and Lazarus, designed to simplify the development of commercial automation systems in Brazil. It is widely used by developers who need to integrate their software with fiscal obligations and automation equipment
 
-* [PascalLibs](https://github.com/OpenSourceCommunityBrasil/PascalLibs) `[Delphi]``[FPC]` A repository with lots of different single file classes for specific purposes that can easily be added to projects for quick development.
+* [PascalLibs](https://github.com/OpenSourceCommunityBrasil/PascalLibs) `[Delphi]``[FPC]` A repository with lots of different single file classes for different specific purposes that can easily be added to projects for quick development.
 
 ## OS ##
 
