@@ -399,6 +399,7 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 * [Dext Framework](https://github.com/cesarliws/dext). `[Delphi]` Modern Full-Stack ecosystem for modern Delphi development. It brings the productivity and architectural patterns of frameworks like ASP.NET Core and Spring Boot to the native performance of Object Pascal.
 
+* [PascalRAL](https://github.com/OpenSourceCommunityBrasil/PascalRAL). `[Delphi]``[FPC]``[FPC-unleashed]` The fastest, most resourceful API framework for pascal. Focuses on stability, ease of use and performance.
 
 ## Cloud & remote services
 
@@ -746,7 +747,6 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 ## Non-visual Classes/Utils ##
 
-
 ## Compression
 
 * [FWZip](https://github.com/AlexanderBagel/FWZip). `[Delphi]` Classes to work with Zip archives using Store and Deflate methods, supports ZIP64, DataDescryptors, PKWARE encryption, NTFS attributes, Utf8 in filenames.
@@ -760,7 +760,6 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 * [Delphi zlib](http://www.base2ti.com/?id=delphi.zlib). `[Delphi]` Wrapper for zlib.obj originally used by Borland. Delphi up to XE3 supported.
 
 * [DIUcl](http://www.yunqa.de/delphi/products/ucl/index). `[Delphi]` DIUcl is a lossless compression library with extremely fast and small (200 bytes only!) ASM decompressor. Compression times and ratios are similar to those of deflate/zip and bzip2. Delphi port of the popular UCL Compression Library, which is also used by the popular and well known UPX Ultimate Packer for eXecutables.
-
 
 ## Encryption
 
@@ -1103,6 +1102,7 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 * [ACBr (Commercial Automation Brazil)](https://sourceforge.net/projects/acbr/) ([GitHub mirror](https://github.com/ProjetoACBr/ACBr), [Organization page in GitHub](https://github.com/Projeto-ACBr-Oficial). `[Delphi]` `[FPC]` Set of components and libraries for Delphi and Lazarus, designed to simplify the development of commercial automation systems in Brazil. It is widely used by developers who need to integrate their software with fiscal obligations and automation equipment
 
+* [PascalLibs](https://github.com/OpenSourceCommunityBrasil/PascalLibs) `[Delphi]``[FPC]` A repository with lots of different single file classes for different specific purposes that can easily be added to projects for quick development.
 
 ## OS ##
 
