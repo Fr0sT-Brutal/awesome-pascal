@@ -993,6 +993,8 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 * [mrMath](https://github.com/mikerabat/mrmath). `[Delphi]` `[FPC]` High-performance, multithreaded matrix and linear algebra library featuring hand-optimized assembler routines for SSE, AVX, AVX2 and FMA. Provides core decompositions (SVD, LU, QR, Hessian, Cholesky), optimized eigenvalue solvers for symmetric matrices, and advanced algorithms such as PCA, CCA, non-negative matrix factorization, SSA, wavelet transforms, RBF splines, t-SNE, and linear/non-linear least-squares fitting. Supports Windows and Linux on both 32-bit and 64-bit platforms.
 
+* [MathParser](https://github.com/pisarev/pascal-mathparser). `[Delphi]` `[FPC]` Expression parser and virtual machine: compiles a formula to flat bytecode, runs it with a linear pass over memory, and on x86-64 can compile that bytecode to machine code with an automatic fall back to the interpreter. Caches by shape, so `5 + 7` reuses the script compiled for `2 + 3`. 199 registered names, user functions and variables bound by address, symbolic differentiation. Windows and Linux, one source. A [browser demo](https://pisarev.github.io/mathparser-live/demo/) runs it compiled to WebAssembly.
+
 
 ## Command-line
 
