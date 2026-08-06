@@ -224,6 +224,8 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 * [Delphi wrapper for libdmtx](https://github.com/JanOosting/delphidmtx). `[Delphi]` Libdmtx is a software library that enables programs to read and write Data Matrix barcodes of the modern ECC200 variety. The library runs natively on several platforms and can be accessed by multiple languages using the libdmtx language wrappers
 
+* [GraphBuilder](https://github.com/pisarev/graphbuilder-npp). `[Delphi]` `[FPC]` Notepad++ plugin that plots the formula under your mouse in a docked panel, with roots, intersections and extrema marked, and sends the report back to the editor as Markdown with the curve embedded as SVG. The panel is a web page in WebView2 driven from Object Pascal, and the same page runs as a [browser demo](https://pisarev.github.io/mathparser-live/demo/) with the engine compiled to WebAssembly.
+
 
 ## Game dev ##
 
