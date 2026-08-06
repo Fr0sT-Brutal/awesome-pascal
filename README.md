@@ -224,6 +224,8 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 * [Delphi wrapper for libdmtx](https://github.com/JanOosting/delphidmtx). `[Delphi]` Libdmtx is a software library that enables programs to read and write Data Matrix barcodes of the modern ECC200 variety. The library runs natively on several platforms and can be accessed by multiple languages using the libdmtx language wrappers
 
+* [CrossGraph](https://github.com/pisarev/pascal-crossgraph). `[Delphi]` `[FPC]` Plotting engine and visual component for formulas given as text: samples curves on worker threads, finds discontinuities, intersections and extrema, draws cartesian and polar systems and surfaces z = f(x, y) with contour lines. The engine knows nothing about a canvas and builds headless; the component is a thin layer over it. Needs [MathParser](https://github.com/pisarev/pascal-mathparser).
+
 
 ## Game dev ##
 
