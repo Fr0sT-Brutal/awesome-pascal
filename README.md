@@ -1354,3 +1354,5 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 * [OpenAPI Client Generator](https://github.com/landgraf-dev/openapi-delphi-generator). `[Delphi]` Generate Delphi client SDKs for any REST API defined with the OpenAPI specification. This generator can read an OpenAPI document (from local file or URL) of a REST API and generate Delphi classes that you can use to invoke such REST API endpoints in a friendly way.
 // *Open source but requires commercial TMS BIZ library for build (trial version will do as well). Binaries are available*
+
+* [MoonCompiler](https://github.com/Moonbot-Tech/MoonCompiler). `[Delphi]` `[FPC]` Delphi 12.2-compatible Object Pascal compiler and self-contained toolchain for Win64 and Linux x86-64, built on FPC/Unleashed with Unicode RTL, a bundled memory manager, optimized compiler passes, and reproducible qualification suites.
