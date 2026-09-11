@@ -1354,3 +1354,5 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 * [OpenAPI Client Generator](https://github.com/landgraf-dev/openapi-delphi-generator). `[Delphi]` Generate Delphi client SDKs for any REST API defined with the OpenAPI specification. This generator can read an OpenAPI document (from local file or URL) of a REST API and generate Delphi classes that you can use to invoke such REST API endpoints in a friendly way.
 // *Open source but requires commercial TMS BIZ library for build (trial version will do as well). Binaries are available*
+
+* [PontoMonitor](https://github.com/andredrops/PontoMonitor). `[Delphi]` Open-source Windows time-tracking reminder app (VCL + FireDAC/SQLite). Sits in the system tray, alerts and auto-opens your company's clock-in tool at scheduled times, and keeps a local, editable mirror of worked hours with daily-goal tracking.
