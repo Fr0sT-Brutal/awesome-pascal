@@ -883,6 +883,8 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 * [pas2js](https://gitlab.com/freepascal.org/fpc/pas2js), [docs](http://wiki.freepascal.org/pas2js). `[Delphi]` `[FPC]` An open source Pascal to JavaScript transpiler. It parses Object Pascal and emits JavaScript. The JavaScript is currently of level ECMAScript 5 and should run in any browser or in Node.js (target "nodejs"). Basically, Delphi 7 syntax is supported. Used in tools like TMS WebCore and Elevate Web Builder.
 
+* [PXX](https://github.com/yoctobyte/pxx). `[FPC]` Self-hosting compiler for the Free Pascal dialect, written from scratch, with its own RTL, ELF writer and linker: static Linux binaries for x86-64, i386, aarch64, arm32 and riscv32, plus wasm32 and native ESP32-S3/C3 firmware. Also compiles C and a Python dialect through the same backend.
+
 
 ## Memory managers
 
