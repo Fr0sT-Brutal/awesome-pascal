@@ -12,27 +12,29 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 ## Contents ##
 
-- [General Libraries](#general-libraries)
-- [Multimedia](#multimedia)
+- [Awesome Pascal ](#awesome-pascal-)
+	- [Contents](#contents)
+	- [General Libraries](#general-libraries)
+	- [Multimedia](#multimedia)
 	- [Audio](#audio)
 	- [Video](#video)
 	- [Graphic](#graphic)
-- [Game dev](#game-dev)
-- [Communications](#communications)
+	- [Game dev](#game-dev)
+	- [Communications](#communications)
 	- [Network](#network)
-	- [Cloud & remote services](#cloud-remote-services)
+	- [Cloud \& remote services](#cloud--remote-services)
 	- [Serial port](#serial-port)
 	- [Event bus](#event-bus)
-- [GUI](#gui)
+	- [GUI](#gui)
 	- [Control packs](#control-packs)
 	- [Single controls](#single-controls)
 	- [Editors](#editors)
 	- [Viewers](#viewers)
 	- [Other GUI](#other-gui)
-- [Database](#database)
-- [Scripting](#scripting)
-- [Machine Learning](#machine-learning)
-- [Non-visual Classes/Utils](#non-visual-classesutils)
+	- [Database](#database)
+	- [Scripting](#scripting)
+	- [Machine Learning](#machine-learning)
+	- [Non-visual Classes/Utils](#non-visual-classesutils)
 	- [Compression](#compression)
 	- [Encryption](#encryption)
 	- [XML/JSON/YAML/HTML](#xmljsonyamlhtml)
@@ -44,11 +46,11 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 	- [Math](#math)
 	- [Command-line](#command-line)
 	- [Other non-visual](#other-non-visual)
-- [OS](#os)
-- [Report generating](#report-generating)
-- [Unit Testing](#unit-testing)
-- [Debugging / error handling](#debugging--error-handling)
-- [Utilities](#utilities)
+	- [OS](#os)
+	- [Report generating](#report-generating)
+	- [Unit Testing](#unit-testing)
+	- [Debugging / error handling](#debugging--error-handling)
+	- [Utilities](#utilities)
 	- [RAD Studio IDE plugins/wizards](#rad-studio-ide-pluginswizards)
 	- [Plugins for other IDE's](#plugins-for-other-ides)
 	- [Documentation](#documentation)
@@ -505,6 +507,8 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 * [liblcl](https://github.com/ying32/liblcl). `[FPC]` A common cross-platform GUI library, the core uses Lazarus LCL.
 // *Pascal-based lib with GUI bindings for use in languages like C++, Go, Rust.*
+
+* [DaisyUI](https://github.com/antonydanby/DaisyUI). `[Delphi]` A large set of UI components for VCL and FMX that emulate Tailwind CSS/DaisyUI.
 
 
 ## Single controls
