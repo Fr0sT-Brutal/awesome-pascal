@@ -762,6 +762,8 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 * [DIUcl](http://www.yunqa.de/delphi/products/ucl/index). `[Delphi]` DIUcl is a lossless compression library with extremely fast and small (200 bytes only!) ASM decompressor. Compression times and ratios are similar to those of deflate/zip and bzip2. Delphi port of the popular UCL Compression Library, which is also used by the popular and well known UPX Ultimate Packer for eXecutables.
 
 
+* [LZMA2 Delphi](https://github.com/ansidium/lzma2-delphi). `[Delphi]` Pure Delphi port of the LZMA SDK with stream APIs for LZMA, LZMA2, XZ, and a subset of 7z. Win32 and Win64.
+
 ## Encryption
 
 * [Delphi Encryption Compendium (DEC)](https://github.com/MHumm/DelphiEncryptionCompendium). `[Delphi]` `[FPC]` Cryptographic library for Delphi & C++ Builder. Symmetric cryptographic functions: Blowfish, Twofish, IDEA, Cast128, Cast256, Mars, RC2, RC4, RC5, RC6, Rijndael / AES, Square, SCOP, Sapphire, 1DES, 2DES, 3DES, 2DDES, 3DDES, 3TDES, 3Way, Gost, Misty, NewDES, Q128, SAFER, Shark, Skipjack, TEA, TEAN; Block cipher modes of operation: CTSx, CBCx, CFB8, CFBx, OFB8, OFBx, CFSx, ECBx, GCM; Hashes: MD2, MD4, MD5, RipeMD128, RipeMD160, RipeMD256, RipeMD320, SHA, SHA1, SHA224, SHA256, SHA384, SHA512, SHA3-224, SHA3-256, SHA3-384, SHA3-512, Shake128, Shake256, Haval128, Haval160, Haval192, Haval224, Haval256, Tiger, Panama, Whirlpool, Whirlpool1, WhirlpoolT, Square, Snefru128, Snefru256, Sapphire.
