@@ -840,6 +840,8 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 * [delphi-yaml](https://github.com/ashumkin/delphi-yaml). `[Delphi]` Delphi 7 compatible bindings for libyaml, YAML parser and emitter library implemented in C. Four layers of bindings are proposed.
 
+* [encoding.json](https://github.com/ijache/encoding.json). `[Delphi]` Encodes/Decodes JSON from/into Delphi types. Single unit, inspired by golang's encoding.json package.
+
 * [GrijjyFoundation](#general-libraries). JSON/BSON.
 
 * [VerySimpleXML](https://github.com/Dennis1000/verysimplexml). `[Delphi]` Lightweight, one-unit, cross-platform XML reader/writer for Delphi 2010 - 10.2.2 Tokyo
